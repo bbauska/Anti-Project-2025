@@ -1,5 +1,5 @@
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<h1>Subject-by-Subject Breakdown of Koch's (Trump’s &amp; Heritage Foundation) Project 2025</h1>
+<h1>Subject-by-Subject Breakdown of Koch's, Trump’s, &amp; the Heritage Foundation's Project 2025</h1>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p>Project 2025 is the blueprint for Trump and MAGA Republicans to gut checks and balances so that
 they can take over the government, impose their agenda, and control every American. They plan
