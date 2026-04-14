@@ -1,145 +1,212 @@
-/* css/styles.css of sticky-notes making sticky-notes.bauska.org */
-@import url("https://fonts.googleapis.com/css2?family=Grape+Nuts&family=Norican&display=swap");
-*,
-*::before,
-*::after {
-  box-sizing: border-box;
-  margin: 0;
-  padding: 0;
+/* css/styles.css of w3cx-5of5 */
+img.displayed {
+  display: block;
+  margin: 0 auto; 
+}
+.border {
+  border-width: 1px;
+  border-color: #778899;  /* dark grayish blue */
+  border-style: solid; 
 }
 
-ul,
-ol {
-  list-style: none;
-  font-family: "Grape Nuts", cursive;
-  font-size: 2.4rem;
-  color: midnightblue;
+ul li {
+  font-size: 14.5px;
+  font-family: Bahnschrift, Inter, Helvetic, sans-serif;
+  padding: 10px;  /* 14.5px */
+  line-height:110%;
+}
+ol li {
+  font-size: 14.5px;
+  font-family: Bahnschrift, Inter, Helvetic, sans-serif;
+  padding: 10px;  /* 14.5px */
+  line-height:110%;
 }
 
-html {
-  font-size: 62.5%;
+p { 
+  font-size: 14.5px;
+  font-family: Bahnschrift, Inter, Helvetic, sans-serif;
+  text-align: left;
+  margin-left: 15px;  /* 10px */
 }
-@media only screen and (max-width: 624px) {
-  html {
-    font-size: 50%;
-  }
+
+a:link {
+  color: #013220;  /* Very dark (mostly black) cyan - lime green */
+  background-color: transparent;
+  text-decoration: none;
 }
-html body {
-  font-size: 1.6rem;
-  min-height: 100vh;
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  background-image: linear-gradient(to bottom right, rgba(255, 255, 255, 0.3), rgba(0, 0, 0, 0.3)), url(https://assets.codepen.io/2509128/paper.jpeg);
+a:visited {
+  color: #037d50;  /* dark cyan - lime green */
+  background-color: transparent;
+  text-decoration: none;
+}
+a:hover {
+  color: #000000;  /* black */
+  background-color: #ffff00;  /* pure (or mostly pure) yellow */
+  text-decoration: underline;
+}
+a[href]:hover {
+  text-decoration: underline; 
+  text-decoration-color: #0000ff;  /* pure (or mostly pure) blue */
+}
+
+div {
+  float: left;
 }
 
 h1 {
-  margin-top: 2rem;
-  font-family: "Norican", cursive;
-  color: yellow;  /* saddlebrown */
-  position: relative;
-  display: flex;
-  align-items: center;
-  font-size: 4rem;
+  font-size: 21px;
+  font-family: Bahnschrift, Inter, Helvetic, sans-serif, Consolas;
+  text-align: center;
 }
-h1::before, h1::after {
-  content: "";
-  display: block;
-  width: 5rem;
-  height: 2px;
-  background-color: white;  /* currentColor */
-  margin: 0 1rem;
+h2 {
+  font-size: 18px;
+  font-family: Bahnschrift, Inter, Helvetic, sans-serif, Consolas;
+  margin-left: 15px;  /* 10px */
+}
+h3 {
+  font-size: 17px;
+  font-family: Bahnschrift, Inter, Helvetic, sans-serif, Consolas;
+  margin-left: 15px;
+}
+h4 { 
+  font-size: 16px;
+  font-family: Bahnschrift, Inter, Helvetic, sans-serif, Consolas; 
+  margin-left: 15px;
+}
+h5 { 
+  font-size: 15px;
+  font-family: Bahnschrift, Inter, Helvetic, sans-serif, Consolas; 
+  margin-left: 15px;
+}
+h6 { 
+  font-size: 10px;
+  font-family: Bahnschrift, Inter, Helvetic, sans-serif;
+  margin-left: 15px;
 }
 
-ul:not(ul ul) {
-  padding: 2rem;
-  padding-bottom: 4rem;
-  display: grid;
-  grid-template-columns: max-content;
-  z-index: 1;
-  position: relative;
-  perspective: 50vw;
-  transform-style: preserve-3d;
+details {
+  font: 14px Bahnschrift, Inter, sans-serif, Calibri;
+  width: 65%;  /* max-content */
 }
-ul:not(ul ul) .done {
-  text-decoration: line-through;
-}
-ul:not(ul ul) > li {
-  --levitate: 0;
-  padding: 1.2rem 2rem;
-  background-color: pink;
-  position: relative;
-  transform-style: preserve-3d;
+details > summary {
+  padding: 2px 6px;
+  width: 12em;  /* 12em; */
+  background-color: #eee;  /* very light gray */
+  border: none;
+  box-shadow: 3px 3px 4px #00008b;  /* dark blue */
   cursor: pointer;
-  position: relative;
-  transition: transform 0.3s;
+  margin-left: 15px;  /* 10px */
 }
-ul:not(ul ul) > li::after {
-  content: "";
-  pointer-events: none;
+details > p {
+  border-radius: 0 0 10px 10px;
+  background-color: #fff;  /* white */
+  padding: 2px 6px;
+  margin: 0;
+  box-shadow: 3px 3px 4px #00008b;  /* dark blue */
+}
+details[open] > summary {
+  background-color: #ffff00;  /* pure (or mostly pure) yellow */
+}
+
+background: linear-gradient(60deg, #3d3393 0%, #2b76b9 37%, #2cacd1 65%, #35eb93 100%)
+
+body {
+  font-family: Bahnschrift, Inter, Helvetic, sans-serif;
+  font-size: 13.5px;  /* 14.5, 1.2rem; */
+  background-color: #eee;  /* very light gray */
+  color: #000;  /* black */
+  text-align: left;
+  padding: 10px;
+  margin: 15px;  /* was margin-left: 10px; */
+}
+
+#myBtn {
+  display: none;
+  position: fixed;
+  bottom: 20px;
+  right: 30px;
+  z-index: 99;
+  font-size: 11px;
+  border: none;
+  outline: none;
+  background-color: #8b0000;  /* dark red */
+  color: #fdfeff;  /* very pale (mostly white) blue */
+  cursor: pointer;
+  padding: 10px;
+  border-radius: 1px;
+}
+#myBtn:hover {
+  background-color: #555;  /* very dark gray */
+}
+
+pre > code {
   display: block;
-  position: absolute;
-  width: 100%;
-  height: 100%;
-  left: 0;
-  top: 0;
-  opacity: 0;
-  transition: opacity 0.3s;
-  z-index: 1;
-  mix-blend-mode: overlay;
-  background-image: linear-gradient(to left, #ffe4b2, #c8b188);
+  margin-left: 15px;  /* 10px */
+  padding: 1rem;
+  word-wrap: normal;
 }
-ul:not(ul ul) > li:hover {
-  --levitate: 1;
+pre {
+  font:normal normal 10px/12px consolas,Courier,Monospace;
+  background-color:#eee;
+  overflow:auto;
+  margin:0 0 1em;
+  padding:.5em 1em;
+  white-space: pre-wrap;
+  overflow-x: auto;
 }
-ul:not(ul ul) > li:hover::before {
-  transform: translate3d(6rem, 1rem, -1px) scale(calc(1 - var(--levitate) * 0.1)) rotate(1.5deg);
-  filter: blur(8px);
+pre code,
+pre .line-number {
+  /* Ukuran line-height antara teks di dalam tag <code> dan <span class="line-number"> harus sama! */
+  font:normal normal 10px/12px consolas,Courier,Monospace;
+  color:#000;
+  display:block;
 }
-ul:not(ul ul) > li:hover::after {
-  opacity: 0.6;
+pre .line-number {
+  font:normal normal 10px/12px consolas,Courier,Monospace;
+  float:left;
+  margin:0 1em 0 -1em;
+  border-right:1px solid;
+  text-align:right;
+  color: #ff0000;  /* pure (or mostly pure) red */
 }
-ul:not(ul ul) > li.big {
-  background-color: lightgreen;
-  padding: 1.6rem 2rem;
-  padding-bottom: 3rem;
+pre .line-number span {
+  display:block;
+  padding:0 .5em 0 1em;
 }
-ul:not(ul ul) > li ul {
-  margin-top: 0.5em;
-  margin-left: 1em;
-  font-size: 0.8em;
+pre .cl {
+  display:block;
+  clear:both;
 }
-ul:not(ul ul) > li ul li {
-  z-index: 1;
+pre {
+  width: 450px;
+  overflow: auto;
 }
-ul:not(ul ul) > li ul li:first-letter {
-  font-size: 1.4em;
+pre[href]:hover  {
+  text-decoration: none;
 }
-ul:not(ul ul) > li:not(:first-of-type) {
-  margin-top: 3rem;
+pre:hover, pre:focus { 
+  width: 450px; 
 }
-ul:not(ul ul) > li:nth-child(3n) {
-  transform: translate3d(-5px, calc(var(--levitate) * -5px), calc(var(--levitate) * 3rem)) rotate(-0.6deg) rotateX(calc(var(--levitate) * 6deg)) rotateY(calc(var(--levitate) * -3deg));
+
+th, td {
+  border: 1px solid #000;
 }
-ul:not(ul ul) > li:nth-child(3n-1) {
-  transform: translate3d(7px, calc(var(--levitate) * -5px), calc(var(--levitate) * 3rem)) rotate(-0.5deg) rotateX(calc(var(--levitate) * 6deg)) rotateY(calc(var(--levitate) * -3deg));
+table {
+  border-collapse: collapse;
+  margin-left: 15px;
+  border: 1px solid #000;
 }
-ul:not(ul ul) > li:nth-child(3n-2) {
-  transform: translate3d(0px, calc(var(--levitate) * -5px), calc(var(--levitate) * 3rem)) rotate(0.5deg) rotateX(calc(var(--levitate) * 6deg)) rotateY(calc(var(--levitate) * -3deg));
+
+@media all and (max-width: 500px) {
+  img.frame { 
+    border-width: 0px;
+    width: 100%; }
 }
-ul:not(ul ul) > li::before {
-  content: "";
-  display: block;
-  position: absolute;
-  width: 100%;
-  height: 100%;
-  left: 0;
-  top: 0;
-  transition: all 0.3s;
-  height: calc(100% - 2px);
-  background-color: rgba(255, 255, 255, 0.4);  /* rgba(0, 0, 0, 0.4) */
-  z-index: -1;
-  transform-origin: bottom left;
-  transform: translate3d(8px, 2px, -1px) rotate(1deg);
-  filter: blur(2px);
+@media screen and (max-width: 900px) and (min-width: 600px), (min-width: 1100px) {
+  div.example {
+    font-size: 50px;
+    padding: 50px;
+    border: 8px solid #000;  /* black */
+    background: #ffff00;  /* pure (or mostly pure) yellow */
+  }
 }
