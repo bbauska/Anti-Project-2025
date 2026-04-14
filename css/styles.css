@@ -36,7 +36,7 @@ html body {
 h1 {
   margin-top: 2rem;
   font-family: "Norican", cursive;
-  color: saddlebrown;
+  color: yellow;  /* saddlebrown */
   position: relative;
   display: flex;
   align-items: center;
@@ -47,7 +47,7 @@ h1::before, h1::after {
   display: block;
   width: 5rem;
   height: 2px;
-  background-color: currentColor;
+  background-color: white;  /* currentColor */
   margin: 0 1rem;
 }
 
@@ -137,7 +137,7 @@ ul:not(ul ul) > li::before {
   top: 0;
   transition: all 0.3s;
   height: calc(100% - 2px);
-  background-color: rgba(0, 0, 0, 0.4);
+  background-color: rgba(255, 255, 255, 0.4);  /* rgba(0, 0, 0, 0.4) */
   z-index: -1;
   transform-origin: bottom left;
   transform: translate3d(8px, 2px, -1px) rotate(1deg);
