@@ -1,5 +1,3 @@
-# Anti-Project-2025
-Subject-by-Subject Breakdown of Koch's, Trump’s,  &amp;amp; Heritage Foundation's Project 2025.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h1>Subject-by-Subject Breakdown of Koch's (Trump’s &amp; Heritage Foundation) Project 2025</h1>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
@@ -3114,28 +3112,28 @@ Biden-proposed rules.” [Department of Labor and Related Agencies, Project 2025
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <ul style="list-style-type:none;">
   <li>✔ Eliminates the Department of Education.</li>
-  <li>✔ Recommends signing into law the Department of Education Reorganization Act (or Liquidating
-Authority Act) to direct the executive branch on how to devolve the agency as a stand-alone
-Cabinet-level department.</li>
+  <li>✔ Recommends signing into law the Department of Education Reorganization Act (or Liquidating 
+    Authority Act) to direct the executive branch on how to devolve the agency as a stand-alone
+    Cabinet-level department.</li>
   <li>✔ Cuts programs managed by the Office of Elementary and Secondary Education.</li>
   <li>✔ Cuts Title 1 programs by 10%, fully phasing out federal spending after 10 years.</li>
   <li>✔ Eliminates the Head Start Program.</li>
   <li>✔ Allows States to Opt Out Of Federal Education Programs.</li>
   <li>✔ Transfers all Indian education programs to the Bureau of Indian Education.</li>
-  <li>✔ Calls for the funding of institutions to be block-granted and narrowed to HBCUs and tribally
-controlled colleges.</li>
+  <li>✔ Calls for the funding of institutions to be block-granted and narrowed to HBCUs and tribally 
+    controlled colleges.</li>
   <li>✔ Makes student data available by family structure.</li>
-  <li>✔ Rescinds new requirements for charter schools to receive federal grants that were implemented
-by the Biden administration.</li>
+  <li>✔ Rescinds new requirements for charter schools to receive federal grants that were implemented 
+    by the Biden administration.</li>
   <li>✔ Prevents Critical Race Theory from being taught or discussed in schools.</li>
-  <li>✔ Cuts off federal funding for anyone who disagrees that “Schools serve parents, not the other way
-around”.</li>
-  <li>✔ Mandates court hearings for families who claim the federal government enforces any policy
-against parents in a way that “undermines their right and responsibility to raise, educate, and care
-for their children.”</li>
-  <li>✔ Eliminates the GEAR UP program, which provides grants to states and partnerships to provide
-services in high-poverty middle and high schools, and to provide college scholarships to low-
-income students.</li>
+  <li>✔ Cuts off federal funding for anyone who disagrees that “Schools serve parents, not the other way 
+    around”.</li>
+  <li>✔ Mandates court hearings for families who claim the federal government enforces any policy 
+    against parents in a way that “undermines their right and responsibility to raise, educate, and 
+    care for their children.”</li>
+  <li>✔ Eliminates the GEAR UP program, which provides grants to states and partnerships to provide 
+    services in high-poverty middle and high schools, and to provide college scholarships to low-
+    income students.</li>
 </ul>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h3>Student Aid</h3>
@@ -3144,11 +3142,11 @@ income students.</li>
   <li>✔ Privatizes student loans and grants.</li>
   <li>✔ Limits student loan forgiveness and rescinds existing programs.</li>
   <li>✔ Terminates the Public Service Loan Forgiveness program and eliminates time and occupation-
-based student loan forgiveness.</li>
-  <li>✔ Recommends repealing the power of the Secretary to cancel, compromise, discharge, or forgive
-student loans to modify the repayment amounts or terms of Title IV student loans.</li>
-  <li>✔ Eliminates the PLUS loan program, which gives loans to graduate students and parents of
-undergraduate students.</li>
+    based student loan forgiveness.</li>
+  <li>✔ Recommends repealing the power of the Secretary to cancel, compromise, discharge, or forgive 
+    student loans to modify the repayment amounts or terms of Title IV student loans.</li>
+  <li>✔ Eliminates the PLUS loan program, which gives loans to graduate students and parents of 
+    undergraduate students.</li>
 </ul>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h3>Special Education</h3>
@@ -3156,48 +3154,49 @@ undergraduate students.</li>
 <ul style="list-style-type:none;">
   <li>✔ Calls for “most IDEA funding” to be converted into a no-strings formula block grant.</li>
   <li>✔ Phases out earmarks for a variety of special institutions.</li>
-  <li>✔ Rescinds the regulation that says under Part B of IDEA that requires states to consider race and
-ethnicity in the disciplining of students with disabilities.</li>
+  <li>✔ Rescinds the regulation that says under Part B of IDEA that requires states to consider 
+    race and ethnicity in the disciplining of students with disabilities.</li>
   <li>✔ Rescinds the Equity in IDEA regulation.</li>
 </ul>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h3>Title IX, Title VI, and Athletics</h3>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <ul style="list-style-type:none;">
-  <li>✔ Rescinds the Biden administration’s Title IX regulations and restore those made by Betsy DeVos
-in 2020, and define “sex” to mean biological sex at birth.</li>
-  <li>✔ Narrows the definition of sexual harassment and directs schools to conduct live hearings with
-cross-examination for sexual misconduct investigations.</li>
+  <li>✔ Rescinds the Biden administration’s Title IX regulations and restore those made by Betsy 
+    DeVos in 2020, and define “sex” to mean biological sex at birth.</li>
+  <li>✔ Narrows the definition of sexual harassment and directs schools to conduct live hearings 
+    with cross-examination for sexual misconduct investigations.</li>
   <li>✔ Strengthens protections for faith-based educational institutions, programs, and activities.</li>
-  <li>✔ Calls for the next Administration to abandon the change redefining ‘sex’ to mean ‘sexual
-orientation and gender identity.</li>
-  <li>✔ Calls for a regulation that said Title VI of the Civil Rights Act does not include a disparate impact
-standard.</li>
-  <li>✔ Directs the next Administration to take sweeping action to assure that the purpose of the Civil
-Rights Act is not inverted through a disparate impact standard to provide a pretext for
-“theoretically endless federal meddling”.</li>
+  <li>✔ Calls for the next Administration to abandon the change redefining ‘sex’ to mean ‘sexual 
+    orientation and gender identity.</li>
+  <li>✔ Calls for a regulation that said Title VI of the Civil Rights Act does not include a disparate 
+    impact standard.</li>
+  <li>✔ Directs the next Administration to take sweeping action to assure that the purpose of the 
+    Civil Rights Act is not inverted through a disparate impact standard to provide a pretext for 
+    “theoretically endless federal meddling”.</li>
 </ul>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h3>Higher Education Act</h3>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <ul style="list-style-type:none;">
-  <li>✔ Prohibits accreditation agencies from “leveraging their Title IV gatekeeper role to mandate that
-educational institutions adopt diversity, equity, and inclusion policies.”</li>
-  <li>✔ Does not allow accreditation agencies to require standards that “undermine the religious beliefs of
-or require policies or conduct that conflict with” religious mission or beliefs of said institution.</li>
-  <li>✔ Calls for an executive order pursuing antitrust against college accreditors, especially the
-American Bar Association (ABA).</li>
+  <li>✔ Prohibits accreditation agencies from “leveraging their Title IV gatekeeper role to mandate 
+    that educational institutions adopt diversity, equity, and inclusion policies.”</li>
+  <li>✔ Does not allow accreditation agencies to require standards that “undermine the religious 
+    beliefs of or require policies or conduct that conflict with” religious mission or beliefs of 
+    said institution.</li>
+  <li>✔ Calls for an executive order pursuing antitrust against college accreditors, especially 
+    the American Bar Association (ABA).</li>
 </ul>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h3>Gender Identity</h3>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <ul style="list-style-type:none;">
   <li>✔ Prohibits public education employees or contractors from using a name to address a student
-other than that listed on a student’s birth certificate or pronoun addressing a student if different
-from student’s biological sex without written permission.</li>
-  <li>✔ Allows education employees or contractors to not use a student’s preferred pronoun if it does not
-match that person’s biological sex if it is contrary to that employee’s religious or moral
-convictions.</li>
+    other than that listed on a student’s birth certificate or pronoun addressing a student if different
+    from student’s biological sex without written permission.</li>
+  <li>✔ Allows education employees or contractors to not use a student’s preferred pronoun if it 
+    does not match that person’s biological sex if it is contrary to that employee’s religious or moral 
+    convictions.</li>
 </ul>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h3>Eliminate DOE</h3>
@@ -3820,6 +3819,7 @@ provide college scholarships to low-income students.” [U.S. Department of Educ
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h4>Top Lines</h4>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<ul style="list-style-type:none;">
 ✔ Would implement work requirements for food stamps
 ✔ Would increase the cost of crop insurance for farmers
 ✔ Would eliminate some federal meat inspections, endangering the health of consumers
@@ -3831,34 +3831,34 @@ food stamps
 ✔ Would gut federal dietary guidelines
 ✔ Would eliminate the requirement that GMOs be labeled
 
-Project 2025 recommended “installing work requirements for food stamps” to reverse the “family
+<p>Project 2025 recommended “installing work requirements for food stamps” to reverse the “family
 crisis” in the U.S. “Furthermore, the next conservative President must understand that using government
 alone to respond to symptoms of the family crisis is a dead end. Federal power must instead be wielded
 to reverse the crisis and rescue America’s kids from familial breakdown. The Conservative Promise
 includes dozens of specific policies to accomplish this existential task. Some are obvious and long-
 standing goals like eliminating marriage penalties in federal welfare programs and the tax code and
-installing work requirements for food stamps.” [Foreword, Project 2025, accessed 6/24/24]
-Project 2025 proposes to increase the cost of crop insurance on farmers and reduce aid for
+installing work requirements for food stamps.” [Foreword, Project 2025, accessed 6/24/24]</p>
+
+<p>Project 2025 proposes to increase the cost of crop insurance on farmers and reduce aid for
 farmers to cover the cost of their insurance premiums. “Reduce the premium subsidy rate for crop
 insurance. On average, taxpayers cover about 60 percent of the premium cost for policies purchased in
 the federal crop insurance program. One of the most widely supported and bipartisan policy reforms is to
-reduce the premium subsidy that taxpayers are forced to pay.” [USDA, Project 2025 accessed 6/24/24]
+reduce the premium subsidy that taxpayers are forced to pay.” [USDA, Project 2025 accessed 6/24/24]</p>
 
-Project 2025 proposes eliminate some federal meat inspections allowing for state inspected meat
+<p>Project 2025 proposes eliminate some federal meat inspections allowing for state inspected meat
 to be sold across state lines without federal approval. “The next Administration should ‘promote
 legislation that would allow state-inspected meat to be sold in interstate commerce. These barriers to the
 sale of meat and poultry from USDA-approved state-inspected facilities should be removed.” [USDA,
-Project 2025, accessed 6/24/24]
+Project 2025, accessed 6/24/24]</p>
 
-Project 2025 proposes the Federal Dietary Guidelines. “Nutrition and dietary choices are best left to
+<p>Project 2025 proposes the Federal Dietary Guidelines. “Nutrition and dietary choices are best left to
 individuals to address their personal needs…. The next Administration should: Work with lawmakers to
-repeal the Dietary Guidelines.” [USDA, Project 2025, accessed 6/24/24]
+repeal the Dietary Guidelines.” [USDA, Project 2025, accessed 6/24/24]</p>
 
-Project 2025 proposes to eliminate the requirement that Genetically Modified Foods be labeled.
+<p>Project 2025 proposes to eliminate the requirement that Genetically Modified Foods be labeled.
 “Repeal the federal labeling mandate. The USDA should work with Congress to repeal the federal
 labeling law, while maintaining federal preemption, and stress that voluntary labeling is allowed.” [USDA,
-Project 2025, accessed 6/24/24]
-
+Project 2025, accessed 6/24/24]</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h3>Homeland Security</h3>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
@@ -3866,111 +3866,119 @@ Project 2025, accessed 6/24/24]
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h3>DHS</h3>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-✔ Would “dismantle the Department of Homeland Security.”
-✔ Would privatize the TSA
-✔ Privatize FEMA’s National Flood Insurance Program, leaving majority of responsibility to states 
-  and localities.
-✔ Eliminate most DHS grant programs
-✔ Remove all DHS unions
-✔ Eliminate DHS Office of Intelligence and Analysis.
-✔ Argued for the circumvention of Senate-confirmed appointments by placings nominees for key 
-  positions in an “Acting” capacity.
-✔ Replacing the entirety of the Homeland Security Advisory Committee
-Immigration
-✔ Restart and expand horseback-mounted border patrol.
-✔ Recommended not increasing H-2B visas above a set cap.
-✔ Eliminate T and U visas because “victimization should not be a basis for an immigration benefit.”
-✔ ICE should have a “significant increase in detention space.”
-✔ Repeal of diversity visa lottery and chain migration.
-✔ Called for repeal of Temporary Protected Status designations.
-✔ Being a victim or being in fear of gang violence and domestic violence should not be grounds for
-asylum and the standard for a credible fear of prosecution should be raised.
-✔ Congress should authorize state and local law enforcement to participate in immigration and
-border enforcement.
-✔ Congress should restrict authority for prosecutorial discretion for immigration enforcement.
-✔ Eliminate the Office of the Immigration Detention Ombudsman.
-✔ The Office of the Citizenship and Immigration Services Ombudsman should be eliminated.
-✔ Would work with Education Department to deny loan access to students at schools that provide
-in-state tuition to undocumented immigrants.
+<ul style="list-style-type:none;">
+  <li>✔ Would “dismantle the Department of Homeland Security.”</li>
+  <li>✔ Would privatize the TSA.</li>
+  <li>✔ Privatize FEMA’s National Flood Insurance Program, leaving majority of responsibility to 
+    states and localities.</li>
+  <li>✔ Eliminate most DHS grant programs.</li>
+  <li>✔ Remove all DHS unions</li>
+  <li>✔ Eliminate DHS Office of Intelligence and Analysis.</li>
+  <li>✔ Argued for the circumvention of Senate-confirmed appointments by placings nominees for key 
+    positions in an “Acting” capacity.</li>
+  <li>✔ Replacing the entirety of the Homeland Security Advisory Committee Immigration.</li>
+  <li>✔ Restart and expand horseback-mounted border patrol.</li>
+  <li>✔ Recommended not increasing H-2B visas above a set cap.</li>
+  <li>✔ Eliminate T and U visas because “victimization should not be a basis for an immigration benefit.”</li>
+  <li>✔ ICE should have a “significant increase in detention space.”</li>
+  <li>✔ Repeal of diversity visa lottery and chain migration.</li>
+  <li>✔ Called for repeal of Temporary Protected Status designations.</li>
+  <li>✔ Being a victim or being in fear of gang violence and domestic violence should not be grounds for 
+    asylum and the standard for a credible fear of prosecution should be raised.</li>
+  <li>✔ Congress should authorize state and local law enforcement to participate in immigration and 
+    border enforcement.</li>
+  <li>✔ Congress should restrict authority for prosecutorial discretion for immigration enforcement.</li>
+  <li>✔ Eliminate the Office of the Immigration Detention Ombudsman.</li>
+  <li>✔ The Office of the Citizenship and Immigration Services Ombudsman should be eliminated.</li>
+  <li>✔ Would work with Education Department to deny loan access to students at schools that provide 
+    in-state tuition to undocumented immigrants.</li>
+</ul>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h3>FEMA</h3>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-✔ Raise the threshold at which states and localities are eligible for FEMA assistance.
-✔ Recommend federal government cover 25% of costs for small disasters, with a ceiling of 75% for those that are “truly catastrophic.”
-✔ NFIP should be wound down and replaced with private insurance.
+<ul style="list-style-type:none;">
+  <li>✔ Raise the threshold at which states and localities are eligible for FEMA assistance.</li>
+  <li>✔ Recommend federal government cover 25% of costs for small disasters, with a ceiling of 
+    75% for those that are “truly catastrophic.”</li>
+  <li>✔ NFIP should be wound down and replaced with private insurance.</li>
+</ul>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h3>Secret Service</h3>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-✔ Would have USSS keep visitor logs for anywhere president works or resides.
-✔ Recommend all agents outside Washington, DC be transferred to ICE field offices.
+<ul style="list-style-type:none;">
+  <li>✔ Would have USSS keep visitor logs for anywhere president works or resides.</li>
+  <li>✔ Recommend all agents outside Washington, DC be transferred to ICE field offices.</li>
+</ul>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h3>TSA</h3>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-✔ Force TSA’s workforce to deunionize until it is privatized.
+<ul style="list-style-type:none;">
+  <li>✔ Force TSA’s workforce to deunionize until it is privatized.</li>
+</ul>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h3>Eliminate DHS</h3>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-Project 2025 recommended that the next president “pursue legislation to dismantle the
+<p>Project 2025 recommended that the next president “pursue legislation to dismantle the
 Department of Homeland Security.” “Our primary recommendation is that the President pursue
 legislation to dismantle the Department of Homeland Security (DHS). After 20 years, it has not gelled into
 ‘One DHS.’ Instead, its various components’ different missions have outweighed its decades-long attempt
 to function as one department, rendering the whole disjointed rather than cohesive. Breaking up the
 department along its mission lines would facilitate mission focus and provide opportunities to reduce
 overhead and achieve more limited government.” [Department of Homeland Security, Project 2025,
-accessed 6/24/24]
+accessed 6/24/24]</p>
 
-Project 2025 recommended CBP, ICE, USCIS, ORR, and the EOIR merge into a standalone border
+<p>Project 2025 recommended CBP, ICE, USCIS, ORR, and the EOIR merge into a standalone border
 and immigration Cabinet-level agency. “l U.S. Customs and Border Protection (CBP) be combined with
 Immigration and Customs Enforcement (ICE); U.S. Citizenship and Immigration Services (USCIS); the
 Department of Health and Human Services (HHS) Office of Refugee Resettlement (ORR); and the
 Department of Justice (DOJ) Executive Office for Immigration Review (EOIR) and Office of Immigration
 Litigation (OIL) into a standalone border and immigration agency at the Cabinet level (more than 100,000
 employees, making it the third largest department measured by manpower).” [Department of Homeland
-Security, Project 2025, accessed 6/24/24]
+Security, Project 2025, accessed 6/24/24]</p>
 
-Project 2025 recommended CISA be moved to DOT. “The Cybersecurity and Infrastructure Security
+<p>Project 2025 recommended CISA be moved to DOT. “The Cybersecurity and Infrastructure Security
 Agency (CISA) be moved to the Department of Transportation.” [Department of Homeland Security,
-Project 2025, accessed 6/24/24]
+Project 2025, accessed 6/24/24]</p>
 
-Project 2025 recommended moving FEMA to either DOI or DOT if combined with CISA. “The
+<p>Project 2025 recommended moving FEMA to either DOI or DOT if combined with CISA. “The
 Federal Emergency Management Agency (FEMA) be moved to the Department of the Interior or, if
 combined with CISA, to the Department of Transportation.” [Department of Homeland Security, Project
-2025, accessed 6/24/24]
+2025, accessed 6/24/24]</p>
 
-Project 2025 called for U.S. Coast Guard to be moved to DOJ or to DOD. “The U.S. Coast Guard
+<p>Project 2025 called for U.S. Coast Guard to be moved to DOJ or to DOD. “The U.S. Coast Guard
 (USCG) be moved to DOJ and, in time of full-scale war (i.e., threatening the homeland), to the
 Department of Defense (DOD). Alternatively, USCG should be moved to DOD for all purposes.”
-[Department of Homeland Security, Project 2025, accessed 6/24/24]
+[Department of Homeland Security, Project 2025, accessed 6/24/24]</p>
 
-Project 2025 would split Secret Service into two, with protective element moved to DOJ while
+<p>Project 2025 would split Secret Service into two, with protective element moved to DOJ while
 financial enforcement moved to Treasury. “The U.S. Secret Service (USSS) be divided in two, with the
 protective element moved to DOJ and the financial enforcement element moved to the Department of the
-Treasury.” [Department of Homeland Security, Project 2025, accessed 6/24/24]
+Treasury.” [Department of Homeland Security, Project 2025, accessed 6/24/24]</p>
 
-Project 2025 called for the privatization of the TSA. “The Transportation Security Administration (TSA)
+<p>Project 2025 called for the privatization of the TSA. “The Transportation Security Administration (TSA)
 be privatized.” [Department of Homeland Security, Project 2025, accessed 6/24/24]
 Project 2025 recommended the Science and Technology Directorate be moved to DOD and the
 Office of Countering Weapons of Mass Destruction to the FBI. “The Science and Technology
 Directorate (S&T) be moved to DOD and the Office of Countering Weapons of Mass Destruction be
-moved to the FBI.” [Department of Homeland Security, Project 2025, accessed 6/24/24]
+moved to the FBI.” [Department of Homeland Security, Project 2025, accessed 6/24/24]</p>
 
-Project 2025 recommended the other components not mentioned at DHS could be dismantled. “All
+<p>Project 2025 recommended the other components not mentioned at DHS could be dismantled. “All
 of the remaining supporting components could be dismantled because their functions already exist in the
 moving components as well as the receiving departments. Cutting these costs would save the American
-taxpayers significant sums.” [Department of Homeland Security, Project 2025, accessed 6/24/24]
+taxpayers significant sums.” [Department of Homeland Security, Project 2025, accessed 6/24/24]</p>
 
-Project 2025 recommended privatizing TSA screening and FEMA’s National Flood Insurance
+<p>Project 2025 recommended privatizing TSA screening and FEMA’s National Flood Insurance
 Program, shifting the majority of preparedness and response costs to states and localities. “The
 bloated DHS bureaucracy and budget, along with the wrong priorities, provide real opportunities for a
-conservative Administration to cut billions in spending and limit government’s role in Americans’ lives.
+conservative Administration to cut billions in spending and limit government’s role in Americans’ lives.</p>
 
-These opportunities include privatizing TSA screening and the Federal Emergency Management Agency
+<p>These opportunities include privatizing TSA screening and the Federal Emergency Management Agency
 (FEMA) National Flood Insurance Program, reforming FEMA emergency spending to shift the majority of
 preparedness and response costs to states and localities instead of the federal government, eliminating
 most of DHS’s grant programs, and removing all unions in the department for national security purposes.”
-[Department of Homeland Security, Project 2025, accessed 6/24/24]
+[Department of Homeland Security, Project 2025, accessed 6/24/24]</p>
 
-Project 2025 recommended “eliminating most of DHS’s grant programs, and removing all unions
+<p>Project 2025 recommended “eliminating most of DHS’s grant programs, and removing all unions
 in the department for national security purposes.” “The bloated DHS bureaucracy and budget, along
 with the wrong priorities, provide real opportunities for a conservative Administration to cut billions in
 spending and limit government’s role in Americans’ lives. These opportunities include privatizing TSA
@@ -3978,38 +3986,37 @@ screening and the Federal Emergency Management Agency (FEMA) National Flood Insu
 reforming FEMA emergency spending to shift the majority of preparedness and response costs to states
 and localities instead of the federal government, eliminating most of DHS’s grant programs, and removing
 all unions in the department for national security purposes.” [Department of Homeland Security, Project
-2025, accessed 6/24/24]
+2025, accessed 6/24/24]</p>
 
-Project 2025 recommended consolidating ICE and CBP to create a Border Security and
+<p>Project 2025 recommended consolidating ICE and CBP to create a Border Security and
 Immigration Agency if all immigration agencies aren’t merged. “If all immigration agencies are not
 merged, including USCIS and ORR, then an appropriate third alternative would be to consolidate ICE and
 CBP to form a combined Border Security and Immigration Agency (BSIA). This would integrate critical
 interdiction, enforcement, and investigative resources, enhancing coordination and refocusing collective
 efforts on the vast and complex cross-border threats impacting our nation’s health, safety, and national
-security.” [Department of Homeland Security, Project 2025, accessed 6/24/24]
+security.” [Department of Homeland Security, Project 2025, accessed 6/24/24]</p>
 
-Project 2025 recommended the elimination of DHS’s Office of Intelligence and Analysis. “The
+<p>Project 2025 recommended the elimination of DHS’s Office of Intelligence and Analysis. “The
 Office of Intelligence and Analysis should be eliminated both because it has not added value and
 because it has been weaponized for domestic political purposes. The Intelligence Community (IC) already
 provides raw intelligence to DHS components. In addition, the FBI, National Counter Terrorism Center,
 and other agencies where necessary already provide holistic threat assessment products to federal,
 state, local, tribal, and territorial governments as well as to private-sector entities at both the classified
 and unclassified levels where appropriate.” [Department of Homeland Security, Project 2025, accessed
-6/24/24]
-
+6/24/24]</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h3>Personnel</h3>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-Project 2025 said DHS’s functions would improve if the next Secretary had their own dedicated
+<p>Project 2025 said DHS’s functions would improve if the next Secretary had their own dedicated
 team of political appointees selected and vetted by OPP. “Expansion of Dedicated Political Personnel.
 The Secretary of Homeland Security is a presidentially appointed and Senate-confirmed political
 appointee, but for budgetary reasons, he or she has historically been unable to fund a dedicated team of
 political appointees. A key first step for the Secretary to improve front-office functions is to have his or her
 own dedicated team of political appointees selected and vetted by the Office of Presidential Personnel,
 which is not reliant on detailees from other parts of the department, to help ensure the completion of the
-next President’s agenda.” [Department of Homeland Security, Project 2025, accessed 6/24/24]
+next President’s agenda.” [Department of Homeland Security, Project 2025, accessed 6/24/24]</p>
 
-Project 2025 called for the next administration to circumvent Senate confirmation positions by
+<p>Project 2025 called for the next administration to circumvent Senate confirmation positions by
 placing its nominees in key positions into similar positions as “Actings.” “An Aggressive Approach
 to Senate-Confirmed Leadership Positions. While Senate confirmation is a constitutionally necessary
 requirement for appointing agency leadership, the next Administration may need to take a novel approach
@@ -4019,16 +4026,16 @@ example, putting in a person to serve as the Senior Official Performing the Duti
 CBP while that person is going through the confirmation process to direct ICE or become the Secretary).
 This approach would both guarantee implementation of the Day One agenda and equip the department
 for potential emergency situations while still honoring the confirmation requirement.” [Department of
-Homeland Security, Project 2025, accessed 6/24/24]
+Homeland Security, Project 2025, accessed 6/24/24]</p>
 
-Project 2025 looked to remove lower-level positions from Senate confirmation, which would
+<p>Project 2025 looked to remove lower-level positions from Senate confirmation, which would
 require legislation. “The department should also look to remove lower-level but nevertheless important
 positions that currently require Senate confirmation from the confirmation requirement, although this effort
 would require legislation (and might also be mooted in the event of legislation that closes portions of the
 department that currently have Senate-confirmed leadership).” [Department of Homeland Security,
-Project 2025, accessed 6/24/24]
+Project 2025, accessed 6/24/24]</p>
 
-Project 2025 recommended restructuring and redistributing career personnel in the department.
+<p>Project 2025 recommended restructuring and redistributing career personnel in the department.
 “Restructuring and Redistribution of Career Personnel. To strengthen political decision-making and
 ensure that taxpayer dollars are being used legally and efficiently, the Secretary should make major
 changes in the distribution of career personnel throughout the department. For example, personnel from
@@ -4036,9 +4043,9 @@ parts of the department undergoing soft closure could be redistributed to what w
 corners of the department, including national security–critical and transparency functions. All personnel
 with law enforcement capacity should be removed immediately from office billets and deployed to field
 billets to maximize law enforcement capacity.” [Department of Homeland Security, Project 2025,
-accessed 6/24/24]
+accessed 6/24/24]</p>
 
-Project 2025 recommended replacing the entire Homeland Security Advisory Committee.
+<p>Project 2025 recommended replacing the entire Homeland Security Advisory Committee.
 “Replacement of the Entire Homeland Security Advisory Committee. The Secretary should plan to quickly
 remove all current members of the Homeland Security Advisory Committee and replace them as quickly
 as is feasible.” [Department of Homeland Security, Project 2025, accessed 6/24/24]
@@ -4046,242 +4053,242 @@ Project 2025 called for the restart and expansion of horseback-mounted Border Pa
 should restart and expand use of the horseback-mounted Border Patrol. As part of this announcement,
 the Secretary should clear the records and personnel files of those who were falsely accused by
 Secretary Alejandro Mayorkas of whipping migrants and issue a formal apology on behalf of DHS and
-CBP.” [Department of Homeland Security, Project 2025, accessed 6/24/24]
-
+CBP.” [Department of Homeland Security, Project 2025, accessed 6/24/24]</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h3>Immigration</h3>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-Project 2025 recommended not increasing the number of H-2B visas above a statutorily set cap
+<p>Project 2025 recommended not increasing the number of H-2B visas above a statutorily set cap
 and they should not have regulations supporting the H-2 eligible country list. “The Secretary should
 make it clear that he or she will not use the Secretary’s existing discretionary authority to increase the
 number of H-2B (seasonal non-agricultural) visas above the statutorily set cap. l The Secretary should not
 issue any regulations in support of the ‘H-2 eligible’ country list, the effect of which would prevent favoring
 certain foreign nationals seeking an H-2 guest worker visa based simply on their nationality.” [Department
-of Homeland Security, Project 2025, accessed 6/24/24]
+of Homeland Security, Project 2025, accessed 6/24/24]</p>
 
-Project 2025 would “order ICE to stop closing out pending immigration cases” which they claim
+<p>Project 2025 would “order ICE to stop closing out pending immigration cases” which they claim
 led to “lawlessness that allowed thousands of illegal aliens and other immigration violators to go
 free in the United States.” “Order ICE to stop closing out pending immigration cases and apply the
 Immigration and Nationality Act (INA) as written by Congress.3 The Biden Administration closed out tens
 of thousands of immigration cases that had already been prepared and were slated for expedited removal
 processing or hearings before the U.S. Immigration Court. This misguided action constituted an egregious
 example of lawlessness that allowed thousands of illegal aliens and other immigration violators to go free
-in the United States.” [Department of Homeland Security, Project 2025, accessed 6/24/24]
+in the United States.” [Department of Homeland Security, Project 2025, accessed 6/24/24]</p>
 
-Project 2025 would “direct ICE to stop ignoring criminal aliens identified through the 287(g)
+<p>Project 2025 would “direct ICE to stop ignoring criminal aliens identified through the 287(g)
 program.” “Direct ICE to stop ignoring criminal aliens identified through the 287(g) program.4
 Ultimately, Congress should prevent ICE from ignoring criminal aliens identified by local law enforcement
 agencies that are partners in the 287(g) program. However, before congressional action, ICE should be
 directed to take custody of all aliens with records for felonies, crimes of violence, DUIs, previous
 removals, and any other crime that is considered a national security or public safety threat as defined
-under current laws.” [Department of Homeland Security, Project 2025, accessed 6/24/24]
+under current laws.” [Department of Homeland Security, Project 2025, accessed 6/24/24]</p>
 
-Project 2025 called for the elimination of T and U visas because “victimization should not be a
+<p>Project 2025 called for the elimination of T and U visas because “victimization should not be a
 basis for an immigration benefit.” “Eliminate T and U visas. Victimization should not be a basis for an
 immigration benefit. If an alien who was a trafficking or crime victim is actively and significantly
 cooperating with law enforcement as a witness, the S visa is already available and should be used.
 Pending elimination of the T and U visas, the Secretary should significantly restrict eligibility for each visa
-to prevent fraud.” [Department of Homeland Security, Project 2025, accessed 6/24/24]
+to prevent fraud.” [Department of Homeland Security, Project 2025, accessed 6/24/24]</p>
 
-Project 2025: “Unless and until T and U visas are repealed, each program needs to be reformed to
+<p>Project 2025: “Unless and until T and U visas are repealed, each program needs to be reformed to
 ensure that only legitimate victims of trafficking and crimes who are actively providing significant
 material assistance to law enforcement are eligible” for visas. “T-Visa and U-Visa reform. Unless and
 until T and U visas are repealed, each program needs to be reformed to ensure that only legitimate
 victims of trafficking and crimes who are actively providing significant material assistance to law
 enforcement are eligible for spots in the queue.” [Department of Homeland Security, Project 2025,
-accessed 6/24/24]
+accessed 6/24/24]</p>
 
-Project 2025 called for the removal of “security risks” from the Student and Exchange Visitor
+<p>Project 2025 called for the removal of “security risks” from the Student and Exchange Visitor
 Program by eliminating or significantly reducing the number of visas issued to foreign students
 “from enemy nations.” “Prioritize national security in the Student and Exchange Visitor Program
 (SEVP). ICE should end its current cozy deference to educational institutions and remove security risks
 from the program. This requires working with the Department of State to eliminate or significantly reduce
 the number of visas issued to foreign students from enemy nations.” [Department of Homeland Security,
-Project 2025, accessed 6/24/24]
+Project 2025, accessed 6/24/24]</p>
 
-The role of ICE Deportation Officers should be defined as being primarily responsible for
+<p>The role of ICE Deportation Officers should be defined as being primarily responsible for
 enforcing civil immigration regulations, including the arrest, detention and removal of violators
 anywhere in the U.S., “without warrant where appropriate.” “The role of ICE Deportation Officers
 should be clarified. ICE Enforcement and Removal Operations (ERO) should be identified as being
 primarily responsible for enforcing civil immigration regulations, including the civil arrest, detention, and
 removal of immigration violators anywhere in the United States, without warrant where appropriate,
 subject only to the civil warrant requirements of the INA where appropriate.” [Department of Homeland
-Security, Project 2025, accessed 6/24/24]
+Security, Project 2025, accessed 6/24/24]</p>
 
-Project 2025 called for the rescission of “sensitive zones” where ICE personnel were prohibited
+<p>Project 2025 called for the rescission of “sensitive zones” where ICE personnel were prohibited
 from operating. “All ICE memoranda identifying ‘sensitive zones’ where ICE personnel are prohibited
 from operating should be rescinded. Rely on the good judgment of officers in the field to avoid
-inappropriate situations.” [Department of Homeland Security, Project 2025, accessed 6/24/24]
+inappropriate situations.” [Department of Homeland Security, Project 2025, accessed 6/24/24]</p>
 
-Project 2025: “The use of Blackies Warrants should be operationalized within ICE.” “The use of
+<p>Project 2025: “The use of Blackies Warrants should be operationalized within ICE.” “The use of
 Blackies Warrants should be operationalized within ICE. These civil search warrants are commonly used
 for worksite enforcement when agents have probable cause that illegal aliens are employed at a
 business. This would streamline investigations.” [Department of Homeland Security, Project 2025,
-accessed 6/24/24]
+accessed 6/24/24]</p>
 
-Project 2025: “ICE should be funded for a significant increase in detention space, raising the daily
+<p>Project 2025: “ICE should be funded for a significant increase in detention space, raising the daily
 available number of beds to 100,000.” “Congress should mandate and fund additional bed space for
 alien detainees. ICE should be funded for a significant increase in detention space, raising the daily
 available number of beds to 100,000.” [Department of Homeland Security, Project 2025, accessed
-6/24/24]
+6/24/24]</p>
 
-Project 2025 called for in immigration agenda that “focused on creating a merit-based immigration
+<p>Project 2025 called for in immigration agenda that “focused on creating a merit-based immigration
 system that rewards high-skilled aliens.” “The incoming Administration should spearhead an
 immigration legislative agenda focused on creating a merit-based immigration system that rewards high-
 skilled aliens instead of the current system that favors extended family–based and luck-of-the-draw
-immigration.” [Department of Homeland Security, Project 2025, accessed 6/24/24]
+immigration.” [Department of Homeland Security, Project 2025, accessed 6/24/24]</p>
 
-Project 2025 called for the repeal of the diversity visa lottery and chain migration. “To that end, the
+<p>Project 2025 called for the repeal of the diversity visa lottery and chain migration. “To that end, the
 diversity visa lottery should be repealed, chain migration should be ended while focusing on the nuclear
 family, and the existing employment visa program should be replaced with a system to award visas only
-to the ‘best and brightest.’” [Department of Homeland Security, Project 2025, accessed 6/24/24]
+to the ‘best and brightest.’” [Department of Homeland Security, Project 2025, accessed 6/24/24]</p>
 
-Project 2025 called for the replacement of a system to award visas only the “best and brightest.”
+<p>Project 2025 called for the replacement of a system to award visas only the “best and brightest.”
 “To that end, the diversity visa lottery should be repealed, chain migration should be ended while focusing
 on the nuclear family, and the existing employment visa program should be replaced with a system to
 award visas only to the ‘best and brightest.’” [Department of Homeland Security, Project 2025, accessed
-6/24/24]
+6/24/24]</p>
 
-Project 2025 recommended the transformation of the H-1B program to one in which “employers
+<p>Project 2025 recommended the transformation of the H-1B program to one in which “employers
 are vying to bring in only the top foreign workers at the highest wages so as not to depress
 American opportunities.” “Internal efforts to limit employment authorization should be matched by
 congressional action to narrow statutory eligibility to work in the United States and mitigate unfair
 employment competition for U.S. citizens. The oft-abused H-1B program should be transformed into an
 elite program through which employers are vying to bring in only the top foreign workers at the highest
 wages so as not to depress American opportunities.” [Department of Homeland Security, Project 2025,
-accessed 6/24/24]
+accessed 6/24/24]</p>
 
-Project 2025 recommended turning the H-1B program into a program “to bring in the best and
+<p>Project 2025 recommended turning the H-1B program into a program “to bring in the best and
 brightest at the highest wages while simultaneously ensuring U.S. workers are not being
 disadvantaged by the program.” “Transform the program into an elite mechanism exclusively to bring in
 the ‘best and brightest’ at the highest wages while simultaneously ensuring that U.S. workers are not
 being disadvantaged by the program. H-1B is a means only to supplement the U.S. economy and to keep
 companies competitive, not to depress U.S. labor markets artificially in certain industries.” [Department of
-Homeland Security, Project 2025, accessed 6/24/24]
+Homeland Security, Project 2025, accessed 6/24/24]</p>
 
-Project 2025 called for the repeal of Temporary Protected Status designation and make E-Verify
+<p>Project 2025 called for the repeal of Temporary Protected Status designation and make E-Verify
 mandatory. “Additionally, Congress should: Improve the integrity of the temporary work visa programs; l
 Repeal Temporary Protected Status (TPS) designations; Permanently authorize and make mandatory E-
 Verify; and End parole abuse by legislating specific parole standards.” [Department of Homeland
-Security, Project 2025, accessed 6/24/24]
+Security, Project 2025, accessed 6/24/24]</p>
 
-All applicants rejected for any benefit or status adjudication should be required to leave the U.S.
+<p>All applicants rejected for any benefit or status adjudication should be required to leave the U.S.
 immediately until USCIS is caught up on all case backlogs. “At least until USCIS is caught up on all
 case backlogs, all applicants rejected for any benefit or status adjudication should be required to leave
 the U.S. immediately. Ordinary process can resume once all case backlogs have been adjudicated.”
-[Department of Homeland Security, Project 2025, accessed 6/24/24]
+[Department of Homeland Security, Project 2025, accessed 6/24/24]</p>
 
-Project 2025 called for the creation of a authority similar to the Title 42 Public Health authority “to
+<p>Project 2025 called for the creation of a authority similar to the Title 42 Public Health authority “to
 expel illegal aliens across the border immediately when certain non-health conditions are met.”
 “Create an authority akin to the Title 42 Public Health authority that has been used during the COVID-19
 pandemic to expel illegal aliens across the border immediately when certain non-health conditions are
 met, such as loss of operational control of the border.” [Department of Homeland Security, Project 2025,
-accessed 6/24/24]
+accessed 6/24/24]</p>
 
-Project 2025 recommended repealing Section 235 of the William Wilberforce Trafficking Victims
+<p>Project 2025 recommended repealing Section 235 of the William Wilberforce Trafficking Victims
 Protection Act which provides immigration benefits to unaccompanied minors. “Congress should
 repeal Section 235 of the William Wilberforce Trafficking Victims Protection Reauthorization Act of 2008
 (TVPRA),9 which provides numerous immigration benefits to unaccompanied alien children and only
 encourages more parents to send their children across the border illegally and unaccompanied. These
 children too often become trafficking victims, which means that the TVPRA has failed.” [Department of
-Homeland Security, Project 2025, accessed 6/24/24]
+Homeland Security, Project 2025, accessed 6/24/24]</p>
 
-Project 2025 recommended ending the Flores Settlement Agreement and setting nationwide
+<p>Project 2025 recommended ending the Flores Settlement Agreement and setting nationwide
 standards for family and unaccompanied detention and housing. “Congress must end the Flores
 Settlement Agreement by explicitly setting nationwide terms and standards for family and unaccompanied
 detention and housing. Such standards should focus on meeting human needs and should allow for
 large-scale use of temporary facilities (for example, tents).” [Department of Homeland Security, Project
-2025, accessed 6/24/24]
+2025, accessed 6/24/24]</p>
 
-Project 2025 called for “the standard for a credible fear of persecution” to be raised for migrants
+<p>Project 2025 called for “the standard for a credible fear of persecution” to be raised for migrants
 to seek asylum. “The standard for a credible fear of persecution should be raised and aligned to the
 standard for asylum. It should also account specifically for credibility determinations that are a key
-element of the asylum claim.” [Department of Homeland Security, Project 2025, accessed 6/24/24]
+element of the asylum claim.” [Department of Homeland Security, Project 2025, accessed 6/24/24]</p>
 
-Project 2025 suggested that gang violence and domestic violence should not alone be grounds
+<p>Project 2025 suggested that gang violence and domestic violence should not alone be grounds
 for asylum. “Congress should eliminate the particular social group protected ground as vague and
 overbroad or, in the alternative, provide a clear definition with parameters that at a minimum codify the
 holding in Matter of A-B-that gang violence and domestic violence are not grounds for asylum.10.”
-[Department of Homeland Security, Project 2025, accessed 6/24/24]
+[Department of Homeland Security, Project 2025, accessed 6/24/24]</p>
 
-Project 2025 recommended that Congress stop funding NGOs that “process and transport illegal
+<p>Project 2025 recommended that Congress stop funding NGOs that “process and transport illegal
 aliens into and throughout the United States.” “Congress should halt funds given to nongovernmental
 organizations (NGOs) to process and transport illegal aliens into and throughout the United States. Such
 funds and infrastructure, including the DHS joint processing centers, should be redirected to secure the
 border, detain aliens, and provide space for immigration court proceedings.” [Department of Homeland
-Security, Project 2025, accessed 6/24/24]
+Security, Project 2025, accessed 6/24/24]</p>
 
-Project 2025: “Congress should unequivocally authorize state and local law enforcement to
+<p>Project 2025: “Congress should unequivocally authorize state and local law enforcement to
 participate in immigration and border security actions in compliance with Arizona v. United
-States.” [Department of Homeland Security, Project 2025, accessed 6/24/24]
+States.” [Department of Homeland Security, Project 2025, accessed 6/24/24]</p>
 
-Project 2025 called for Congress to restrict the authority for prosecutorial discretion on
+<p>Project 2025 called for Congress to restrict the authority for prosecutorial discretion on
 immigration enforcement. “Congress should restrict the authority for prosecutorial discretion to
 eliminate it as a ‘catch-all’ excuse for limiting immigration enforcement.” [Department of Homeland
-Security, Project 2025, accessed 6/24/24]
+Security, Project 2025, accessed 6/24/24]</p>
 
-Project 2025 called for mandatory detention for undocumented immigrants. “Congress should
+<p>Project 2025 called for mandatory detention for undocumented immigrants. “Congress should
 eliminate ambiguous discretionary language in Title 8 that aliens ‘may’ be detained and clarify that aliens
 ‘shall’ be detained. This language, which contrasts with other ‘shall detain’ language in statute, creates
 unhelpful ambiguity and allows the executive branch to ignore the will of Congress.” [Department of
-Homeland Security, Project 2025, accessed 6/24/24]
+Homeland Security, Project 2025, accessed 6/24/24]</p>
 
-Project 2025 recommended using executive action to immediately reinstate Asylum Cooperative
+<p>Project 2025 recommended using executive action to immediately reinstate Asylum Cooperative
 Agreements with Northern Triangle Countries. “Direct the Department of State and the Department of
 Homeland Security to reinstate Asylum Cooperative Agreements with Northern Triangle Countries
-immediately.” [Department of Homeland Security, Project 2025, accessed 6/24/24]
+immediately.” [Department of Homeland Security, Project 2025, accessed 6/24/24]</p>
 
-Project 2025: “Recommence negotiations with Mexico to fully implement the Remain in Mexico
+<p>Project 2025: “Recommence negotiations with Mexico to fully implement the Remain in Mexico
 Protocols.” [Department of Homeland Security, Project 2025, accessed 6/24/24]
 Project 2025: “The Office of the Immigration Detention Ombudsman should be eliminated.” “The
 Office of the Immigration Detention Ombudsman should be eliminated. This requires a statutory change
 in Section 106 of the Consolidated Appropriations Act of 2020.” [Department of Homeland Security,
-Project 2025, accessed 6/24/24]
+Project 2025, accessed 6/24/24]</p>
 
-Project 2025: “The Office of the Citizenship and Immigration Services Ombudsman should be
+<p>Project 2025: “The Office of the Citizenship and Immigration Services Ombudsman should be
 eliminated.” “CISOMB. The Office of the Citizenship and Immigration Services Ombudsman should be
 eliminated. The DHS bureaucracy is too large, and the Secretary has too many direct reports. CISOMB’s
 policy functions can be performed (and sometimes already are) by OIG and GAO. The specialized case
 work can be moved into USCIS as a special unit, much like the IRS Taxpayer Advocate. This would
 require a statutory change to Section 452 of the Homeland Security Act of 2002.” [Department of
-Homeland Security, Project 2025, accessed 6/24/24]
+Homeland Security, Project 2025, accessed 6/24/24]</p>
 
-Project 2025 recommended working with the Education Department to deny loan access to
+<p>Project 2025 recommended working with the Education Department to deny loan access to
 students at schools that provide in-state tuition to undocumented immigrants. “Department of
 Education: Deny loan access to those who are not U.S. citizens or lawful permanent residents, and deny
 loan access to students at schools that provide in-state tuition to illegal aliens.” [Department of Homeland
-Security, Project 2025, accessed 6/24/24]
+Security, Project 2025, accessed 6/24/24]</p>
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h3>FEMA</h3>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-Project 2025 recommended raising the threshold at which states and localities are eligible for
+<p>Project 2025 recommended raising the threshold at which states and localities are eligible for
 public assistance via FEMA. “Under the Stafford Act, FEMA has the authority to adjust the per capita
 indicator for damages, which creates a threshold under which states and localities are not eligible for
 public assistance. FEMA should raise the threshold because the per capita indicator has not kept pace
 with inflation, and this over time has effectively lowered the threshold for public assistance and caused
 FEMA’s resources to be stretched perilously thin.” [Department of Homeland Security, Project 2025,
-accessed 6/24/24]
+accessed 6/24/24]</p>
 
-Project 2025 recommended the federal government cover 25% of the costs for small disasters and
+<p>Project 2025 recommended the federal government cover 25% of the costs for small disasters and
 a ceiling of 75% of the cost “for truly catastrophic disasters.” “In addition, Congress should change
 the cost-share arrangement so that the federal government covers 25 percent of the costs for small
 disasters with the cost share reaching a maximum of 75 percent for truly catastrophic disasters.”
-[Department of Homeland Security, Project 2025, accessed 6/24/24]
+[Department of Homeland Security, Project 2025, accessed 6/24/24]</p>
 
-Project 2025: “The NFIP should be wound down and replaced with private insurance starting with
+<p>Project 2025: “The NFIP should be wound down and replaced with private insurance starting with
 the least risky areas currently identified by the program.” [Department of Homeland Security, Project
-2025, accessed 6/24/24]
+2025, accessed 6/24/24]</p>
 
-Project 2025 recommended that FEMA only have one Senate-confirmed position instead of four.
+<p>Project 2025 recommended that FEMA only have one Senate-confirmed position instead of four.
 “FEMA currently has four Senate-confirmed positions. Only the Administrator should be confirmed by the
 Senate; other political leadership need not be confirmed by the Senate. Additionally, FEMA’s ‘springing
 Cabinet position’ should be eliminated, as this creates significant unnecessary challenges to the
 functioning of the whole of DHS at points in time when coordinated responses are most needed.”
-[Department of Homeland Security, Project 2025, accessed 6/24/24]
-U.S. Coast Guard
-
-Project 2025 suggested re-vetting “any promotions and hiring that occurred on the Biden
+[Department of Homeland Security, Project 2025, accessed 6/24/24]</p>
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<h3>U.S. Coast Guard</h3>
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p>Project 2025 suggested re-vetting “any promotions and hiring that occurred on the Biden
 Administration’s watch while also re-onboarding any USCG personnel who were dismissed from
 service for refusing to take the COVID-19 ‘vaccine.’” “USCG is facing recruitment challenges
 similar to those faced by the military services. The Administration should stop the messaging on
@@ -4291,19 +4298,18 @@ promotions and hiring that occurred on the Biden Administration’s watch while 
 USCG personnel who were dismissed from service for refusing to take the COVID-19 ‘vaccine,’ with time
 in service credited — 157 — 2025 Presidential Transition Project to such returnees. These two steps
 could be foundational for any improvements in the recruiting process.” [Department of Homeland
-Security, Project 2025, accessed 6/24/24]
-
+Security, Project 2025, accessed 6/24/24]</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h3>Secret Service</h3>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-Project 2025 called on USSS to keep visitor logs for anywhere the president works or resides.
+<p>Project 2025 called on USSS to keep visitor logs for anywhere the president works or resides.
 “USSS should keep visitor logs for all facilities where the President works or resides. The Biden
 Administration has evaded such transparency with President Biden spending a historic amount of time for
 a President at his Delaware residence. This has left the American people in the dark as to who is
 influencing the highest levels of their own government.” [Department of Homeland Security, Project 2025,
-accessed 6/24/24]
+accessed 6/24/24]</p>
 
-Project 2025 recommended that all USSS agents stationed outside of Washington, DC be
+<p>Project 2025 recommended that all USSS agents stationed outside of Washington, DC be
 transferred to work in ICE field offices. “USSS should transfer to the Department of Justice and
 Department of the Treasury all investigations that are not related to its protective function. It should begin
 the logistical operation of closing all field offices throughout the country and internationally to the extent
@@ -4311,34 +4317,33 @@ they are not taken over by Treasury or Justice. USSS agents stationed outside of
 should be transferred to work in Immigration and Customs Enforcement field offices where they would
 continue to be the ‘boots on the ground’ to follow up on threat reports throughout the country and liaise
 with local law enforcement for visits by protectees.” [Department of Homeland Security, Project 2025,
-accessed 6/24/24]
+accessed 6/24/24]</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h3>TSA</h3>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-Project 2025 recommended making TSA’s workforce deunionize immediately until it is privatized.
+<p>Project 2025 recommended making TSA’s workforce deunionize immediately until it is privatized.
 “The TSA model is costly and unwisely makes TSA both the regulator and the regulated organization
 responsible for screening operations. As part of an effort to shrink federal bureaucracies and bring
 private-sector know-how to government programs, TSA is ripe for reform. The U.S. should look to the
 Canadian and European private models of providing aviation screening manpower to lower TSA costs
 while maintaining security. Until it is privatized, TSA should be treated as a national security provider, and
 its workforce should be deunionized immediately.” [Department of Homeland Security, Project 2025,
-accessed 6/24/24]
+accessed 6/24/24]</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h3>Civil Rights and Civil Liberties</h3>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-Project 2025 recommended the DHS Civil Rights and Civil Liberties Officer be focused on EEO
+<p>Project 2025 recommended the DHS Civil Rights and Civil Liberties Officer be focused on EEO
 compliance and civil liberties. “The CRCL Officer should focus on equal employment opportunity (EEO)
 compliance and the civil liberties function and investigate matters only within Headquarters or support
 components. Operational components’ civil liberties officers should investigate incidents regarding their
 own agencies. The CRCL Officer should ensure that all civil liberties or civil rights complaints are sent to
 the Office of Inspector General (OIG) for review. If the OIG chooses not to investigate, the CRCL Officer
 should only provide supportive information on possible courses of action for complainants.” [Department
-of Homeland Security, Project 2025, accessed 6/24/24]
-
+of Homeland Security, Project 2025, accessed 6/24/24]</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h3>January 6th</h3>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-Project 2025 highlighted an incident in which a pipe bomb was found outside the DNC while
+<p>Project 2025 highlighted an incident in which a pipe bomb was found outside the DNC while
 Kamala Harris was in the building on January 6th, calling it a “security failure.” “The U.S. Secret
 Service must be the world’s best protective agency. Currently, the agency is distracted by its dual mission
 of protection and financial investigations. The result has been a long series of high-profile
@@ -4346,7 +4351,7 @@ embarrassments and security failures, perhaps most notably its allowing of then-
 Kamala Harris to be inside the Democratic National Committee office on January 6, 2021, while a pipe
 bomb was outside. Despite the great size and scope of the January 6 investigation, this high-profile
 incident of danger to a protectee remains unresolved.” [Department of Homeland Security, Project 2025,
-accessed 6/24/24]
+accessed 6/24/24]</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h3>Military and Defense</h3>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
@@ -4354,116 +4359,125 @@ accessed 6/24/24]
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h3>Military Recruitment and Personnel</h3>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-✔ HIV-positive service members should be removed.
-✔ Service members “with gender dysphoria should be expelled from military service.”
-✔ Reverse policies allowing transgender individuals from serving in the military.
-✔ Abolish teaching of Critical Race Theory and DEI offices and staff.
-✔ Eliminate tenure for academic professionals at military academies.
-✔ Eliminate every USMC law enforcement battalion.
-
+<ul style="list-style-type:none;">
+  <li>✔ HIV-positive service members should be removed.</li>
+  <li>✔ Service members “with gender dysphoria should be expelled from military service.”</li>
+  <li>✔ Reverse policies allowing transgender individuals from serving in the military.</li>
+  <li>✔ Abolish teaching of Critical Race Theory and DEI offices and staff.</li>
+  <li>✔ Eliminate tenure for academic professionals at military academies.</li>
+  <li>✔ Eliminate every USMC law enforcement battalion.</li>
+</ul>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h3>Anti-Abortion</h3>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-✔ Ban using public funds to facilitate abortion for servicemembers.
+<ul style="list-style-type:none;">
+  <li>✔ Ban using public funds to facilitate abortion for servicemembers.</li>
+</ul>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h3>China</h3>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-✔ Want to make defeating the Chinese Communist Party the highest foreign policy/defense priority.
-✔ Economic engagement with China should be ended.
-✔ TikTok should be outlawed.
-✔ Any university that takes money from China should lose their accreditation and eligibility to
-receive federal funding.
-
+<ul style="list-style-type:none;">
+  <li>✔ Want to make defeating the Chinese Communist Party the highest foreign policy/defense 
+    priority.</li>
+  <li>✔ Economic engagement with China should be ended.</li>
+  <li>✔ TikTok should be outlawed.</li>
+  <li>✔ Any university that takes money from China should lose their accreditation and eligibility 
+    to receive federal funding.</li>
+</ul>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h3>Nuclear Capacity</h3>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-✔ Recommends expanding and modernizing the U.S. nuclear arsenal.
-✔ Accelerate efforts to restore plutonium pit production and investments in the National
-Laboratories facilities to support nuclear weapon development.
+<ul style="list-style-type:none;">
+  <li>✔ Recommends expanding and modernizing the U.S. nuclear arsenal.</li>
+  <li>✔ Accelerate efforts to restore plutonium pit production and investments in the National 
+    Laboratories facilities to support nuclear weapon development.</li>
+</ul>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h3>Alliances</h3>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-✔ Transform NATO so American allies are capable of fielding the majority of conventional forces
-while the U.S. would serve as primarily a nuclear deterrent.
-✔ Want to increase U.S. foreign military sales.
+<ul style="list-style-type:none;">
+  <li>✔ Transform NATO so American allies are capable of fielding the majority of conventional 
+    forces while the U.S. would serve as primarily a nuclear deterrent.</li>
+  <li>✔ Want to increase U.S. foreign military sales.</li>
+</ul>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h3>Military Recruitment and Personnel</h3>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-Project 2025: Service members who are HIV-positive should be removed and “those with gender
+<p>Project 2025: Service members who are HIV-positive should be removed and “those with gender
 dysphoria should be expelled from military service.” “l Restore standards of lethality and excellence.
 Entrance criteria for military service and specific occupational career fields should be based on the needs
 of those positions. Exceptions for individuals who are already predisposed to require medical treatment
 (for example, HIV positive or suffering from gender dysphoria) should be removed, and those with gender
 dysphoria should be expelled from military service. Physical fitness requirements should be based on the
 occupational field without consideration of gender, race, ethnicity, or orientation” ” [Department of
-Defense, Project 2025, accessed 6/24/24].
+Defense, Project 2025, accessed 6/24/24].</p>
 
-Improve recruiting by suspending the use of the MHS Genesis system that uses private medical
+<p>Improve recruiting by suspending the use of the MHS Genesis system that uses private medical
 records. “Improve recruiting by suspending the use of the recently introduced MHS Genesis system that
 uses private medical records of potential recruits at Military Entrance Processing Stations (MEPS),
 creating unnecessary delays and unwarranted rejections.11.” [Department of Defense, Project 2025,
-accessed 6/24/24]
+accessed 6/24/24]</p>
 
-Project 2025 sought to ensure senior military officials “understand their primary duty to be
+<p>Project 2025 sought to ensure senior military officials “understand their primary duty to be
 ensuring the readiness of the armed forces, not pursuing a social engineering agenda.” “Codify
 language to instruct senior military officers (three and four stars) to make certain that they understand
 their primary duty to be ensuring the readiness of the armed forces, not pursuing a social engineering
 agenda. This direction should be reinforced during the Senate confirmation process. Orders and direction
 motivated by purely partisan motives should be identified as threats to readiness.” [Department of
-Defense, Project 2025, accessed 6/24/24]
+Defense, Project 2025, accessed 6/24/24]</p>
 
-Project 2025 recommended reinstating service members to active duty who were discharged for
+<p>Project 2025 recommended reinstating service members to active duty who were discharged for
 not receiving a COVID-19 vaccine. “Reinstate servicemembers to active duty who were discharged for
 not receiving the COVID vaccine, restore their appropriate rank, and provide back pay.” [Department of
-Defense, Project 2025, accessed 6/24/24]
-Project 2025: “Eliminate Marxist indoctrination and divisive critical race theory programs and
-abolish newly established diversity, equity, and inclusion offices and staff.” [Department of
-Defense, Project 2025, accessed 6/24/24]
+Defense, Project 2025, accessed 6/24/24]</p>
 
-Project 2025 recommended auditing course offerings at military academies “to remove Marxist
+<p>Project 2025: “Eliminate Marxist indoctrination and divisive critical race theory programs and
+abolish newly established diversity, equity, and inclusion offices and staff.” [Department of
+Defense, Project 2025, accessed 6/24/24]</p>
+
+<p>Project 2025 recommended auditing course offerings at military academies “to remove Marxist
 indoctrination”, eliminate tenure for academic professionals.” “Audit the course offerings at military
 academies to remove Marxist indoctrination, eliminate tenure for academic professionals, and apply the
 same rules to instructors that are applied to other DOD contracting personnel.” [Department of Defense,
-Project 2025, accessed 6/24/24]
+Project 2025, accessed 6/24/24]</p>
 
-Project 2025 would “reverse policies that allow transgender individuals to serve in the military”
+<p>Project 2025 would “reverse policies that allow transgender individuals to serve in the military”
 and ban using public funds for transgender surgeries. “Reverse policies that allow transgender
 individuals to serve in the military. Gender dysphoria is incompatible with the demands of military service,
 and the use of public monies for transgender surgeries or to facilitate abortion for servicemembers should
-be ended.” [Department of Defense, Project 2025, accessed 6/24/24]
+be ended.” [Department of Defense, Project 2025, accessed 6/24/24]</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h3>Abortion</h3>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-Project 2025 would ban using public funds to facilitate abortion for servicemembers. “Reverse
+<p>Project 2025 would ban using public funds to facilitate abortion for servicemembers. “Reverse
 policies that allow transgender individuals to serve in the military. Gender dysphoria is incompatible with
 the demands of military service, and the use of public monies for transgender surgeries or to facilitate
-abortion for servicemembers should be ended.” [Department of Defense, Project 2025, accessed 6/24/24]
+abortion for servicemembers should be ended.” [Department of Defense, Project 2025, accessed 6/24/24]</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h3>Spending</h3>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-Project 2025 called for an increase in the Army’s budget. “Increase the Army budget to remain the
-world’s preeminent land power.” [Department of Defense, Project 2025, accessed 6/24/24]
+<p>Project 2025 called for an increase in the Army’s budget. “Increase the Army budget to remain the
+world’s preeminent land power.” [Department of Defense, Project 2025, accessed 6/24/24]</p>
 
-Project 2025 recommended increasing the Air Force budget by 5% annually after adjusting for
+<p>Project 2025 recommended increasing the Air Force budget by 5% annually after adjusting for
 inflation. “3. Increase the Air Force budget by 5 percent annually (after adjusting for inflation) to reverse
 the decline in size, age, and readiness and facilitate the transition to a more modern, lethal, and
-survivable force” [Department of Defense, Project 2025, accessed 6/24/24]
+survivable force” [Department of Defense, Project 2025, accessed 6/24/24]</p>
 
-Project 2025 called for the U.S. Navy to build a fleet of over 355 ships. “Investments must be closely
+<p>Project 2025 called for the U.S. Navy to build a fleet of over 355 ships. “Investments must be closely
 coordinated with these other elements of military power. 1. Build a fleet of more than 355 ships.26 2.
 Develop and field unmanned systems to augment the manned forces. 3. Require that range and lethality
 be the key factors in all procurement and sustainment decisions for ships, aircraft, and munitions.”
-[Department of Defense, Project 2025, accessed 6/24/24]
+[Department of Defense, Project 2025, accessed 6/24/24]</p>
 
-Project 2025 recommended changing the USMC structure, including by eliminating every USMC
+<p>Project 2025 recommended changing the USMC structure, including by eliminating every USMC
 law enforcement battalion. “1. Transform USMC force structure. a. Eliminate all USMC law enforcement
 battalions. b. Transform at least one Marine Infantry Regiment into a Marine Littoral Regiment. c. Reduce
-the size of remaining infantry battalions.” [Department of Defense, Project 2025, accessed 6/24/24]
-
+the size of remaining infantry battalions.” [Department of Defense, Project 2025, accessed 6/24/24]</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h3>General Strategy</h3>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-Project 2025 recommended making “irregular warfare a cornerstone of security strategy.” “Make
+<p>Project 2025 recommended making “irregular warfare a cornerstone of security strategy.” “Make
 irregular warfare a cornerstone of security strategy. The U.S. can project strength through unified action
 with our Interagency,38 allies, and partners by utilizing irregular warfare capabilities synchronized with
 elements of national power. Broadly redefining irregular warfare to address current state and nonstate
@@ -4471,22 +4485,22 @@ actors is critical to countering irregular threats that range from the Chinese u
 Russian disinformation and Islamist terrorism. A broad definition of irregular warfare in the National
 Security Strategy would allow for a whole-of-government approach, thereby providing resources and
 capabilities to counter threats and ultimately serve as credible deterrence at the strategic and tactical
-levels.” [Department of Defense, Project 2025, accessed 6/24/24]
+levels.” [Department of Defense, Project 2025, accessed 6/24/24]</p>
 
-Project 2025: “Demonstrate a willingness to employ offensive cyber capabilities against
+<p>Project 2025: “Demonstrate a willingness to employ offensive cyber capabilities against
 adversaries who conduct cyberattacks against U.S. infrastructure, businesses, personnel, and
-governments.” [Department of Defense, Project 2025, accessed 6/24/24]
+governments.” [Department of Defense, Project 2025, accessed 6/24/24]</p>
 
-Project 2025 rejected the argument that missile defense systems are destabilizing and called to
+<p>Project 2025 rejected the argument that missile defense systems are destabilizing and called to
 keep homeland missile defense off the table in any arms control negotiations with Russia and
 China. “Champion the benefits of missile defense. Despite its deterrence and damage-limitation benefits,
 opponents argue incorrectly that U.S. missile defense is destabilizing because it threatens Russian and
 Chinese second-strike capabilities. 1. Reject claims made by the Left that missile defense is destabilizing
 while acknowledging that Russia and China are developing their own advanced missile defense systems.
 2. Commit to keeping homeland missile defense off the table in any arms control negotiations with Russia
-and China.42.” [Department of Defense, Project 2025, accessed 6/24/24]
+and China.42.” [Department of Defense, Project 2025, accessed 6/24/24]</p>
 
-Project 2025 recommended abandoning existing missile defense policy of only using homeland
+<p>Project 2025 recommended abandoning existing missile defense policy of only using homeland
 missile defense against rogue nations. “Change U.S. missile defense policy. Historically, the U.S. has
 chosen to rely solely on deterrence to address the Russian and Chinese ballistic missile threat to the
 homeland and to use homeland missile defense only against rogue nations. 1. Abandon the existing
@@ -4494,20 +4508,20 @@ policy of not defending the homeland against Russian and Chinese ballistic missi
 improve defense as the Russian and Chinese missile threats increase at an unprecedented rate.45 2.
 Invest in future advanced missile defense technologies like directed energy or space-based missile
 defense that could defend against more numerous missile threats.” [Department of Defense, Project
-2025, accessed 6/24/24]
+2025, accessed 6/24/24]</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h3>China</h3>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-Project 2025: “The next conservative President must end the Left’s social experimentation with
+<p>Project 2025: “The next conservative President must end the Left’s social experimentation with
 the military, restore warfighting as its sole mission, and set defeating the threat of the Chinese
 Communist Party as its highest priority.” “Finally, the President can restore public confidence and
 accountability to our most important government function of all: national defense. The American people
 desire a military full of highly skilled servicemen and women who can protect the homeland and our
 interests overseas. The next conservative President must end the Left’s social experimentation with the
 military, restore warfighting as its sole mission, and set defeating the threat of the Chinese Communist
-Party as its highest priority” [Foreword, Project 2025, accessed 6/24/24]
+Party as its highest priority” [Foreword, Project 2025, accessed 6/24/24]</p>
 
-Project 2025 railed against trade with China, arguing it has “imported China’s anti-American
+<p>Project 2025 railed against trade with China, arguing it has “imported China’s anti-American
 values into their C-suites.” “The same goals are the heart of elite support for economic globalization.
 For 30 years, America’s political, economic, and cultural leaders embraced and enriched Communist
 China and its genocidal Communist Party while hollowing out America’s industrial base. What may have
@@ -4518,76 +4532,76 @@ promised that engagement with Beijing would grow our economy while injecting Ame
 China. The opposite has happened. American factories have closed. Jobs have been outsourced. Our
 manufacturing economy has been financialized. And all along, the corporations profiting failed to export
 our values of human rights and freedom; rather, they imported China’s anti-American values into their C-
-suites.” [Foreword, Project 2025, accessed 6/24/24]
+suites.” [Foreword, Project 2025, accessed 6/24/24]</p>
 
-Project 2025 called TikTok “in effect a tool of Chinese espionage.” “If you want to understand the
+<p>Project 2025 called TikTok “in effect a tool of Chinese espionage.” “If you want to understand the
 danger posed by collaboration between Big Tech and the CCP, look no further than TikTok. The highly
 addictive video app, used by 80 million Americans every month and overwhelmingly popular among
 teenage girls, is in effect a tool of Chinese espionage. The ties between TikTok and the Chinese
 government are not loose, and they are not coincidental.” [Foreword, Project 2025, accessed 6/24/24]
 Project 2025: “Economic engagement with China should be ended, not rethought.” [Foreword,
-Project 2025, accessed 6/24/24]
+Project 2025, accessed 6/24/24]</p>
 
-Project 2025 argued TikTok and “Confucius Institutes” should be outlawed and any University
+<p>Project 2025 argued TikTok and “Confucius Institutes” should be outlawed and any University
 taking CCP money should lose their accreditation and eligibility for federal funds. “Confucius
 Institutes, TikTok, and any other arm of Chinese propaganda and espionage should be outlawed, not
 merely monitored. Universities taking money from the CCP should lose their accreditation, charters, and
-eligibility for federal funds.” [Foreword, Project 2025, accessed 6/24/24]
+eligibility for federal funds.” [Foreword, Project 2025, accessed 6/24/24]</p>
 
-Project 2025: “U.S. defense strategy must identify China unequivocally as the top priority for U.S.
+<p>Project 2025: “U.S. defense strategy must identify China unequivocally as the top priority for U.S.
 defense planning.” “In this light, U.S. defense strategy must identify China unequivocally as the top
 priority for U.S. defense planning while modernizing and expanding the U.S. nuclear arsenal and
 sustaining an efficient and effective counterterrorism enterprise.” [Department of Defense, Project 2025,
-accessed 6/24/24]
+accessed 6/24/24]</p>
 
-Project 2025: “U.S. defense planning should focus on China and, in particular, the effective denial
+<p>Project 2025: “U.S. defense planning should focus on China and, in particular, the effective denial
 defense of Taiwan.” “Prioritize a denial defense against China. U.S. defense planning should focus on
 China and, in particular, the effective denial defense of Taiwan. This focus and priority for U.S. defense
-activities will deny China the first island chain.” [Department of Defense, Project 2025, accessed 6/24/24]
+activities will deny China the first island chain.” [Department of Defense, Project 2025, accessed 6/24/24]</p>
 
-Project 2025 suggested the prioritization of American “conventional force planning construct to
+<p>Project 2025 suggested the prioritization of American “conventional force planning construct to
 defeat a Chinese invasion of Taiwan before allocating resources to other missions, such as
 simultaneously fighting another conflict.” “This focus and priority for U.S. defense activities will deny
 China the first island chain. 1. Require that all U.S. defense efforts, from force planning to employment
 and posture, focus on ensuring the ability of American forces to prevail in the pacing scenario and deny
 China a fait accompli against Taiwan. 2. Prioritize the U.S. conventional force planning construct to defeat
 a Chinese invasion of Taiwan before allocating resources to other missions, such as simultaneously
-fighting another conflict.” [Department of Defense, Project 2025, accessed 6/24/24]
+fighting another conflict.” [Department of Defense, Project 2025, accessed 6/24/24]</p>
 
-Project 2025 called for countering China’s Belt and Road Initiative globally. “Counter China’s Belt
+<p>Project 2025 called for countering China’s Belt and Road Initiative globally. “Counter China’s Belt
 and Road Initiative (BRI) globally. DOD, in conjunction with the Interagency, allies, and partner nations,
 must work proactively to counter China’s BRI around the globe.” [Department of Defense, Project 2025,
-accessed 6/24/24]
+accessed 6/24/24]</p>
 
-Project 2025 called China a “tyrannical country” whose designs were “serious and dangerous.”
+<p>Project 2025 called China a “tyrannical country” whose designs were “serious and dangerous.”
 “The designs of the People’s Republic of China (PRC) and the Chinese Communist Party, which runs the
 PRC, are serious and dangerous.9 This tyrannical country with a population of more than 1 billion people
 has the vision, resources, and patience to achieve its objectives. Protecting the United States from the
 PRC’s designs requires an unambiguous offensive-defensive mix, including protecting American citizens
 and their interests, as well as U.S. allies, from PRC attacks and abuse that undermine U.S.
-competitiveness, security, and prosperity.” [Department of State, Project 2025, accessed 6/24/24]
+competitiveness, security, and prosperity.” [Department of State, Project 2025, accessed 6/24/24]</p>
 
-Project 2025 stated their belief that PRC should be seen by the U.S. government more as a threat
+<p>Project 2025 stated their belief that PRC should be seen by the U.S. government more as a threat
 than a competitor. “The United States must have a cost-imposing strategic response to make Beijing’s
 aggression unaffordable, even as the American economy and U.S. power grow. This stance will require
 real, sustained, near-unprecedented U.S. growth; stronger partnerships; synchronized economic and
 security policies; and American energy independence—but above all, it will require a very honest
 perspective about the nature and designs of the PRC as more of a threat than a competitor.10 The next
 President should use the State Department and its array of resources to reassess and lead this effort, just
-as it did during the Cold War.” [Department of State, Project 2025, accessed 6/24/24]
+as it did during the Cold War.” [Department of State, Project 2025, accessed 6/24/24]</p>
 
-Project 2025 called for the drafting of an Article X for China. “The U.S. government needs an Article
+<p>Project 2025 called for the drafting of an Article X for China. “The U.S. government needs an Article
 X for China,11 and it should be a presidential mandate. Along with the National Security Council, the
 State Department should draft an Article X, which should be a deeply philosophical look at the China
-challenge.” [Department of State, Project 2025, accessed 6/24/24]
+challenge.” [Department of State, Project 2025, accessed 6/24/24]</p>
 
-Project 2025 does not believe in a moderate approach to China, saying that type of strategy has
+<p>Project 2025 does not believe in a moderate approach to China, saying that type of strategy has
 “demonstrably failed.” “On the other hand, others acknowledge the dangers posed by the PRC, but
 believe in a moderating approach to accommodate its rise, a policy of ‘compete where we must, but
 cooperate where we can,’ including on issues like climate change. This strategy has demonstrably failed.”
-[Department of State, Project 2025, accessed 6/24/24]
+[Department of State, Project 2025, accessed 6/24/24]</p>
 
-Project 2025 argued that the issues with PRC are “rooted in China’s strategic culture” so their
+<p>Project 2025 argued that the issues with PRC are “rooted in China’s strategic culture” so their
 “internal culture and civil society will never deliver a more normative nation.” “As with all global
 struggles with Communist and other tyrannical regimes, the issue should never be with the Chinese
 people but with the Communist dictatorship that oppresses them and threatens the well-being of nations
@@ -4596,26 +4610,26 @@ the institutions that have governed China during the course of five millennia, i
 Chinese leaders from the preceding generations of the CCP.13 In short, the PRC challenge is rooted in
 China’s strategic culture and not just the Marxism–Leninism of the CCP, meaning that internal culture and
 civil society will never deliver a more normative nation. The PRC’s aggressive behavior can only be
-curbed through external pressure.” [Department of State, Project 2025, accessed 6/24/24]
+curbed through external pressure.” [Department of State, Project 2025, accessed 6/24/24]</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h3>Iran</h3>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-Project 2025 argued Iran was “at its weakest state in its history and is at odds not only with its
+<p>Project 2025 argued Iran was “at its weakest state in its history and is at odds not only with its
 own people but also its regional neighbors.” “The ongoing protests in the Islamic Republic of Iran
 (Iran), which are widely viewed as a new revolution, have shown that the Islamic regime, which has been
 in power since 1979 when Ayatollah Khomeini became the leader, is at its weakest state in its history and
 is at odds not only with its own people but also its regional neighbors.” [Department of State, Project
-2025, accessed 6/24/24]
+2025, accessed 6/24/24]</p>
 
-Project 2025 claimed the Iran nuclear deal gave Iran “a crucial monetary lifeline.” “Unfortunately,
+<p>Project 2025 claimed the Iran nuclear deal gave Iran “a crucial monetary lifeline.” “Unfortunately,
 the Obama and Biden Administrations have propped up the brutal Islamist theocracy that has hurt the
 Iranian people and threatened nuclear war. For example, the Obama Administration’s 2015 Joint
 Comprehensive Plan of Action, commonly referred to as the Iran nuclear deal, gave the Islamic regime a
 crucial monetary lifeline after the Green Movement protests in 2009, which, while ultimately unsuccessful,
 did succeed in weakening the regime and showing the world that younger Iranians want freedom.”
-[Department of State, Project 2025, accessed 6/24/24]
+[Department of State, Project 2025, accessed 6/24/24]</p>
 
-Project 2025 argued it was in the U.S.’s and the Iranian people’s best interest to have a democratic
+<p>Project 2025 argued it was in the U.S.’s and the Iranian people’s best interest to have a democratic
 government, and the U.S. could use economic and diplomatic tools to help Iran become free. “The
 next Administration should neither preserve nor repeat the mistakes of the Obama and Biden
 Administrations. The correct future policy for Iran is one that acknowledges that it is in U.S. national
@@ -4623,9 +4637,9 @@ security interests, the Iranian people’s human rights interests, and a broader
 stability for the Iranian people to have the democratic government they demand. This decision to be free
 of the country’s abusive leaders must of course be made by the Iranian people, but the United States can
 utilize its own and others’ economic and diplomatic tools to ease the path toward a free Iran and a
-renewed relationship with the Iranian people.” [Department of State, Project 2025, accessed 6/24/24]
+renewed relationship with the Iranian people.” [Department of State, Project 2025, accessed 6/24/24]</p>
 
-Project 2025 called for broadly blocking “Iranian ambitions” which includes expanding Trump
+<p>Project 2025 called for broadly blocking “Iranian ambitions” which includes expanding Trump
 administration-imposed sanctions. “l First, the U.S. must prevent Iran from acquiring nuclear
 technology and delivery capabilities and more broadly block Iranian ambitions. This means, inter alia,
 reinstituting and expanding Trump Administration sanctions; providing security assistance for regional
@@ -4633,75 +4647,75 @@ partners; supporting, through public diplomacy and otherwise, freedom-seeking Ir
 revolt against the mullahs; and ensuring Israel has both the military means and the political support and
 flexibility to take what it deems to be appropriate measures to defend itself against the Iranian regime and
 its regional proxies Hamas, Hezbollah, and Palestinian Islamic Jihad.” [Department of State, Project
-2025, accessed 6/24/24]
+2025, accessed 6/24/24]</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h3>Venezuela</h3>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-Project 2025 called on the next administration to “unite the [western] hemisphere against this
+<p>Project 2025 called on the next administration to “unite the [western] hemisphere against this
 significant but underestimated threat in the Southern Hemisphere.” “To contain Venezuela’s
 Communism and aid international partners, the next Administration must take important steps to put
 Venezuela’s Communist abusers on notice while making strides to help the Venezuelan people. The next
 Administration must work to unite the hemisphere against this significant but underestimated threat in the
-Southern Hemisphere.” [Department of State, Project 2025, accessed 6/24/24]
+Southern Hemisphere.” [Department of State, Project 2025, accessed 6/24/24]</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h3>North Korea</h3>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-Project 2025 called for deterrence of North Korea and said they “cannot permit the DPRK to
+<p>Project 2025 called for deterrence of North Korea and said they “cannot permit the DPRK to
 remain a de facto nuclear power with the capacity to threaten the United States or its allies.”
 “Peace and stability in Northeast Asia are vital interests of the United States. The Republic of Korea
 (South Korea) and Japan are critical allies for ensuring a free and open Indo–Pacific. They are
 indispensable military, economic, diplomatic, and technology partners. The Democratic People’s Republic
 of Korea (DPRK, or North Korea) must be deterred from military conflict. The United States cannot permit
-the DPRK to remain a de facto nuclear power with the capacity to threaten the United States or its allies.
+the DPRK to remain a de facto nuclear power with the capacity to threaten the United States or its allies.</p>
 
-This interest is both critical to the defense of the American homeland and the future of global
+<p>This interest is both critical to the defense of the American homeland and the future of global
 nonproliferation. The DPRK must not be permitted to profit from its blatant violations of international
 commitments or to threaten other nations with nuclear blackmail. Both interests can only be served if the
 U.S. disallows the DPRK’s rogue regime behavior.” [Department of State, Project 2025, accessed
-6/24/24]
+6/24/24]</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h3>Mexico</h3>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-Project 2025 called Mexico a “national security disaster” that could “no longer qualify as a first-
+<p>Project 2025 called Mexico a “national security disaster” that could “no longer qualify as a first-
 world nation.” “A ‘sovereign Mexico’ policy. Mexico is currently a national security disaster. Bluntly
 stated, Mexico can no longer qualify as a first-world nation; it has functionally lost its sovereignty to
 muscular criminal cartels that effectively run the country. The current dynamic is not good for either U.S.
 citizens or Mexicans, and the perfect storm created by this cartel state has negative effects that are
 damaging the entire hemisphere. The next Administration must both adopt a posture that calls for a fully
 sovereign Mexico and take all steps at its disposal to support that result in as rapid a fashion as possible.”
-[Department of State, Project 2025, accessed 6/24/24]
+[Department of State, Project 2025, accessed 6/24/24]</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h3>South and Central Asia</h3>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-Project 2025 recommended prioritizing the U.S. relationship with India, calling them “an important
+<p>Project 2025 recommended prioritizing the U.S. relationship with India, calling them “an important
 emerging U.S. economic partner.” “Many key American interests and responsibilities are found in
 South and Central Asia. Specifically, continuing to advance the bilateral relationship with India to mutual
 benefit is a crucial objective for U.S. policy. India plays a crucial role in countering the Chinese threat and
 securing a free and open Indo–Pacific. It is a critical security guarantor for the key routes of air and sea
 travel linking East and West and an important emerging U.S. economic partner.” [Department of State,
-Project 2025, accessed 6/24/24]
+Project 2025, accessed 6/24/24]</p>
 
-Project 2025: “The priority for statecraft is advancing the U.S.–Indian role as a cornerstone of the
+<p>Project 2025: “The priority for statecraft is advancing the U.S.–Indian role as a cornerstone of the
 Quad, a cooperative framework including the U.S., India, Japan, and Australia.” “The priority for
 statecraft is advancing the U.S.–Indian role as a cornerstone of the Quad, a cooperative framework
 including the U.S., India, Japan, and Australia. The Quad is comprised of the key nations in coordinating
 efforts for a free and open Indo–Pacific. It is an overarching group that nests the key U.S. bilateral and
 trilateral cooperative efforts that facilitate U.S. collaborative efforts across the Indo–Pacific.” [Department
-of State, Project 2025, accessed 6/24/24]
+of State, Project 2025, accessed 6/24/24]</p>
 
-Project 2025: “There can be no expectation of normal relations with either” the Taliban in
+<p>Project 2025: “There can be no expectation of normal relations with either” the Taliban in
 Afghanistan or the military-political rule in Pakistan. “While American statecraft should also seek to
 improve bilateral relations throughout the region, U.S. policy must be clear-eyed and realistic about the
 perfidiousness of the Taliban regime in Afghanistan and the military–political rule in Pakistan. There can
 be no expectation of normal relations with either.” [Department of State, Project 2025, accessed6/24/24]
-Nuclear Capacity
+Nuclear Capacity</p>
 
-Project 2025 recommends expanding the U.S. nuclear arsenal. “In this light, U.S. defense strategy
+<p>Project 2025 recommends expanding the U.S. nuclear arsenal. “In this light, U.S. defense strategy
 must identify China unequivocally as the top priority for U.S. defense planning while modernizing and
 expanding the U.S. nuclear arsenal and sustaining an efficient and effective counterterrorism enterprise.”
-[Department of Defense, Project 2025, accessed 6/24/24]
+[Department of Defense, Project 2025, accessed 6/24/24]</p>
 
-Project 2025 called for the modernization and expansion of the U.S. nuclear arsenal to deter
+<p>Project 2025 called for the modernization and expansion of the U.S. nuclear arsenal to deter
 Russia and China simultaneously. “Implement nuclear modernization and expansion. The United
 States manifestly needs to modernize, adapt, and expand its nuclear arsenal. Russia maintains and is
 actively brandishing a very large nuclear arsenal, but China is also undertaking a historic nuclear
@@ -4709,15 +4723,15 @@ breakout. 1. Expand and modernize the U.S. nuclear force so that it has the size
 tailoring to deter Russia and China simultaneously. 2. Develop a nuclear arsenal with the size,
 sophistication, and tailoring— including new capabilities at the theater level—to ensure that there is no
 circumstance in which America is exposed to serious nuclear coercion.” [Department of Defense, Project
-2025, accessed 6/24/24]
+2025, accessed 6/24/24]</p>
 
-Project 2025 called for the prioritization of nuclear modernization. “Prioritize nuclear modernization.
+<p>Project 2025 called for the prioritization of nuclear modernization. “Prioritize nuclear modernization.
 All components of the nuclear triad are far beyond their intended lifetimes and will need to be replaced
 over the next decade. This effort is required for the U.S. to maintain its nuclear triad—and will be the bare
 minimum needed to maintain U.S. strategic nuclear deterrence.” [Department of Defense, Project 2025,
-accessed 6/24/24]
+accessed 6/24/24]</p>
 
-Project 2025 recommended accelerated efforts to restore plutonium pit production and
+<p>Project 2025 recommended accelerated efforts to restore plutonium pit production and
 investments in the National Laboratories facilities to support nuclear weapons development.
 “Restore the nuclear infrastructure. The United States must restore its necessary nuclear infrastructure so
 that it is capable of producing and maintaining nuclear weapons 1. Accelerate the effort to restore
@@ -4725,25 +4739,25 @@ plutonium pit production, which is essential both for modern warhead programs an
 stockpile. 2. Continue to invest in rebuilding infrastructure, including facilities at the National Laboratories
 that support nuclear weapons development. 3. Restore readiness to test nuclear weapons at the Nevada
 National Security Site to ensure the ability of the U.S. to respond quickly to asymmetric technology
-surprises.” [Department of Defense, Project 2025, accessed 6/24/24]
+surprises.” [Department of Defense, Project 2025, accessed 6/24/24]</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h3>Alliances</h3>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-Project 2025 calls for increased allied conventional defense burden-sharing. “Increase allied
+<p>Project 2025 calls for increased allied conventional defense burden-sharing. “Increase allied
 conventional defense burden-sharing. U.S. allies must take far greater responsibility for their conventional
 defense. U.S. allies must play their part not only in dealing with China, but also in dealing with threats
 from Russia, Iran, and North Korea. 1. Make burden-sharing a central part of U.S. defense strategy with
 the United States not just helping allies to step up, but strongly encouraging them to do so.” [Department
-of Defense, Project 2025, accessed 6/24/24]
+of Defense, Project 2025, accessed 6/24/24]</p>
 
-Project 2025 called for the transformation of NATO so “that U.S. allies are capable of fielding the
+<p>Project 2025 called for the transformation of NATO so “that U.S. allies are capable of fielding the
 great majority of the conventional forces required to deter Russia while relying on the United
 States primarily for our nuclear deterrent.” “Transform NATO so that U.S. allies are capable of fielding
 the great majority of the conventional forces required to deter Russia while relying on the United States
 primarily for our nuclear deterrent, and select other capabilities while reducing the U.S. force posture in
 Europe.” [Department of Defense, Project 2025, accessed 6/24/24]
 
-Project 2025 wants the U.S. to increase their foreign military sales. “The United States must regain
+<p>Project 2025 wants the U.S. to increase their foreign military sales. “The United States must regain
 its role as the ‘Arsenal of Democracy.’ In fiscal year (FY) 2021, U.S. government foreign military sales
 (FMS) nosedived to a low of $34.8 billion from a record high of $55.7 billion in FY 2018.8 This decrease
 hinders interoperability with partners and allies, decreases defense industrial base capacity, and
@@ -4755,18 +4769,18 @@ this downward trajectory by improving internal processes that incentivize partne
 U.S. defense systems, thereby expanding our ‘defense ecosystem.’ We must reverse the recent dip in
 FMS to ensure both that our partners remain interoperable with the United States and that our defense
 industrial base regains much-needed capacity in preparation for future challenges.” [Department of
-Defense, Project 2025, accessed 6/24/24]
+Defense, Project 2025, accessed 6/24/24]</p>
 
-Project 2025 urged the next president to “must significantly reorient the U.S. government’s
+<p>Project 2025 urged the next president to “must significantly reorient the U.S. government’s
 posture toward friends and adversaries alike” which “could represent the most significant shift in
 core foreign policy principles and corresponding action since the end of the Cold War.” “That said,
 the next President must significantly reorient the U.S. government’s posture toward friends and
 adversaries alike—which will include much more honest assessments about who are friends and who are
 not. This reorientation could represent the most significant shift in core foreign policy principles and
 corresponding action since the end of the Cold War.” [Department of State, Project 2025, accessed
-6/24/24]
+6/24/24]</p>
 
-Project 2025: “At stake after 2024 will be examining the status of the Wales Pledge of 2 percent of
+<p>Project 2025: “At stake after 2024 will be examining the status of the Wales Pledge of 2 percent of
 gross domestic product toward defense by NATO members. The new Administration will also
 want to encourage nations to exceed that pledge.” “First, the Europe, Eurasia, and Russia region is
 made up of relatively wealthy and technologically advanced societies that should be expected to bear a
@@ -4774,51 +4788,53 @@ fair share of both security needs and global security architecture: The United S
 to provide a defense umbrella for countries unwilling to contribute appropriately. At stake after 2024 will
 be examining the status of the Wales Pledge of 2 percent of gross domestic product toward defense by
 NATO members. The new Administration will also want to encourage nations to exceed that pledge.”
-[Department of State, Project 2025, accessed 6/24/24]
+[Department of State, Project 2025, accessed 6/24/24]</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h3>USCYBERCOM</h3>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-Project 2025 called for the elimination of USCYBERCOM’s efforts to protect U.S. elections from
+<p>Project 2025 called for the elimination of USCYBERCOM’s efforts to protect U.S. elections from
 bad actors in cyberspace including foreign actors. “End USCYBERCOM’s participation in federal
 efforts to ‘fortify’ U.S. elections to eliminate the perception that DOD is engaging in partisan politics.”
-[Department of Defense, Project 2025, accessed 6/24/24]
+[Department of Defense, Project 2025, accessed 6/24/24]</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h3>Foreign Affairs</h3>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<h3>Toplines</h3>
+<h4>Toplines</h4>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-✔ Withdraws from treaties and alliances, including NATO.
-✔ Re-implements the “Remain in Mexico” policy.
-✔ Guts humanitarian aid for countries in need.
-✔ Eliminates the Export-Import Bank, or reduces its efficacy.
-✔ Ends economic engagement with China and imposes drastic tariffs.
+<ul style="list-style-type:none;">
+  <li>✔ Withdraws from treaties and alliances, including NATO.</li>
+  <li>✔ Re-implements the “Remain in Mexico” policy.</li>
+  <li>✔ Guts humanitarian aid for countries in need.</li>
+  <li>✔ Eliminates the Export-Import Bank, or reduces its efficacy.</li>
+  <li>✔ Ends economic engagement with China and imposes drastic tariffs.</li>
+</ul>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h3>Countries of Interest</h3>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-Project 2025 recommended focusing most on: China, Iran, Venezuela, Russia, and North Korea. “In
+<p>Project 2025 recommended focusing most on: China, Iran, Venezuela, Russia, and North Korea. “In
 a world on fire, a handful of nations require heightened attention. Some represent existential threats to
 the safety and security of the American people; others threaten to hurt the U.S. economy; and others are
 wild cards, whose full threat scope is unknown but nevertheless unsettling. The five countries on which
 the next Administration should focus its attention and energy are China, Iran, Venezuela, Russia, and
-North Korea.” [Department of State, Project 2025, accessed 6/24/24]
+North Korea.” [Department of State, Project 2025, accessed 6/24/24]</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h3>Personnel</h3>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-Project 2025 on the State Department: “The next Administration must take swift and decisive
+<p>Project 2025 on the State Department: “The next Administration must take swift and decisive
 steps to reforge the department into a lean and functional diplomatic machine that serves the and,
 thereby, the American people.” “The American people need and deserve a diplomatic machine fully
 focused on the national interest as defined through the election of a President who sets the domestic and
 international agenda for the nation. The next Administration must take swift and decisive steps to reforge
 the department into a lean and functional diplomatic machine that serves the and, thereby, the American
-people.” [Department of State, Project 2025, accessed 6/24/24]
+people.” [Department of State, Project 2025, accessed 6/24/24]</p>
 
-Project 2025: “The next President can make the State Department more effective by providing a
+<p>Project 2025: “The next President can make the State Department more effective by providing a
 clear foreign policy vision, selecting political officials and career diplomats that will
 enthusiastically turn that vision into a policy agenda, and firmly supporting the State Department
 as it makes the necessary institutional adjustments.” [Department of State, Project 2025, accessed
-6/24/24]
+6/24/24]</p>
 
-Project 2025 urged the next president to place their State appointees “directly into [their] roles,
+<p>Project 2025 urged the next president to place their State appointees “directly into [their] roles,
 pending confirmation” – thereby circumventing the Senate confirmation process. “Exert Leverage
 During the Confirmation Process. Notwithstanding the challenges and slowness of the modern U.S.
 Senate confirmation process, the next President can exert leverage on the Senate if he or she is willing to
@@ -4826,17 +4842,17 @@ place State Department appointees directly into those roles, pending confirmatio
 ensure that the department has immediate senior political leadership and would force the Senate to act
 on nominees’ appointments instead of being allowed to engage in dilatory tactics that cripple the State
 Department’s functionality for weeks, months, or even years.” [Department of State, Project 2025,
-accessed 6/24/24]
+accessed 6/24/24]</p>
 
-Project 2025 urged the placement of political appointees into positions that do not require Senate
+<p>Project 2025 urged the placement of political appointees into positions that do not require Senate
 confirmation and urged increasing the number of political appointees. “Assert Leadership in the
 Appointment Process. The next Administration should assert leadership over, and guidance to, the State
 Department by placing political appointees in positions that do not require Senate confirmation, including
 senior advisors, Principal Deputy Assistant Secretaries, and Deputy Assistant Secretaries. Given the
 department’s size, the next Administration should also increase the number of political appointees to
-manage it.” [Department of State, Project 2025, accessed 6/24/24]
+manage it.” [Department of State, Project 2025, accessed 6/24/24]</p>
 
-Project 2025 called for the next conservative administration to accept the resignations of all
+<p>Project 2025 called for the next conservative administration to accept the resignations of all
 political ambassadors and review and reassess all career ambassadors as well. “Reboot
 Ambassadors Worldwide. All ambassadors are required to submit letters of resignation at the start of a
 new Administration. Previous Republican Administrations have accepted the resignations of only the
@@ -4844,9 +4860,9 @@ political ambassadors and allowed the foreign service ambassadors to retain thei
 months or years into a new Administration.5 The next Administration must go further: It should both
 accept the resignations of all political ambassadors and quickly review and reassess all career
 ambassadors. This review should commence well before the new Administration’s first day.” [Department
-of State, Project 2025, accessed 6/24/24]
+of State, Project 2025, accessed 6/24/24]</p>
 
-Project 2025: “Political ambassadors with strong personal relationships with the President should
+<p>Project 2025: “Political ambassadors with strong personal relationships with the President should
 be prioritized for key strategic posts such as Australia, Japan, the United Kingdom, the United
 Nations, and the North Atlantic Treaty Organization (NATO).” “Ambassadors in countries where U.S.
 policy or posture would substantially change under the new Administration, as well as any who have
@@ -4856,7 +4872,7 @@ appointees, foreign service officers, and civil service personnel, with no prede
 among these categories. Political ambassadors with strong personal relationships with the President
 should be prioritized for key strategic posts such as Australia, Japan, the United Kingdom, the United
 Nations, and the North Atlantic Treaty Organization (NATO).” [Department of State, Project 2025,
-accessed 6/24/24]
+accessed 6/24/24]</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h3>Treaties</h3>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
@@ -5036,7 +5052,9 @@ Africa, security cooperation with European allies, especially France, will be vi
 threats and the incursion of Russian influence through positionings of the Wagner Group.” [Department of
 State, Project 2025, accessed 6/24/24]
 
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h3>Sub-Saharan Africa</h3>
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 Project 2025: “African nations are particularly (and reasonably) non-receptive to the U.S. social
 policies such as abortion and pro-LGBT initiatives being imposed on them.” “Focus on core
 diplomatic activities, and stop promoting policies birthed in the American culture wars. African nations are
@@ -5244,16 +5262,18 @@ representing US business interests abroad.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h3>Environment</h3>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<h3>Toplines</h3>
+<h4>Toplines</h4>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-✔ Slashes EPA’s capabilities and rescinds Biden-era protections
-✔ Disbands Office of Environmental Justice and External Civil Rights
-✔ Reverses the Good Neighbor Plan, which secured significant reductions in ozone-forming
-emissions from power plants and industrial facilities
-✔ Undermines the effective cleanup of toxic superfund sites
-✔ Significantly expands drilling sites without regard for environmental impacts
-✔ Removes protections from national monuments and parks
-✔ Puts wildlife at risk
+<ul style="list-style-type:none;">
+  <li>✔ Slashes EPA’s capabilities and rescinds Biden-era protections.</li>
+  <li>✔ Disbands Office of Environmental Justice and External Civil Rights.</li>
+  <li>✔ Reverses the Good Neighbor Plan, which secured significant reductions in ozone-forming
+    emissions from power plants and industrial facilities.</li>
+  <li>✔ Undermines the effective cleanup of toxic superfund sites.</li>
+  <li>✔ Significantly expands drilling sites without regard for environmental impacts.</li>
+  <li>✔ Removes protections from national monuments and parks.</li>
+  <li>✔ Puts wildlife at risk.</li>
+</ul>
 
 Project 2025: “Those who suffer most from the policies environmentalism would have us enact
 are the aged, poor, and vulnerable.” “‘Cheap grace’ aptly describes the Left’s love affair with
@@ -5414,14 +5434,15 @@ relevant, science-based risk assessments to the American public.
 <h4>Consequences:</h4>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <ul style="list-style-type:none;">
-<li>● Harms economic, scientific, and educational progress. The plan would cut over $800 million for
-scientific research, technology, and education on the climate crisis and Earth’s natural systems.</li>
-<li>● Undercuts our nation’s ability to understand, prepare for, and build resilience to climate change
-and more extreme weather. The plan would stymie scientific advancements in climate change
-adaptation including carbon storage, fish population conservation, and wildfire and health impact
-studies. It would also threaten community preparedness for extreme weather and potentially gut
-tools and models that forecast the ecological and mortality impacts of regional ozone
-concentrations and pollution.</li>
+  <li>● Harms economic, scientific, and educational progress. The plan would cut over $800 million 
+    for scientific research, technology, and education on the climate crisis and Earth’s natural 
+    systems.</li>
+  <li>● Undercuts our nation’s ability to understand, prepare for, and build resilience to climate 
+    change and more extreme weather. The plan would stymie scientific advancements in climate change
+    adaptation including carbon storage, fish population conservation, and wildfire and health impact 
+    studies. It would also threaten community preparedness for extreme weather and potentially gut 
+    tools and models that forecast the ecological and mortality impacts of regional ozone concentrations 
+    and pollution.</li>
 </ul>
 
 <p>Threatens public health, safety, and the environment. The plan would halt or limit integrated efforts across
@@ -5441,22 +5462,24 @@ cleanups, which are disproportionately located in or near communities of color a
 <h4>Consequences:</h4>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <ul style="list-style-type:none;">
-  <li>● This change would prioritize short-term cleanups to cut costs for polluters while increasing the
-risk of inadequate cleanups that threaten community health and safety at risk.</li>
-  <li>● The proposal would also weaken groundwater cleanup regulations and revisit the designation of
-PFAS chemicals–forever chemicals that pose serious human health risks including cancer, liver,
-thyroid and reproductive problems, low birthweight and increased risk of birth defects, among
-others–as “hazardous substances” under CERCLA.</li>
+  <li>● This change would prioritize short-term cleanups to cut costs for polluters while increasing 
+    the risk of inadequate cleanups that threaten community health and safety at risk.</li>
+  <li>● The proposal would also weaken groundwater cleanup regulations and revisit the designation 
+    of PFAS chemicals–forever chemicals that pose serious human health risks including cancer, liver, 
+    thyroid and reproductive problems, low birthweight and increased risk of birth defects, among 
+    others–as “hazardous substances” under CERCLA.</li>
 </ul>
 
 <p>Project 2025 would end EOP-led policies and procedures that the Administration alleges are
 “used to advance radical gender, racial, and equity initiatives”</p>
+
 <p>The proposal seeks to undo policies and whole-of-government efforts to tackle climate change and
 advance equity and justice through the Office of Science and Technology Policy (OSTP) and the Council
 on Environmental Quality (CEQ). It demands the end of EOP-led “policies and procedures that are used
 to advance radical gender, racial, and equity initiatives.”</p>
-
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h3>CAP Analysis on Project 2025 and ending Cumulative Impact Analysis</h3>
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p>More specifically, the plan calls for “banning the use of cumulative impact analysis” under the National
 Environmental Policy Act (NEPA) and seeks to “limit the scope for judicial review of agency NEPA
 analysis and judicial remedies.” It also recommends “a new executive order to create a unified process for
@@ -5483,22 +5506,22 @@ air, drink clean water, and live in a healthy and safe environment.</li>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h4>Drill everywhere</h4>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-The chapter’s overarching recommendation is a fossil fuel development free-for-all. Despite the fact that
+<p>The chapter’s overarching recommendation is a fossil fuel development free-for-all. Despite the fact that
 DOI manages our nation’s National Parks, Wildlife Refuges, National Monuments, and more, there is
 scant mention of land conservation. It argues that “no other initiative is as important for the DOI under
 a conservative President than the restoration of the department’s historic role managing the
-nation’s vast storehouse of hydrocarbons, much of which is yet to be discovered.”
+nation’s vast storehouse of hydrocarbons, much of which is yet to be discovered.”</p>
 
-Despite its so-called “energy dominance” agenda, the proposal mentions renewable energy only once, in
+<p>Despite its so-called “energy dominance” agenda, the proposal mentions renewable energy only once, in
 which it accuses Secretary Deb Haaland of “dramatically increas[ing] production of solar and wind
 energy” in order to undermine energy dominance. The plan also demands a near doubling of Willow
 project drilling in the Arctic: “Approve the 2020 Willow [Environmental Impact Statement] ... and expand
-approval from three to five drilling pads.”
+approval from three to five drilling pads.”</p>
 
-Consistent with this “drill everywhere” approach but contained within a separate chapter on the State
+<p>Consistent with this “drill everywhere” approach but contained within a separate chapter on the State
 Department, Project 2025 recommends increasing fossil fuel extraction and production across the entire
 Western Hemisphere, ostensibly to “reduce reliance on distant and manipulable sources of fossil fuels,”
-among other objectives.
+among other objectives.</p>
 
 <p>The plan’s push for more drilling throughout the Americas specifically urges more fossil fuel exploration
 and drilling in the Arctic, while offhandedly acknowledging that the oil and gas there will be more
@@ -5536,14 +5559,14 @@ of the Antiquities Act of 1906,” which the plan also recommends.</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h3>Addressing Native American issues with nothing but talking points</h3>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<p>The plan’s recommendations for “fulfilling the nations trust responsibilities to American Indians and Indian
-nations” border on insulting:</p>
+<p>The plan’s recommendations for “fulfilling the nations trust responsibilities to American Indians 
+and Indian nations” border on insulting:</p>
 
 <ul style="list-style-type:none;">
-<li>● “End the war on fossil fuels and domestically available minerals and facilitate their development
-on lands owned by Indians and Indian nations.”</li>
-<li>● “End federal mandates and subsidies of electric vehicles.”</li>
-<li>● “Secure the nation’s border to protect the sovereignty and safety of tribal lands.”</li>
+  <li>● “End the war on fossil fuels and domestically available minerals and facilitate their development
+    on lands owned by Indians and Indian nations.”</li>
+  <li>● “End federal mandates and subsidies of electric vehicles.”</li>
+  <li>● “Secure the nation’s border to protect the sovereignty and safety of tribal lands.”</li>
 </ul>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h3>Putting wildlife at risk</h3>
@@ -5555,24 +5578,25 @@ proposes reinstituting the practice of bearbaiting, a cruel practice the Humane 
 <h4>Consequences:</h4>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <ul style="list-style-type:none;">
-<li>● On the whole, Project 2025’s recommendations for public lands and other matters within DOI’s
-jurisdiction would significantly harm the critical effort to stop climate change, seriously threaten
-wildlife, and imperil America’s most cherished natural places—all in order to serve the narrow
-interests of outmoded, polluting industries.</li>
+  <li>● On the whole, Project 2025’s recommendations for public lands and other matters within DOI’s 
+    jurisdiction would significantly harm the critical effort to stop climate change, seriously threaten 
+    wildlife, and imperil America’s most cherished natural places—all in order to serve the narrow 
+    interests of outmoded, polluting industries.</li>
 </ul>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h3>Energy</h3>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h4>End grid planning and focus only on “reliability”</h4>
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p>One of the most significant of these changes is the proposal to flat-out “end grid planning and focus
 instead on reliability” concerning FERC, the North American Electric Reliability Corporation (NERC), and
 DOE’s Grid Deployment Office (GDO). The plan also urges “the funding programs that GDO oversees
 and administers” to “emphasize grid reliability, not renewables expansion.”</p>
 
-<p>With its fixation on limiting federal involvement in the grid to “reliability” (mostly concerning cybersecurity
-threats), the proposed policy would do nothing to clear the transmission bottleneck preventing renewable
-electricity from reaching areas where that power is needed most to complete the transition away from
-fossil fuels.</p>
+<p>With its fixation on limiting federal involvement in the grid to “reliability” (mostly concerning 
+cybersecurity threats), the proposed policy would do nothing to clear the transmission bottleneck 
+preventing renewable electricity from reaching areas where that power is needed most to complete the 
+transition away from fossil fuels.</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h4>Consequences:</h4>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
@@ -5600,11 +5624,11 @@ not already spent.”</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h3>Eliminate the Loan Program Office</h3>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-Most expansively, the plan calls for DOE to stop backing any new loans or loan guarantees, and for
+<p>Most expansively, the plan calls for DOE to stop backing any new loans or loan guarantees, and for
 Congress to sunset all of DOE’s loan authority, and “eventually eliminate the Loan Program Office”
 (LPO). LPO has been instrumental in supporting American technological innovation critical to keeping
 American businesses competitive on the international stage. LPO financing also supports job creation
-domestically, and to date LPO has supported the creation of over 46,000 permanent jobs.
+domestically, and to date LPO has supported the creation of over 46,000 permanent jobs.</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h4>Consequences:</h4>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
@@ -5824,9 +5848,9 @@ reallocate its funding to other overlapping federal grant programs.” [Departme
 the initial success of Opportunity Zones, which incentivized over $75 billion in private sector investment in
 distressed communities by the end of 2020 with little up-front cost to the taxpayer.” [Department of
 Commerce, Project 2025, accessed 6/24/24]</p>
-
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h3>International Trade Administration</h3>
-
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p>Project 2025 questioned if the International Trade Administration and parts of the Bureau of
 Industry and Security should be moved to the USTR. “Though not an exhaustive set of proposals, the
 next conservative President should consider whether: l The International Trade Administration (ITA) and
@@ -5836,34 +5860,34 @@ Development Agency; the Export– Import Bank; and other trade-related programs 
 federal government—as well as considering whether many of these programs should exist within the
 federal government.” [Department of Commerce, Project 2025, accessed 6/24/24]</p>
 
-Project 2025: “Re-establish and expand suspended in-person pandemic-related verifications,
+<p>Project 2025: “Re-establish and expand suspended in-person pandemic-related verifications,
 particularly regarding the People’s Republic of China. Ensure that verifications are rigorous.”
 [Department of Commerce, Project 2025, accessed 6/24/24]</p>
 
-Project 2025: “Implement advanced analytics and artificial intelligence to identify opportunities for
+<p>Project 2025: “Implement advanced analytics and artificial intelligence to identify opportunities for
 self-initiation, detect circumvention, and prevent bad actors from gaming the system.” [Department
 of Commerce, Project 2025, accessed 6/24/24]</p>
 
-Project 2025: “Ensure senior policy and decision-making positions are always held by political
+<p>Project 2025: “Ensure senior policy and decision-making positions are always held by political
 appointees.” [Department of Commerce, Project 2025, accessed 6/24/24]</p>
 
-Project 2025: “Revive the China-specific non-market economy unit.” [Department of Commerce,
+<p>Project 2025: “Revive the China-specific non-market economy unit.” [Department of Commerce,
 Project 2025, accessed 6/24/24]</p>
 
-Project 2025: Top Market Reports could be replaced by industry competitiveness assessments in
+<p>Project 2025: Top Market Reports could be replaced by industry competitiveness assessments in
 critical sectors of the economy. “However, outside of these functions, implementation of I&A’s mission
 as an intellectual engine for U.S. trade and investment policy can often lack energy and focus. For
 instance, the Top Market Reports that represent a large volume of I&A work do not serve a specific
 strategic function and could be better replaced by industry competitiveness assessments in critical
 sectors of the economy.” [Department of Commerce, Project 2025, accessed 6/24/24]</p>
 
-Project 2025: Industry and Analysis should permanently be restructured to perform supply chain
+<p>Project 2025: Industry and Analysis should permanently be restructured to perform supply chain
 analysis, identifying potential vulnerabilities. “Going forward, I&A should be permanently restructured
 to perform supply-chain analysis on an ongoing basis for the U.S. government, identifying potential
 vulnerabilities like those exposed by the pandemic and resulting shortages in everything from
 semiconductors to baby formula.” [Department of Commerce, Project 2025, accessed 6/24/24]</p>
 
-Project 2025 called for “strategic decoupling from China, critical supply chains, and emerging
+<p>Project 2025 called for “strategic decoupling from China, critical supply chains, and emerging
 technologies to name a few. “Furthermore, permanent standing teams should be established and
 staffed by properly aligned political appointees and trusted career staff to analyze and spur action on the
 following priority policy issues: l Strategic decoupling from China; l Defense industrial base strength; l
@@ -5871,7 +5895,7 @@ Critical supply chains (e.g., pharmaceuticals, medical devices, food); and l Eme
 rare earth minerals, semiconductors, batteries, artificial intelligence, quantum computing).” [Department of
 Commerce, Project 2025, accessed 6/24/24]</p>
 
-Project 2025 called the “strategic decoupling from China is necessary and, fundamentally, any
+<p>Project 2025 called the “strategic decoupling from China is necessary and, fundamentally, any
 exports of goods, software, and technology to countries of concern, whether directly or indirectly,
 should be prohibited or controlled in the absence of good cause.” “The next few years will prove or
 disprove the assertion that the U.S. stands on the precipice of a Cold War with China. Many believe that a
@@ -5880,7 +5904,7 @@ any exports of goods, software, and technology to countries of concern, whether 
 should be prohibited or controlled in the absence of good cause (e.g., humanitarian and medical aid, food
 aid).” [Department of Commerce, Project 2025, accessed 6/24/24]</p>
 
-Project 2025 recommended Global Markets be consolidated and to elevate Advocacy Center and
+<p>Project 2025 recommended Global Markets be consolidated and to elevate Advocacy Center and
 SelectUSA to drive large-scale export transactions and foreign direct investment. “Global Markets
 should also consolidate and elevate the Advocacy Center and SelectUSA as relatively low-cost tools to
 drive large-scale export transactions and foreign direct investment (FDI). SelectUSA is a low-cost and
@@ -5891,11 +5915,11 @@ investors.” [Department of Commerce, Project 2025, accessed 6/24/24]</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h3>USPTO</h3>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-Project 2025 “The U.S. Patent and Trademark Office (USPTO) should be made into a performance-
+<p>Project 2025 “The U.S. Patent and Trademark Office (USPTO) should be made into a performance-
 based organization under the Office of Management and Budget (OMB).” [Department of
 Commerce, Project 2025, accessed 6/24/24]</p>
 
-Project 2025 recommended USPTO be consolidated into NIST. “Alternatively, the USPTO should be
+<p>Project 2025 recommended USPTO be consolidated into NIST. “Alternatively, the USPTO should be
 consolidated with the National Institute of Standards and Technology (NIST) in a new U.S. Office of
 Patents, Trademarks, and Standards, with all non-mission-critical research functions eliminated or moved
 to other, more focused, federal agencies;” [Department of Commerce, Project 2025, accessed 6/24/24]</p>
@@ -5928,7 +5952,7 @@ licensing dispute remains unresolved, the final decision should be elevated to t
 Advisor and the Secretaries of Defense, State, Commerce, and Energy.” [Department of Commerce,
 Project 2025, accessed 6/24/24]</p>
 
-P<p>roject 2025: “BIS should provide specific congressional committees with data from the
+<p>Project 2025: “BIS should provide specific congressional committees with data from the
 Automated Export System on a quarterly basis.” “Additionally, to improve congressional oversight of
 BIS’s license adjudication process, BIS should provide specific congressional committees with data from
 the Automated Export System on a quarterly basis. Electronic files should contain U.S. exporter by name;
@@ -6053,7 +6077,7 @@ accessed 6/24/24]</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h4>Top Lines</h4>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<h3>Tax Reform</h3>
+<h4>Tax Reform</h4>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <ul style="list-style-type:none;">
   <li>✔ Repeal the Inflation Reduction Act, making life more expensive for Americans and cutting 
@@ -6069,7 +6093,7 @@ accessed 6/24/24]</p>
   <li>✔ Push for a flat consumption tax, and for a flat tax on income but excluding investment.</li>
 </ul>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<h3>IRS</h3>
+<h4>IRS</h4>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <ul style="list-style-type:none;">
   <li>✔ Staff the IRS with political appointees who are not subject to Senate approval in order to 
@@ -6082,7 +6106,7 @@ accessed 6/24/24]</p>
   <li>✔ Withdraw from the World Bank and IMF and end its financial contribution to both.</li>
 </ul>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<h3>Financial Regulation</h3>
+<h4>Financial Regulation</h4>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <ul style="list-style-type:none;">
   <li>✔ Privatize Fannie Mae and Freddie Mac, exposing borrowers and the housing market to 
@@ -6094,7 +6118,7 @@ accessed 6/24/24]</p>
     23 or older.</li>
 </ul>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<h3>DEI</h3>
+<h4>DEI</h4>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <ul style="list-style-type:none;">
   <li>✔ Project 2025 calls for the elimination of the office for Diversity, Equity, Inclusion 
@@ -7027,7 +7051,7 @@ combustion engines.” [Department of Transportation, Project 2025, accessed 6/2
 <ul style="list-style-type:none;">
   <li>● Seek to refocus the Federal Highway Administration on maintaining and improving the highway system.</li>
   <li>● Remove or reform rules and regulations that hamper state governments.</li>
-  <li>● Reduce the amount of federal involvement in local infrastructure decisions. 
+  <li>● Reduce the amount of federal involvement in local infrastructure decisions.<br>
     [Department of Transportation, Project 2025, accessed 6/24/24]</li>
 </ul>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
@@ -7173,7 +7197,7 @@ efforts to ‘fortify’ U.S. elections to eliminate the perception that DOD is 
 <h4>Top Lines</h4>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <ul style="list-style-type:none;">
- <li>✔ Legislate and implement national extreme abortion bans.</li>
+  <li>✔ Legislate and implement national extreme abortion bans.</li>
   <li>✔ Cut off federal funding from states with any pro-choice policies in place.</li>
   <li>✔ Removing all reproductive health and DEI related terms from federal laws and rules.</li>
   <li>✔ Abolish teaching about reproductive health in schools.</li>
