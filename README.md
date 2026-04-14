@@ -3820,16 +3820,17 @@ provide college scholarships to low-income students.” [U.S. Department of Educ
 <h4>Top Lines</h4>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <ul style="list-style-type:none;">
-✔ Would implement work requirements for food stamps
-✔ Would increase the cost of crop insurance for farmers
-✔ Would eliminate some federal meat inspections, endangering the health of consumers
-✔ Would gut federal dietary guidelines
-✔ Would eliminate the requirement that GMOs be labeledWould implement work requirements for
-food stamps
-✔ Would increase the cost of crop insurance for farmers
-✔ Would eliminate some federal meat inspections, endangering the health of consumers
-✔ Would gut federal dietary guidelines
-✔ Would eliminate the requirement that GMOs be labeled
+  <li>✔ Would implement work requirements for food stamps.</li>
+  <li>✔ Would increase the cost of crop insurance for farmers.</li>
+  <li>✔ Would eliminate some federal meat inspections, endangering the health of consumers.</li>
+  <li>✔ Would gut federal dietary guidelines.</li>
+  <li>✔ Would eliminate the requirement that GMOs be labeledWould implement work requirements for
+food stamps.</li>
+  <li>✔ Would increase the cost of crop insurance for farmers.</li>
+  <li>✔ Would eliminate some federal meat inspections, endangering the health of consumers.</li>
+  <li>✔ Would gut federal dietary guidelines.</li>
+  <li>✔ Would eliminate the requirement that GMOs be labeled.</li>
+</ul>
 
 <p>Project 2025 recommended “installing work requirements for food stamps” to reverse the “family
 crisis” in the U.S. “Furthermore, the next conservative President must understand that using government
