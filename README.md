@@ -203,7 +203,7 @@ administration academy questionnaire can be found here.</p>
   <li>● Reverses Climate Action: Cuts scientific and climate research, dismantle environmental protections, 
     and sell off federally protected public lands to the highest bidder. It also disbands the Environmental 
     Protection Agency, undermining clean air and water protections.</li>
-<ul>
+</ul>ul>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h3>Backers and Authors</h3>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
