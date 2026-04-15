@@ -59,6 +59,29 @@
 </head>
 <body>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<button onclick="topFunction()" id="myBtn" title="Go to top">Top</button>
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~ script function: scrollFunction() ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<script>
+  /* Get the button */
+  var mybutton = document.getElementById("myBtn");
+
+  /* When the user scrolls down 10px from the top of the document, show the button */
+  window.onscroll = function() {scrollFunction()};
+
+  function scrollFunction() {
+    if (document.body.scrollTop > 10 || document.documentElement.scrollTop > 10) {
+      mybutton.style.display = "block";
+    } else {
+      mybutton.style.display = "none";
+    }
+  }
+
+  // When the user clicks on the button, scroll to the table of contents near top of document.
+  function topFunction() {
+    document.getElementById('tableOfContents').scrollIntoView();
+  }
+</script>
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h1>Subject-by-Subject Breakdown of Koch's, Trump’s, &amp; the Heritage Foundation Project 2025</h1>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p>Project 2025 is the blueprint for Trump and MAGA Republicans to gut checks and balances so that
@@ -116,7 +139,7 @@ four pillars.”</h4>
   <li>(4) <b>180-Days Playbook</b>: Unpublished transition plan to immediately operationalize Project
     2025, including executive actions and personnel changes to carry out Trump’s promise of being 
     “a dictator on Day 1.”</li>
-</ol>
+</ul>
 
 <p>The loyalty test questionnaire for Project 2025’s presidential personnel database and presidential
 administration academy questionnaire can be found here.</p>
@@ -979,6 +1002,7 @@ in Community Financial Services Association of America, the next conservative Pr
 order the immediate dissolution of the agency—pull down its prior rules, regulations and
 guidance, return its staff to their prior agencies and its building to the General Services
 Administration.” [p. 837-838]
+
   <ul style="list-style-type:none;">
     <li>○ The president should remove CFPB director: “In Seila Law LLC v. Consumer Financial
 Protection Bureau, the Supreme Court of the United States held that the CFPB’s
@@ -1107,6 +1131,7 @@ abortion. Moreover, abortion should be clearly defined as only those procedures 
 intentionally end an unborn child’s life. Miscarriage management or standard ectopic
 pregnancy treatments should never be conflated with abortion.”</li>
 </ul>
+</li>
 </ul>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h3 id="dol">Department of Labor:</h3>
@@ -6864,7 +6889,7 @@ of Housing and Urban Development, Project 2025, accessed 6/24/24]</p>
     to opportunity and address any inequity among protected class groups Promote integration and reduce segregation 
     Transform racially or ethnically concentrated areas of poverty into areas of opportunity” [U.S. Department of 
     Housing and Urban Development, accessed 2/20/24]</li>
-<ul>
+</ul>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h3>Housing Equity</h3>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
