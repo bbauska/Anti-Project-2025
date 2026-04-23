@@ -1,4 +1,4 @@
-/* css/styles.css of w3cx-5of5 */
+/* bbauska/Anti-Project2025/css/styles.css for Anti-Project2025.bauska.org */
 img.displayed {
   display: block;
   margin: 0 auto; 
@@ -12,13 +12,13 @@ img.displayed {
 ul li {
   font-size: 14.5px;
   font-family: Bahnschrift, Inter, Helvetic, sans-serif;
-  padding: 10px;  /* 14.5px */
+  padding: 14.5px;  /* 14.5px */
   line-height:110%;
 }
 ol li {
   font-size: 14.5px;
   font-family: Bahnschrift, Inter, Helvetic, sans-serif;
-  padding: 10px;  /* 14.5px */
+  padding: 14.5px;  /* 14.5px */
   line-height:110%;
 }
 
@@ -26,7 +26,7 @@ p {
   font-size: 14.5px;
   font-family: Bahnschrift, Inter, Helvetic, sans-serif;
   text-align: left;
-  margin-left: 15px;  /* 10px */
+  margin-left: 10px;  /* 10px */
 }
 
 a:link {
@@ -85,8 +85,8 @@ h6 {
 }
 
 details {
-  font: 14px Bahnschrift, Inter, sans-serif, Calibri;
-  width: 65%;  /* max-content */
+  font: 14.5px Bahnschrift, Inter, sans-serif, Calibri;  /* 14px */
+  width: 65%;  /* 65%, max-content */
 }
 details > summary {
   padding: 2px 6px;
@@ -95,7 +95,7 @@ details > summary {
   border: none;
   box-shadow: 3px 3px 4px #00008b;  /* dark blue */
   cursor: pointer;
-  margin-left: 15px;  /* 10px */
+  margin-left: 10px;  /* 15px */
 }
 details > p {
   border-radius: 0 0 10px 10px;
@@ -117,7 +117,7 @@ body {
   color: #000;  /* black */
   text-align: left;
   padding: 10px;
-  margin: 15px;  /* was margin-left: 10px; */
+  margin: 10px;  /* was margin-left: 15px; */
 }
 
 #myBtn {
@@ -193,7 +193,7 @@ th, td {
 }
 table {
   border-collapse: collapse;
-  margin-left: 15px;
+  margin-left: 10px;  /* 15px; */
   border: 1px solid #000;
 }
 
