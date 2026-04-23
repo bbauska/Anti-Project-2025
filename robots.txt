@@ -1,0 +1,5 @@
+# robots.txt
+User-Agent: *
+Disallow: 
+
+Sitemap: https://github.com/bbauska/Anti-Project-2025
