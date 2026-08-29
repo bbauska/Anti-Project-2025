@@ -66,10 +66,10 @@ administration academy questionnaire can be found here.</p>
 <h4>In their own words, Project 2025 has four main goals to shape America’s future:</h4>
 
 <ul style="list-style-type:none;">
-  <li>● Restore the family as the centerpiece of American life and protect our children.</li>
-  <li>● Dismantle the administrative state.</li>
-  <li>● Defend our nation’s sovereignty, border, and bounty against global threats.</li>
-  <li>● Secure God-given individual rights to live freely.</li>
+  <li>1. Restore the family as the centerpiece of American life and protect our children.</li>
+  <li>2. Dismantle the administrative state.</li>
+  <li>3. Defend our nation’s sovereignty, border, and bounty against global threats.</li>
+  <li>4. Secure God-given individual rights to live freely.</li>
 </ul>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h3>Summary of Policy Agenda</h3>
@@ -77,41 +77,41 @@ administration academy questionnaire can be found here.</p>
 <h4>Takes Over the Government to Assert Total Control</h4>
 
 <ul style="list-style-type:none;">
-  <li>● Guts Checks and Balances: Consolidated unchecked presidential power by purging the civil 
+  <li><b>Guts Checks and Balances:</b> Consolidated unchecked presidential power by purging the civil 
     service, firing independent agency leaders, destroying entire agencies, and conditioning federal
     funding on political fealty. Project 2025 compromises the ability of every civil servant to uphold 
     the law and forces them to serve the president at the expense of the public.</li>
-  <li>● Political Purge of the Civil Service: Imposes loyalty tests and purges thousands of independent 
+  <li><b>Political Purge of the Civil Service:</b> Imposes loyalty tests and purges thousands of independent 
     civil servants so that the president can give control to thousands of political operatives, hand-picked 
     for their unquestioned loyalty to the president regardless of qualifications, expertise, or commitment 
     to constitutional duty.</li>
-  <li>● Seizes control of independent agencies: Fires independent agency leaders and forces independent 
+  <li><b>Seizes control of independent agencies:</b> Fires independent agency leaders and forces independent 
     agencies from the Federal Reserve to the FDA and the FCC to the CIA to prioritize the narrow interests 
     of the president over their expertise, professional judgment and constitutional duty.</li>
-   <li>● Weaponizes the Justice System: Ends the independence of the DOJ, FBI and White House Counsel so 
+   <li><b>Weaponizes the Justice System:</b> Ends the independence of the DOJ, FBI and White House Counsel so 
      that the president can turn them into the enforcement arms of the president, including politicizing 
      law enforcement, controlling prosecutions, targeting political opponents, and enforcing his agenda.</li>
-  <li>● Usurp the Power of the Purse: Alludes to a plan developed by the architects of Project 2025 to 
+  <li><b>Usurp the Power of the Purse:</b> Alludes to a plan developed by the architects of Project 2025 to 
     resurrect the Impoundment Act so that the president can unilaterally block congressionally-mandated 
     spending.</li>
-  <li>● Undermines Congressional Oversight: Evades the Senate’s constitutional obligation to give advice 
+  <li><b>Undermines Congressional Oversight:</b> Evades the Senate’s constitutional obligation to give advice 
     and consent on the president’s appointees and obstructs transparency, accountability and oversight.</li>
 </ul>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h3>Threatens Personal Freedoms and Rights</h3>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <ul style="list-style-type:none;">
-  <li>● Slashes Reproductive Freedom in Every State: Criminalizes medication abortions nationwide, 
+  <li><b>Slashes Reproductive Freedom in Every State:</b> Criminalizes medication abortions nationwide, 
     bans abortion pills, creates an “abortion surveillance” regime to monitor all pregnancies to 
     prosecute potential miscarriages, restricts birth control, and limits access to fertility services 
     like IVF. It declares that the “Dobbs decision was just the beginning.”</li>
-  <li>● Attacks LGBTQ+ Americans: Declares that anti-LGBTQ+ discrimination should be legal, rescinds 
+  <li><b>Attacks LGBTQ+ Americans:</b> Declares that anti-LGBTQ+ discrimination should be legal, rescinds 
     nondiscrimination protections for LGBTQ+ Americans, undermines the rights of same-sex married couples, 
     criminalizes gender nonconformity, bans transgender people from the military, weaponizes federal law 
     to require states and private actors to discriminate against transgender people, and dismantles 
     services for LGBTQ+ Americans wherever possible, including by mandating the federal government to 
     officially adopt the stance that marriage is only between a man and woman.</li>
-  <li>● Undermines Racial Equality: Defunds services for underserved communities and emboldens racial 
+  <li><b>Undermines Racial Equality:</b> Defunds services for underserved communities and emboldens racial 
     discrimination in everything from housing to education to employment by systematically eliminating 
     programs and policies that prevent discrimination or promote racial diversity, equity and inclusion. 
     It further hinders efforts to address racial inequalities by prohibiting the collection of data 
@@ -119,60 +119,60 @@ administration academy questionnaire can be found here.</p>
     In specific programs, it would absolve police departments under federal oversight for racial 
     discrimination and wipe out the Office of Civil Rights responsible for protecting students and educators 
     from discrimination.</li>
-  <li>● Rolls Back Women’s Rights: On top of an unprecedented assault on reproductive freedom and sexual 
+  <li><b>Rolls Back Women’s Rights:</b> On top of an unprecedented assault on reproductive freedom and sexual 
     health, Project 2025 calls for the removal of “gender equality” or “gender equity” from every piece 
     of federal legislation and reverses every policy, regulation and executive order aimed at promoting 
     gender equality, including immediate dissolving the Gender Policy Council. Repeals any programs 
     “subsidizing single-motherhood” and eliminates services for working families, including overtime pay 
     and Head Start. Rewrites Title IX and makes it harder to report sexual harassment and assault.</li>
-  <li>● Mass Detainments and Deportations: Carries out large-scale raids across the country to round up 
+  <li><b>Mass Detainments and Deportations:</b> Carries out large-scale raids across the country to round up 
     and detain millions of immigrants who have been living and working here for decades, including DREAMERs. 
     Millions of people would be forced into detention camps near the border and deported en masse as part 
     of the largest domestic deportation operation in American history.</li>
-  <li>● Deploys the Military Domestically to Quash Protests: The secret 180-Day Playbook reportedly includes 
+  <li><b>Deploys the Military Domestically to Quash Protests:</b> The secret 180-Day Playbook reportedly includes 
     a plan for Trump to invoke the Insurrection Act so that he can deploy the military to any state for 
     domestic law enforcement and to put down protests and silence political opponents.</li>
-  <li>● Curtails Free Speech: Directs the DOJ to investigate and prosecute private actors involved in 
+  <li><b>Curtails Free Speech:</b> Directs the DOJ to investigate and prosecute private actors involved in 
     promoting equity and inclusion programs, rolls back online free speech protections, and contemplates 
     denying access to the White House Press Corps.</li>
-  <li>● Outlaws Pornography and Bans Books: Seeks to outlaw pornography and imprison anyone involved in 
+  <li><b>Outlaws Pornography and Bans Books:</b> Seeks to outlaw pornography and imprison anyone involved in 
     producing or distributing it. It implies that LGBTQ+ materials are inherently pornographic, which is 
     the pretext for book banning. Hence it seeks to register educators and librarians that share information 
     related to transgender people as sex offenders. It also wants to shut any technology company that 
     distributes the same. Hurts the Middle Class and Working Families.</li>
-  <li>● Ends Social Security and Medicare as we know them: Rips retirement and healthcare security from 
+  <li><b>Ends Social Security and Medicare as we know them:</b> Rips retirement and healthcare security from 
     America’s seniors. Although Project 2025 claims that Social Security and the Medicare Trust Fund “could 
     not be covered here in depth,” this conceals the fact that Project 2025’s architects openly call for 
     cutting Social Security, raising the retirement age, and turning Medicare into a privatized voucher 
     program. Project 2025 also explicitly declares that it will make Medicare Advantage the default option, 
     which would shift millions of seniors off of traditional Medicare and serve as a backdoor for privatization. 
     It also eliminates the Medicare Shared Savings Program.</li>
-  <li>● Raises prescription drug prices: Undoes Medicare’s new ability to negotiate prescription drug prices, 
+  <li><b>Raises prescription drug prices:</b> Undoes Medicare’s new ability to negotiate prescription drug prices, 
     eliminates the $35 monthly limit on insulin prices, and abolishes the cap on out-of-pocket drug expenses 
     for seniors.</li>
-  <li>● Guts Medicaid: Threatens to kick up to 18.5 million Americans off Medicaid by imposing draconian time 
+  <li><b>Guts Medicaid:</b> Threatens to kick up to 18.5 million Americans off Medicaid by imposing draconian time 
     limits or lifetime caps. Recommends further gutting Medicaid by turning it into an underfunded block grant 
     or voucher program.</li>
-  <li>● Cripples Public Education: Completely eliminates the Department of Education, slashes public school 
+  <li><b>Cripples Public Education:</b> Completely eliminates the Department of Education, slashes public school 
     funding, and redirects taxpayer dollars to religious private schools.</li>
-  <li>● Eliminates Head Start: Eliminates the Head Start program, which provides preschool education for over 
+  <li><b>Eliminates Head Start:</b> Eliminates the Head Start program, which provides preschool education for over 
     1 million children in low-income families. Project 2025 also rejects universal child care.</li>
-  <li>● Slashes food assistance: Guts SNAP and WIC while rejecting efforts to offer free universal school meals.</li>
-  <li>● Ends overtime pay: Allows employers to stop paying overtime and rolls back overtime protections.</li>
-  <li>● Raises taxes on the middle class and cuts taxes for wealthiest corporations and individuals: 
+  <li><b>Slashes food assistance:</b> Guts SNAP and WIC while rejecting efforts to offer free universal school meals.</li>
+  <li><b>Ends overtime pay: Allows employers to stop paying overtime and rolls back overtime protections.</li>
+  <li><b>Raises taxes on the middle class and cuts taxes for wealthiest corporations and individuals:</b> 
     Restructures the tax code to lower taxes for large corporations and wealthy individuals offset by tax 
     increases on middle class families.</li>
-  <li>● Increases housing costs: Slashes funding for affordable housing, increases mortgage insurance premiums 
+  <li><b>Increases housing costs:</b> Slashes funding for affordable housing, increases mortgage insurance premiums 
     on FHA loans, and restricts eligibility for first-time homebuyer programs.</li>
-  <li>● Multiplies the costs of higher eduction and blocks student debt relief: Ends existing affordable student 
+  <li><b>Multiplies the costs of higher eduction and blocks student debt relief:</b> Ends existing affordable student 
     loan repayment plans, privatizes all student loans, and eliminates student loan forgiveness for teachers, 
     nurses, law enforcement officers, public servants, and other eligible borrowers. It also calls for 
     legislation to repeal any option for a student-friendly administration to cancel or forgive student loans.</li>
-  <li>● Rolls Back Labor Protections: Guts the capacity of the NLRB and EEOC to protect workers and calls for 
+  <li><b>Rolls Back Labor Protections:</b> Guts the capacity of the NLRB and EEOC to protect workers and calls for 
     state waivers from key labor standards such as the minimum wage, overtime pay and right to organize. It 
     also makes it harder for workers to organize and form unions, and it eviscerates child labor standards 
     that protect children from hazardous jobs.</li>
-  <li>● Abandons our Veterans: Slashes federal jobs held by veterans and drastically limits the disability 
+  <li><b>Abandons our Veterans:</b> Slashes federal jobs held by veterans and drastically limits the disability 
     benefits for which veterans can qualify. It also bans transgender troops from service, revokes the VA’s 
     ability to provide abortion-related care, and slashes the number of general officers.</li>
 </ul>
@@ -180,27 +180,27 @@ administration academy questionnaire can be found here.</p>
 <h3>Puts Americans in Greater Danger</h3>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <ul style="list-style-type:none;">
-  <li>● Destabilizes the Economy: Compromises the autonomy, professionalism and effectiveness of the 
+  <li><b>Destabilizes the Economy:</b> Compromises the autonomy, professionalism and effectiveness of the 
     civil service and independent agencies like the Federal Reserve and FCC which are responsible for 
     protecting the stability of our economy through durable governing capabilities.</li>
-  <li>● Hurts Election Integrity: Eliminates CYBERCOM’s role in protecting U.S. elections from 
+  <li><b>Hurts Election Integrity:</b> Eliminates CYBERCOM’s role in protecting U.S. elections from 
     cyberattacks, including from foreign actors.</li>
-  <li>● Damages Allies and Global Stability: Reorients alliances and pulls out of international 
+  <li><b>Damages Allies and Global Stability:</b> Reorients alliances and pulls out of international 
     organizations aimed at maintaining global peace and prosperity.</li>
-  <li>● Undermines National Security: Strips disfavored Purges the Intelligence Community of disfavored 
+  <li><b>Undermines National Security:</b> Strips disfavored Purges the Intelligence Community of disfavored 
     experts and civil servants to empower cronies loyal only to Trump, regardless of their qualifications 
     disfavored experts and civil servants non-loyalists Intelligence Community/National Security.</li>
-  <li>● Undermines Public Safety: Makes it easier for people who want to commit violence to carry guns 
+  <li><b>Undermines Public Safety: Makes it easier for people who want to commit violence to carry guns 
     and harder for law enforcement to solve violent crimes.</li>
-  <li>● Threatens Consumer Safety: Curtails consumer protections and privatizes or politicizes the FDA, 
-    FAA, TSA, and other agencies responsible for ensuring that our food, medicines,</li>
-  <li>● travel and products remain the safest in the world. Endangers Critical Health Research: 
-    Politicizes, restricts and ends NIH grants or investments in research labs and universities 
-    working to cure Alzheimers, cancer, and other health issues.</li>
-  <li>● Limits Life-Saving Weather Alerts: Privatizes the weather service, which is responsible for 
+  <li><b>Threatens Consumer Safety:</b> Curtails consumer protections and privatizes or politicizes the FDA, 
+    FAA, TSA, and other agencies responsible for ensuring that our food, medicines,
+    travel and products remain the safest in the world.</li>
+  <li><b>Endangers Critical Health Research:</b> Politicizes, restricts and ends NIH grants or investments 
+    in research labs and universities working to cure Alzheimers, cancer, and other health issues.</li>
+  <li><b>Limits Life-Saving Weather Alerts:</b> Privatizes the weather service, which is responsible for 
     preparing for extreme weather events such as heat waves, floods and wildfires. This will force 
     Americans to pay for weather data and restrict access to life-saving weather alerts.</li>
-  <li>● Reverses Climate Action: Cuts scientific and climate research, dismantle environmental protections, 
+  <li><b>Reverses Climate Action:</b> Cuts scientific and climate research, dismantle environmental protections, 
     and sell off federally protected public lands to the highest bidder. It also disbands the Environmental 
     Protection Agency, undermining clean air and water protections.</li>
 </ul>
@@ -230,8 +230,9 @@ Spencer Chretien, former special assistant to the president and associate direct
 Personnel, serves as associate director of the project.” [About, Project 2025, accessed 6/24/24]
 The Advisory Board for Project 2025 includes:</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<div>
 <ul class="columns" data-columns="2" style="list-style-type:none;">
-  <li>● 1792 Exchange</li>
+  <li>1792 Exchange</li>
   <li>● American Accountability Foundation</li>
   <li>● AAPLOG</li>
   <li>● Alabama Policy Institute</li>
@@ -315,6 +316,7 @@ The Advisory Board for Project 2025 includes:</p>
   <li>● Turning Point USA</li>
   <li>● Young America’s Foundation</li>
 </ul>
+</div>
 
 <p>[Advisory Board, Project 2025, accessed 11/14/23]</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
