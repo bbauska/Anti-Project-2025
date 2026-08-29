@@ -45,7 +45,7 @@ first term, Trump would have everything he needs to enact a radical MAGA takeove
 <h4>Project 2025 declares it “paves the way for an effective conservative administration based on 
 four pillars.”</h4>
 
-<ul style="list-style-type:none;">
+<ul style="list-style-type:none; padding:0; margin:0;">
   <li>(1) <b>Policy Agenda</b>: The 920-page “Mandate for Leadership” provides a detailed policy and
     personnel blueprint for the next president to weaponize, restructure, or abolish every federal
     agency.</li>
@@ -203,7 +203,7 @@ administration academy questionnaire can be found here.</p>
   <li>● Reverses Climate Action: Cuts scientific and climate research, dismantle environmental protections, 
     and sell off federally protected public lands to the highest bidder. It also disbands the Environmental 
     Protection Agency, undermining clean air and water protections.</li>
-</ul>ul>
+</ul>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h3>Backers and Authors</h3>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
@@ -229,14 +229,6 @@ during the Trump administration, serves as the director of the 2025 Presidential
 Spencer Chretien, former special assistant to the president and associate director of Presidential
 Personnel, serves as associate director of the project.” [About, Project 2025, accessed 6/24/24]
 The Advisory Board for Project 2025 includes:</p>
-
-<div>
-<!-- ul { 
-  columns: 2;
-  -webkit-columns: 2;
-  -mox-columns: 2;
-  }
--->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <ul class="columns" data-columns="2" style="list-style-type:none;">
   <li>● 1792 Exchange</li>
