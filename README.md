@@ -56,7 +56,7 @@ four pillars.”</h4>
   <li>(4) <b>180-Days Playbook</b>: Unpublished transition plan to immediately operationalize Project
     2025, including executive actions and personnel changes to carry out Trump’s promise of being 
     “a dictator on Day 1.”</li>
-</ol>
+</ul>
 
 <p>The loyalty test questionnaire for Project 2025’s presidential personnel database and presidential
 administration academy questionnaire can be found here.</p>
