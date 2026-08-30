@@ -439,13 +439,13 @@ Bureaucracy, Project 2025, page 80]</p>
 <h3>Impact of Schedule F:</h3>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <ul style="list-style-type:none;">
-  <li>● Undermine the ability of public servants to impartially and effectively carry out services 
+  <li>Undermine the ability of public servants to impartially and effectively carry out services 
     that are critical to national security, economic stability and public safety.</li>
-  <li>● Eliminates a critical barrier to limiting the implementation of Project 2025’s most egregious
+  <li>Eliminates a critical barrier to limiting the implementation of Project 2025’s most egregious
     recommendations – the independent professional bureaucracy – making it more likely that a
-	president could do such things as target political opponents or use government powers to reward
-	friends. In many ways, Schedule F is the linchpin to Project 2025.</li>
-  <li>● Politicize the civil service and eliminate jobs for purely political reasons for as many as 500,000
+    president could do such things as target political opponents or use government powers to reward
+    friends. In many ways, Schedule F is the linchpin to Project 2025.</li>
+  <li>Politicize the civil service and eliminate jobs for purely political reasons for as many as 500,000
     federal workers while blocking Congress or anyone else from doing anything to stop it. “Everett
     Kelley, national president of the American Federation of Government Employees, which is the
     largest union representing federal and D.C. government workers. ‘Our union members are very
@@ -456,46 +456,45 @@ Bureaucracy, Project 2025, page 80]</p>
     Project 2025 proposes a variety of tools, in addition to Schedule F, that would result in civil
     servants being fired or laid off. Below are some tactics a far-right administration would employ to
     implement this agenda.</li>
-  <li>● The Heritage Foundation has funded an initiative to create and possibly publish a list of 
+  <li>The Heritage Foundation has funded an initiative to create and possibly publish a list of 
     civil servants who do not politically align with a far-right administration to potentially fire
     immediately, making it easier for extremists to carry out plans listed in Project 2025.
     ["Conservative-backed group is creating a list of federal workers it suspects could resist Trump
     plans,” AP News]</li>
-  <li>● Project 2025 outlines how a far-right administration would relocate federal agencies to
-new locations outside of Washington, D.C. to cut the federal workforce and/or replace civil
-servants. The Trump administration moved the National Institute of Food and Agriculture and the
-Economic Research Service out of Washington, D.C. in 2019. In response, more than half of the
-agencies’ employees left the agencies rather than move to their new locations in the Midwest.
-[Central Personnel Agencies: Managing The Bureaucracy, Project 2025, p. 72]</li>
-  <li>● Project 2025 depicts how a far-right administration would fire any federal employee who
-has worked on policies the new administration opposes. [Central Personnel Agencies:
-Managing The Bureaucracy, Project 2025, p. 80]</li>
-  <li>● Project 2025 details how an extremist White House would make it easier to terminate
-employees by shortening the disciplinary process and limiting appeals. Project 2025
-recommends reinstating Trump’s order, directing agencies to shorten the disciplinary process for
-underperforming employees and attempting to limit the kinds of personnel actions that could be
-appealed, among other requirements and recommendations. [Central Personnel Agencies:
-Managing The Bureaucracy, Project 2025, p. 75]</li>
-  <li>● Project 2025 lays out how a far-right president would utilize buyout programs to
-encourage civil servants to take early retirement. Project 2025 argues against buyouts under
-certain circumstances because they are often not cost effective, particularly if a new employee is
-hired to replace the bought-out one. Nevertheless, following the hiring freeze in the Trump
-administration, OMB instructed agencies to examine the use of buyout programs, “encouraging
-early retirements in order to shift costs from current budgets in agencies to the retirement system
-and minimize the number of personnel fired. The EPA immediately implemented such a program.
-[Central Personnel Agencies: Managing The Bureaucracy, Project 2025, p. 78]</li>
-  <li>● Project 2025 directs political executives to “take an active role in supervising performance
-appraisals of career staff.” “Political executives should take an active role in supervising
-performance appraisals of career staff, not unduly delegate this responsibility to senior career
-managers, and be willing to reward and support good performers.” [Central Personnel Agencies:
-Managing the Bureaucracy, Project 2025, accessed 6/24/24]</li>
-  <li>● Project 2025 called for the next administration to begin a freeze of all top career-position
+  <li>Project 2025 outlines how a far-right administration would relocate federal agencies to new 
+    locations outside of Washington, D.C. to cut the federal workforce and/or replace civil servants. 
+    The Trump administration moved the National Institute of Food and Agriculture and the Economic 
+    Research Service out of Washington, D.C. in 2019. In response, more than half of the agencies’ 
+    employees left the agencies rather than move to their new locations in the Midwest. [Central 
+    Personnel Agencies: Managing The Bureaucracy, Project 2025, p. 72]</li>
+  <li>Project 2025 depicts how a far-right administration would fire any federal employee who has worked 
+    on policies the new administration opposes. [Central Personnel Agencies: Managing The Bureaucracy, 
+    Project 2025, p. 80]</li>
+  <li>Project 2025 details how an extremist White House would make it easier to terminate employees by 
+    shortening the disciplinary process and limiting appeals. Project 2025 recommends reinstating Trump’s 
+	order, directing agencies to shorten the disciplinary process for underperforming employees and 
+	attempting to limit the kinds of personnel actions that could be appealed, among other requirements 
+	and recommendations. [Central Personnel Agencies: Managing The Bureaucracy, Project 2025, p. 75]</li>
+  <li>Project 2025 lays out how a far-right president would utilize buyout programs to encourage civil 
+    servants to take early retirement. Project 2025 argues against buyouts under certain circumstances 
+	because they are often not cost effective, particularly if a new employee is hired to replace the 
+	bought-out one. Nevertheless, following the hiring freeze in the Trump administration, OMB instructed 
+	agencies to examine the use of buyout programs, “encouraging early retirements in order to shift costs 
+	from current budgets in agencies to the retirement system and minimize the number of personnel fired. 
+	The EPA immediately implemented such a program. [Central Personnel Agencies: Managing The Bureaucracy, 
+	Project 2025, p. 78]</li>
+  <li>Project 2025 directs political executives to “take an active role in supervising performance appraisals 
+    of career staff.” “Political executives should take an active role in supervising performance appraisals 
+	of career staff, not unduly delegate this responsibility to senior career managers, and be willing to 
+	reward and support good performers.” [Central Personnel Agencies: Managing the Bureaucracy, Project 2025, 
+	accessed 6/24/24]</li>
+  <li>Project 2025 called for the next administration to begin a freeze of all top career-position
 hiring. “What is needed at the beginning is a freeze on all top career-position hiring to prevent
 ‘burrowing-in’ by outgoing political appointees. Moreover, four factors determine the order in
 which employees are protected during layoffs: tenure, veterans’ preference, seniority, and
 performance in that order of importance.” [Central Personnel Agencies: Managing the
 Bureaucracy, Project 2025, accessed 6/24/24]</li>
-  <li>● Project 2025 grants political appointees a freer hand to strip away security clearances
+  <li>Project 2025 grants political appointees a freer hand to strip away security clearances
 from disfavored civil servants and grant them to ill-qualified loyalists. This risks shifting
 power and authority over sensitive national security decisions and intelligence assessments from
 apolitical professionals and experts to presidential loyalists. It would also put our national security
@@ -504,12 +503,12 @@ targeted for extortion by foreign adversaries.[Executive Office Of The President
 States, Project 2025, p. 52]
 Project 2025 outlines several strategies beyond Schedule F aimed at hiring ideologically-aligned
 civil servants. Below are a few methods that a far-right administration would use to achieve this goal.</li>
-  <li>● Project 2025 has established a personnel database to screen people who would like to be
+  <li>Project 2025 has established a personnel database to screen people who would like to be
 considered for positions during a future administration. Registration for this database
 includes a questionnaire, which evaluates candidates through ideologically biased questions like
 “Name one person, past or present, who has most influenced the development of your political
 philosophy." [“Behind the Curtain — Scoop: The Trump job applications revealed,” Axios]</li>
-  <li>● Project 2025 describes how a far-right president would change hiring requirements for
+  <li>Project 2025 describes how a far-right president would change hiring requirements for
 federal civil servants to include a discriminatory IQ exam. Project 2025 proposes utilizing
 legislative or regulatory processes — including through the Office of Personnel Management —
 to reinstate the usage of general intelligence tests, which have not been in use since the Carter
@@ -518,7 +517,7 @@ Professional and Administration Career Exam, or PACE) used to hire for certain a
 was discriminatory. After a class action lawsuit alleging employment discrimination led to a
 consent decree, Carter administration officials abolished the use of the exam for hiring. [Central
 Personnel Agencies: Managing The Bureaucracy, Project 2025, p. 72]</li>
-  <li>● Project 2025 depicts how a far-right president would implement a hiring freeze at agencies
+  <li>Project 2025 depicts how a far-right president would implement a hiring freeze at agencies
 across the federal government, shrinking the size and efficacy of the civil service. Project
 2025 states: “What is needed at the beginning is a freeze on all top career-position hiring to
 prevent ‘burrowing-in’ by outgoing political appointees.” [Central Personnel Agencies: Managing
@@ -531,17 +530,25 @@ The Bureaucracy, Project 2025, p. 79]</li>
 to renegotiate all union CBAs, encouraged agencies to prevent union representatives from using
 official time to prepare or pursue grievances, and one encouraging agencies to limit labor
 grievances on removals from service or on challenging performance appraisals. “Rather than being
-daunted, President Trump issued three executive orders: l Executive Order 13836, encouraging agencies
-to renegotiate all union collective bargaining agreements to ensure consistency with the law and respect
-for management rights;26 l Executive Order 13837, encouraging agencies to prevent union
-representatives from using official time preparing or pursuing grievances or from engaging in other union
-activity on government time;27 and l Executive Order 13839, encouraging agencies both to limit labor
-grievances on removals from service or on challenging performance appraisals and to prioritize
-performance over seniority when deciding who should be retained following reductions-in-force.28 All
-were revoked by the Biden Administration29 and should be reinstated by the next Administration, to
-include the immediate appointment of the FLRA General Counsel and reactivation of the Impasses
-Panel.” [Central Personnel Agencies: Managing the Bureaucracy, Project 2025, accessed 6/24/24]
-Project 2025 called for Congress to reconsider if public sector unions are “appropriate.”</p>
+daunted,</p>
+
+<p>President Trump issued three executive orders:</p>
+
+<ul style="list-style-type:none;">
+  <li>l. Executive Order 13836, encouraging agencies to renegotiate all union collective bargaining 
+    agreements to ensure consistency with the law and respect for management rights;26</li>
+  <li>2. Executive Order 13837, encouraging agencies to prevent union representatives from using official 
+    time preparing or pursuing grievances or from engaging in other union activity on government time;27 
+	and,</li>
+  <li>3. Executive Order 13839, encouraging agencies both to limit labor grievances on removals from 
+  service or on challenging performance appraisals and to prioritize performance over seniority when 
+  deciding who should be retained following reductions-in-force.28</li>
+</ul>
+
+<p>All were revoked by the Biden Administration29 and should be reinstated by the next Administration, to 
+include the immediate appointment of the FLRA General Counsel and reactivation of the Impasses Panel.” 
+[Central Personnel Agencies: Managing the Bureaucracy, Project 2025, accessed 6/24/24] Project 2025 called 
+for Congress to reconsider if public sector unions are “appropriate.”</p>
 
 <p>“Congress should also consider whether public-sector unions are appropriate in the first place. The
 bipartisan consensus up until the middle of the 20th century held that these unions were not compatible
@@ -801,7 +808,9 @@ House Office, Project 2025, accessed 6/24/24]</p>
 <p>Project 2025 seeks to short-circuit congressional oversight of the Department of Homeland
 Security by establishing greater presidential control over communications between the agency
 and committees of jurisdictions with congress, with the apparent aim of controlling the flow of
-information that members of Congress and their staff receive.Specifically, it calls for the president to
+information that members of Congress and their staff receive.</p>
+
+<p>Specifically, it calls for the president to
 demand that only one committee in each chamber serve as an authorizing committee. If congressional
 leadership refuses to accept this arrangement, then it recommends that the agency’s Office of Legislative
 Affairs select one and restrict its communications to only that committee. “Only political appointees in OLA
@@ -869,7 +878,7 @@ with conservative thought, even under conservative leadership. Unless conservati
 the bureaucracy and marshal its power to defend a freedom-promoting agenda, nothing will stop the
 bureaucracy’s anti–free market, leftist march.” [p. 872-73]</p>
 
-<p>● FTC: goes through a range of potential mission/program reforms but admits that not all
+<p><b>FTC:</b> goes through a range of potential mission/program reforms but admits that not all
 conservatives agree: “Many, but not all, conservatives believe that these developments may
 warrant the FTC’s making a careful recalibration of certain aspects of antitrust and consumer
 protection law and enforcement.” [p. 869]</p>
@@ -887,84 +896,77 @@ documents also must pass through OIRA review.” [p. 49-50]</p>
 <h3>Other examples:</h3>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <ul style="list-style-type:none;">
-  <li>● FCC: “Trump intends to replace that independent process with one where he has direct authority
-and can more readily manipulate the applicable standards. That critical step would allow him to
-direct the FCC’s regulatory powers, as he has promised, against media companies like MSNBC
-and its parent company, NBCUniversal, along with others that he has labeled as the “enemy of
-the people” that “should pay a big price” for coverage critical of him.” [Not in Project 2025
-explicitly but is laid out in Trump policy videos; United to Protect Democracy, Authoritarian
-Playbook, January 2024]</li>
-  <li>○ “Under a tradition that dates back a few decades, when a relevant vacancy arises, the
-President allows the leader of the opposite political party in the Senate to select the
-person who will serve in the minority Commissioner role. The President then formally
-nominates the person identified by Senate leadership. This also is not required
-by law.” [Federal Communications Comission, Project 2025, accessed 6/24/24</li>
-  <li>● FEC: “With only five commissioners, three members of the same political party could control the
-enforcement process of the agency, raising the potential of a powerful federal agency enforcing
-the law on a partisan basis against the members of the opposition political party. Efforts to
-impose a “nonpartisan” or so-called “independent” chair are impractical; the chair will inevitably
-be aligned with his or her appointing party, at least as a matter of perception.” [p. 866]</li>
-<li>● CFPB: Want to eliminate it, calling it “unconstitutional.” And if it can’t do that, it proposes to limit
-its authorities. “The CFPB is a highly politicized, damaging, and utterly unaccountable federal
-agency. It is unconstitutional. Congress should abolish the CFPB and reverse Dodd–Frank
-Section 1061, thus returning the consumer protection function of the CFPB to banking regulators
-and the Federal Trade Commission. Provided the Supreme Court affirms the Fifth Circuit holding
-in Community Financial Services Association of America, the next conservative President should
-order the immediate dissolution of the agency—pull down its prior rules, regulations and
-guidance, return its staff to their prior agencies and its building to the General Services
-Administration.” [p. 837-838]
+  <li><b>FCC:</b> “Trump intends to replace that independent process with one where he has direct authority 
+    and can more readily manipulate the applicable standards. That critical step would allow him to 
+	direct the FCC’s regulatory powers, as he has promised, against media companies like MSNBC 
+	and its parent company, NBCUniversal, along with others that he has labeled as the “enemy of 
+	the people” that “should pay a big price” for coverage critical of him.” [Not in Project 2025 
+	explicitly but is laid out in Trump policy videos; United to Protect Democracy, Authoritarian 
+	Playbook, January 2024]</li>
+  <li>“Under a tradition that dates back a few decades, when a relevant vacancy arises, the President 
+    allows the leader of the opposite political party in the Senate to select the person who will serve 
+	in the minority Commissioner role. The President then formally nominates the person identified by 
+	Senate leadership. This also is not required by law.” [Federal Communications Comission, Project 
+	2025, accessed 6/24/24</li>
+  <li><b>FEC:</b> “With only five commissioners, three members of the same political party could control the 
+    enforcement process of the agency, raising the potential of a powerful federal agency enforcing 
+	the law on a partisan basis against the members of the opposition political party. Efforts to 
+	impose a “nonpartisan” or so-called “independent” chair are impractical; the chair will inevitably 
+	be aligned with his or her appointing party, at least as a matter of perception.” [p. 866]</li>
+  <li><b>CFPB:</b> Want to eliminate it, calling it “unconstitutional.” And if it can’t do that, it proposes to 
+    limit its authorities. “The CFPB is a highly politicized, damaging, and utterly unaccountable federal 
+	agency. It is unconstitutional. Congress should abolish the CFPB and reverse Dodd–Frank Section 1061, 
+	thus returning the consumer protection function of the CFPB to banking regulators and the Federal Trade 
+    Commission. Provided the Supreme Court affirms the Fifth Circuit holding in Community Financial Services 
+	Association of America, the next conservative President should order the immediate dissolution of the agency—pull down its prior rules, regulations and guidance, return its staff to their prior agencies and 
+	its building to the General Services Administration.” [p. 837-838]
   <ul style="list-style-type:none;">
-    <li>○ The president should remove CFPB director: “In Seila Law LLC v. Consumer Financial
-Protection Bureau, the Supreme Court of the United States held that the CFPB’s
-leadership by a single individual removable only for inefficiency, neglect, or malfeasance
-violated constitutional separation of powers requirements because “[t]he Constitution
-requires that such officials remain dependent on the President, who in turn is accountable
-to the people.” The CFPB Director is thus subject to removal by the President.” [p. 837-
-838]</li>
-<li>○ NOTE: The Supreme Court in May 2024 upheld the structure of the CFPB.</li>
+    <li>The president should remove CFPB director: “In Seila Law LLC v. Consumer Financial Protection Bureau, 
+      the Supreme Court of the United States held that the CFPB’s leadership by a single individual removable 
+	  only for inefficiency, neglect, or malfeasance violated constitutional separation of powers requirements 
+	  because “[t]he Constitution requires that such officials remain dependent on the President, who in turn 
+	  is accountable to the people.” The CFPB Director is thus subject to removal by the President.” [p. 
+	  837-838]</li>
+    <li><b><i>NOTE:</i></b> The Supreme Court in May 2024 upheld the structure of the CFPB.</li>
+  </ul>
+  </li>
+  <li><b>EEOC</b> and <b>NLRB:</b> as mentioned above…</li>
+  <li>Project 2025 said EEOC and NLRB should have new general counsels appointed on Day One. “Appoint new 
+    EEOC and NLRB general counsels on Day One. The Biden Administration broke significant precedent by firing 
+    the EEOC and NLRB general counsels despite their term appointments. The next Administration should do 
+	the same and expand on the Biden Administration’s new precedent by refusing to acknowledge terms in other 
+	offices, where applicable, and installing acting or full new officers immediately.” [Department of Labor 
+	and Related Agencies, Project 2025, accessed 6/24/24]</li>
+  <li>Project 2025 said EEOC “should disclaim its regulatory pretensions” since it does not have rulemaking 
+    authority under Title VII and other laws it enforces. “General EEOC Reforms. The Equal Employment 
+	Opportunity Commission (EEOC) does not have rulemaking authority under Title VII and other laws it 
+	enforces, yet it issues ‘guidance,’ ‘technical assistance,’ and other documents, including some that 
+	push new policy positions. EEOC should disclaim its regulatory pretensions and abide by the guidance 
+	reforms discussed below.” [Department of Labor and Related Agencies, Project 2025, accessed 6/24/24]</li>
+  <li>Project 2025 said “EEOC should disclaim power to enter into consent decrees that require employer 
+    actions that it could not require under the laws it enforces. “Disclaim power to enter into consent 
+	decrees. EEOC should disclaim power to enter into consent decrees that require employer actions that 
+	it could not require under the laws it enforces.” [Department of Labor and Related Agencies, Project 
+	2025, accessed 6/24/24]</li>
+  <li>Project 2025 recommended EEOC reorient its enforcement priorities towards “failure to accommodate 
+    disability, religion and pregnancy (but not abortion).” “Reorient enforcement priorities. EEOC should 
+	reorient its enforcement priorities toward claims of failure to accommodate disability, religion, 
+	and pregnancy (but not abortion).” [Department of Labor and Related Agencies, Project 2025, accessed 
+	6/24/24]</li>
+  <li>Project 2025 called for increasing revenue thresholds at which the NLRB asserts jurisdiction over 
+    employers. “Congress should enact legislation increasing the revenue thresholds at which the National 
+	Labor Relations Board asserts jurisdiction over employers to match changes in inflation that have 
+	occurred since 1935 and better reflect the definition of ‘small business’ used by the federal government.” 
+	[Department of Labor and Related Agencies, Project 2025, accessed 6/24/24]</li>
 </ul>
-</li>
-<li>● EEOC and NLRB: as mentioned above…</li>
-<li>○ Project 2025 said EEOC and NLRB should have new general counsels appointed
-on Day One. “Appoint new EEOC and NLRB general counsels on Day One. The Biden
-Administration broke significant precedent by firing the EEOC and NLRB general
-counsels despite their term appointments. The next Administration should do the same
-and expand on the Biden Administration’s new precedent by refusing to acknowledge
-terms in other offices, where applicable, and installing acting or full new officers
-immediately.” [Department of Labor and Related Agencies, Project 2025, accessed
-6/24/24]</li>
-<li>○ Project 2025 said EEOC “should disclaim its regulatory pretensions” since it does
-not have rulemaking authority under Title VII and other laws it enforces. “General
-EEOC Reforms. The Equal Employment Opportunity Commission (EEOC) does not have
-rulemaking authority under Title VII and other laws it enforces, yet it issues ‘guidance,’
-‘technical assistance,’ and other documents, including some that push new policy
-positions. EEOC should disclaim its regulatory pretensions and abide by the guidance
-reforms discussed below.” [Department of Labor and Related Agencies, Project 2025,
-accessed 6/24/24]</li>
-<li>○ Project 2025 said “EEOC should disclaim power to enter into consent decrees that
-require employer actions that it could not require under the laws it enforces.
-“Disclaim power to enter into consent decrees. EEOC should disclaim power to enter into
-consent decrees that require employer actions that it could not require under the laws it
-enforces.” [Department of Labor and Related Agencies, Project 2025, accessed 6/24/24]</li>
-<li>○ Project 2025 recommended EEOC reorient its enforcement priorities towards
-“failure to accommodate disability, religion and pregnancy (but not abortion).”
-“Reorient enforcement priorities. EEOC should reorient its enforcement priorities toward
-claims of failure to accommodate disability, religion, and pregnancy (but not abortion).”
-[Department of Labor and Related Agencies, Project 2025, accessed 6/24/24]</li>
-<li>○ Project 2025 called for increasing revenue thresholds at which the NLRB asserts
-jurisdiction over employers. “Congress should enact legislation increasing the revenue
-thresholds at which the National Labor Relations Board asserts jurisdiction over
-employers to match changes in inflation that have occurred since 1935 and better reflect
-the definition of ‘small business’ used by the federal government.” [Department of Labor
-and Related Agencies, Project 2025, accessed 6/24/24]</li>
-</ul>
-
-<p>Eliminates and/or Politicizes Executive Branch Agencies in Whole or in Part
-Project 2025 has been called a blueprint for autocracy, because, among its radical proposals, it promotes
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<h4>Eliminates and/or Politicizes Executive Branch Agencies in Whole or in Part</h4>
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p>Project 2025 has been called a blueprint for autocracy, because, among its radical proposals, it promotes
 an extreme version of the doctrine of ‘unitary executive unitary theory’ (UET). In short, UET as promoted
 by Project 2025 and supported by the Supreme Court in its recent decision regarding presidential
 immunity, seeks to install a president with unprecedented power. Project 2025 writes that the president
-has absolute authority over the Executive Branch and its employees, including the military.
+has absolute authority over the Executive Branch and its employees, including the military.</p>
 
 <p>Project authors believe that a president is not subject to the laws of congress, and the president has no
 duty to report or follow the mandates ordered by congress even though the Constitution clearly states
@@ -987,12 +989,12 @@ control within each federal agency.</p>
 <h3>National Security Council:</h3>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <ul style="list-style-type:none;">
-<li>● Empowers a strong National Security Council that “is entrusted with the full power of the
+  <li>Empowers a strong National Security Council that “is entrusted with the full power of the
 presidency to drive the bureaucracy… The President should empower a strong NSC that not only
 has the power to convene the policy process, but also is entrusted with the full power of the
 presidency to drive the bureaucracy.” [Executive Office of the President of the United States]
 Department of Education:</li>
-<li>● Eliminates the Department of Education and moves its Office of Civil Rights to DOJ. “OCR should
+  <li>Eliminates the Department of Education and moves its Office of Civil Rights to DOJ. “OCR should
 move to the Department of Justice. The federal government has an essential responsibility to
 enforce civil rights protections, but Washington should do so through the Department of Justice
 and federal courts. The OCR at DOJ should be able to enforce only through litigation.”
@@ -1002,7 +1004,7 @@ and federal courts. The OCR at DOJ should be able to enforce only through litiga
 <h3>Department of Justice:</h3>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <ul style="list-style-type:none;">
-<li>● Limits the independence of the Department of Justice and Federal Bureau of Investigation to
+<li>Limits the independence of the Department of Justice and Federal Bureau of Investigation to
 politicize law enforcement and weaponize the justice system to serve only the will of the president
 and the Project 2025 administration.</li>
 </ul>
@@ -1010,76 +1012,70 @@ and the Project 2025 administration.</li>
 <h3>Department of Health and Human Services:</h3>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <ul style="list-style-type:none;">
-<li>● Remakes the entire agency so that a Project 2025 Administration can unilaterally advance its
-radical priorities:
-<ul style="list-style-type:none;">
-<li>○ “HHS should return to being known as the Department of Life by explicitly rejecting the
-notion that abortion is health care and by restoring its mission statement under the
-Strategic Plan and elsewhere to include furthering the health and well-being of all
-Americans ‘from conception to natural death.’”</li>
-<li>○ “Families comprised of a married mother, father, and their children are the foundation of a
-well-ordered nation and healthy society. Unfortunately, family policies and programs
-under President Biden’s HHS are fraught with agenda items focusing on ‘LGBTQ+
-equity,’ subsidizing single-motherhood, disincentivizing work, and penalizing marriage.
-These policies should be repealed and replaced by policies that support the formation of
-stable, married, nuclear families.”</li>
-<li>○ Require surveillance by the federal government of every woman’s pregnancy: “The
-CDC’s abortion surveillance and maternity mortality reporting systems are woefully
-inadequate. CDC abortion data are reported by states on a voluntary basis, and
-California, Maryland, and New Hampshire do not submit abortion data at all. Accurate
-and reliable statistical data about abortion, abortion survivors, and abortion-related
-maternal deaths are essential to timely, reliable public health and policy analysis.
-Because liberal states have now become sanctuaries for abortion tourism, HHS should
-use every available tool, including the cutting of funds, to ensure that every state reports
-exactly how many abortions take place within its borders, at what gestational age of the
-child, for what reason, the mother’s state of residence, and by what method. It should
-also ensure that statistics are separated by category: spontaneous miscarriage;
-treatments that incidentally result in the death of a child (such as chemotherapy);
-stillbirths; and induced abortion. In addition, CDC should require monitoring and reporting
-for complications due to abortion and every instance of children being born alive after an
-abortion. Moreover, abortion should be clearly defined as only those procedures that
-intentionally end an unborn child’s life. Miscarriage management or standard ectopic
-pregnancy treatments should never be conflated with abortion.”</li>
-</ul>
+  <li>Remakes the entire agency so that a Project 2025 Administration can unilaterally advance its 
+    radical priorities:
+  <ul style="list-style-type:none;">
+    <li>“HHS should return to being known as the Department of Life by explicitly rejecting the notion 
+	  that abortion is health care and by restoring its mission statement under the Strategic Plan and 
+	  elsewhere to include furthering the health and well-being of all Americans ‘from conception to 
+	  natural death.’”</li>
+    <li>“Families comprised of a married mother, father, and their children are the foundation of 
+	  a well-ordered nation and healthy society. Unfortunately, family policies and programs under 
+	  President Biden’s HHS are fraught with agenda items focusing on ‘LGBTQ+ equity,’ subsidizing 
+	  single-motherhood, disincentivizing work, and penalizing marriage. These policies should be 
+	  repealed and replaced by policies that support the formation of stable, married, nuclear families.”</li>
+    <li>Require surveillance by the federal government of every woman’s pregnancy: “The CDC’s abortion 
+  	  surveillance and maternity mortality reporting systems are woefully inadequate. CDC abortion data are 
+	  reported by states on a voluntary basis, and California, Maryland, and New Hampshire do not submit 
+	  abortion data at all. Accurate and reliable statistical data about abortion, abortion survivors, and 
+	  abortion-related maternal deaths are essential to timely, reliable public health and policy analysis. 
+	  Because liberal states have now become sanctuaries for abortion tourism, HHS should use every 
+	  available tool, including the cutting of funds, to ensure that every state reports exactly how many 
+	  abortions take place within its borders, at what gestational age of the child, for what reason, the 
+	  mother’s state of residence, and by what method. It should also ensure that statistics are separated 
+	  by category: spontaneous miscarriage; treatments that incidentally result in the death of a child 
+	  (such as chemotherapy); stillbirths; and induced abortion. In addition, CDC should require monitoring 
+	  and reporting for complications due to abortion and every instance of children being born alive after 
+	  an abortion. Moreover, abortion should be clearly defined as only those procedures that intentionally 
+	  end an unborn child’s life. Miscarriage management or standard ectopic pregnancy treatments should 
+	  never be conflated with abortion.”</li>
+  </ul>
 </ul>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h3>Department of Labor:</h3>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <ul style="list-style-type:none;">
-<li>● Project 2025 aims to fill the ranks of DOL with loyalists. “Maximize hiring of political
-appointees. At its best, the Trump Administration Department of Labor worked with up to 150
-political appointees. That is still a tiny percentage of the department. The number of political
-appointees should be maximized in order to improve the political accountability of the
-NOAA: department.”</li>
-<li>● Project 2025 calls for the dismantling of NOAA with “many of its functions eliminated, sent to
-other agencies, privatized, or placed under the control of states and territories…The National
-Oceanographic and Atmospheric Administration (NOAA) should be dismantled and many of its
-functions eliminated, sent to other agencies, privatized, or placed under the control of states and
-territories.” [Department of Commerce, Project 2025]</li>
-<li>● Project 2025 recommends NOAA “be broken up and downsized.” “Together, these form a
-colossal operation that has become one of the main drivers of the climate change alarm industry
-and, as such, is harmful to future U.S. prosperity. This industry’s mission emphasis on prediction
-and management seems designed around the fatal conceit of planning for the unplannable. That
-is not to say NOAA is useless, but its current organization corrupts its useful functions. It should
-be broken up and downsized.”</li>
-<li>● Project 2025 calls for privatizingNOAA’s functions. “[...] could be provided commercially, likely
-at a lower cost and higher quality.” “NOAA today boasts that it is a provider of environmental
-information services, a provider of environmental stewardship services, and a leader in applied
-scientific research. Each of these functions could be provided commercially, likely at lower cost
-and higher quality.”</li>
+  <li>Project 2025 aims to fill the ranks of DOL with loyalists. “Maximize hiring of political appointees. 
+    At its best, the Trump Administration Department of Labor worked with up to 150 political appointees. 
+    That is still a tiny percentage of the department. The number of political appointees should be maximized 
+	in order to improve the political accountability of the NOAA: department.”</li>
+  <li>Project 2025 calls for the dismantling of NOAA with “many of its functions eliminated, sent to 
+    other agencies, privatized, or placed under the control of states and territories…<br>
+	<b>The National Oceanographic and Atmospheric Administration (NOAA)</b> should be dismantled and 
+	many of its functions eliminated, sent to other agencies, privatized, or placed under the control 
+	of states and territories.” [Department of Commerce, Project 2025]</li>
+  <li>Project 2025 recommends NOAA “be broken up and downsized.” “Together, these form a colossal operation 
+    that has become one of the main drivers of the climate change alarm industry and, as such, is harmful 
+	to future U.S. prosperity. This industry’s mission emphasis on prediction and management seems designed 
+	around the fatal conceit of planning for the unplannable. That is not to say NOAA is useless, but its 
+	current organization corrupts its useful functions. It should be broken up and downsized.”</li>
+  <li>Project 2025 calls for privatizingNOAA’s functions. “[...] could be provided commercially, likely at 
+    a lower cost and higher quality.” “NOAA today boasts that it is a provider of environmental information 
+    services, a provider of environmental stewardship services, and a leader in applied scientific research. 
+	Each of these functions could be provided commercially, likely at lower cost and higher quality.”</li>
 </ul>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h3>Department of Commerce:</h3>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <ul style="list-style-type:none;">
-<li>● Project 2025 details disbanding, eliminating, or privatizing functions of the Department of
+<li>Project 2025 details disbanding, eliminating, or privatizing functions of the Department of
 Commerce. “Many programs at the Department of Commerce overlap in whole or part with other
 governmental programs, and consolidating and streamlining these could increase both
 accountability and return on taxpayer investment. Any exercise in government-wide budgeting
 and reform should review the department with an eye toward consolidation, elimination, or
 privatization that examines the efficiency, effectiveness, and underlying philosophy of each
 individual component.”</li>
-<li>● Census Bureau: “Appointed staff should be in place at the Bureau as early as feasible after a
+<li>Census Bureau: “Appointed staff should be in place at the Bureau as early as feasible after a
 new President takes office. This will require the Office of Personnel Management to allocate
 additional political appointee positions to the Census Bureau.” “Strong political leadership is
 needed to increase efficiency and align the Census Bureau’s mission with conservative
@@ -1093,15 +1089,15 @@ to allocate additional political appointee positions to the Census Bureau.”</l
 <h3>Department of Homeland Security:</h3>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <ul style="list-style-type:none;">
-<li>● Dismantles much of the existing agency, privatizes the TSA, removes all DHS unions, and
+<li>Dismantles much of the existing agency, privatizes the TSA, removes all DHS unions, and
 circumvents Senate confirmation proceedings for top political officials:.</li>
-<li>○ “Our primary recommendation is that the President pursue legislation to dismantle the
+<li>“Our primary recommendation is that the President pursue legislation to dismantle the
 Department of Homeland Security (DHS). After 20 years, it has not gelled into ‘One
 DHS.’ Instead, its various components’ different missions have outweighed its decades-
 long attempt to function as one department, rendering the whole disjointed rather than
 cohesive. Breaking up the department along its mission lines would facilitate mission
 focus and provide opportunities to reduce overhead and achieve more limited government.”</li>
-<li>○ Claims DHS functions would improve if the next Secretary had their own dedicated team
+<li>Claims DHS functions would improve if the next Secretary had their own dedicated team
 of political appointees selected and vetted by OPP. “Expansion of Dedicated Political
 Personnel. The Secretary of Homeland Security is a presidentially appointed and Senate-
 confirmed political appointee, but for budgetary reasons, he or she has historically been
@@ -1110,8 +1106,8 @@ to improve front-office functions is to have his or her own dedicated team of po
 appointees selected and vetted by the Office of Presidential Personnel, which is not
 reliant on detailees from other parts of the department, to help ensure the completion of
 the next President’s agenda.” [Department of Homeland Security]</li>
-<li>○ Privatizes TSA (Transportation Security Administration). Project 2025 (pages 158-59).</li>
-<li>○ Circumvents Senate confirmation positions by placing its nominees in key positions into
+<li>Privatizes TSA (Transportation Security Administration). Project 2025 (pages 158-59).</li>
+<li>Circumvents Senate confirmation positions by placing its nominees in key positions into
 similar positions as “Actings.” “An Aggressive Approach to Senate-Confirmed Leadership
 Positions. While Senate confirmation is a constitutionally necessary requirement for
 appointing agency leadership, the next Administration may need to take a novel
@@ -1122,7 +1118,7 @@ Official Performing the Duties of the Commissioner of CBP while that person is g
 through the confirmation process to direct ICE or become the Secretary). This approach
 would both guarantee implementation of the Day One agenda and equip the department
 for potential emergency situations while still honoring the confirmation requirement.”</li>
-  <li>○ Recommends restructuring and redistributing career personnel in the department:
+  <li>Recommends restructuring and redistributing career personnel in the department:
 “Restructuring and Redistribution of Career Personnel. To strengthen political decision-
 making and ensure that taxpayer dollars are being used legally and efficiently, the
 Secretary should make major changes in the distribution of career personnel throughout
@@ -1136,41 +1132,42 @@ deployed to field billets to maximize law enforcement capacity.” Project 2025 
 <h3>Department of Veterans Affairs:</h3>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <ul style="list-style-type:none;">
-<li>● Undermines whistleblower protections: “Work with Congress to sunset the Office of Accountability
+<li>Undermines whistleblower protections: “Work with Congress to sunset the Office of Accountability
 and Whistleblower Protection (OAWP). OAWP was well intentioned when formed, but it is
 redundant with the activities of supervisors as well as equal employment opportunity, Office of the
 Inspector General, Office of Special Counsel, and other policies, programs, and procedures for
 holding employees accountable. This redundancy results in lengthy investigations, gaps in
 coverage, and an overall ineffective method of employee and supervisor accountability.”
 Environmental Protection Agency:</li>
-<li>● Disbands multiple parts of the EPA, including Office of Environmental Justice and External Civil
+<li>Disbands multiple parts of the EPA, including Office of Environmental Justice and External Civil
 Rights, Office of Enforcement and Compliance Assistance.</li>
-<li>○ Makes the drastic reduction of the EPA’s size and scope, with a focus on “compliance
+<li>Makes the drastic reduction of the EPA’s size and scope, with a focus on “compliance
 over enforcement” a topline priority.</li>
-<li>○ Downsizes and dismantles key programs that protect public health and the environment,
+<li>Downsizes and dismantles key programs that protect public health and the environment,
 with dire consequences for environmental justice.</li>
-<li>■ Prevents the distribution of billions of dollars in IRA climate investments that
+<li>Prevents the distribution of billions of dollars in IRA climate investments that
 combat the climate crisis and strengthen community resilience, severely limit and
 filter scientific research on climate modeling and development of mitigation
 strategies.</li>
-<li>■ Guts EPA authority and oversight of air and water pollution, rid polluters and
+<li>Guts EPA authority and oversight of air and water pollution, rid polluters and
 other entities of environmental accountability.</li>
-<li>■ Prevents the reduction in millions of metric tons of GHGs and legacy pollution in
+<li>Prevents the reduction in millions of metric tons of GHGs and legacy pollution in
 communities across the nation.</li>
-<li>■ Provides legal grounds to completely topple Justice40 and other environmental
-justice programs within the EPA and likely across other agencies.</li>
-<ul style="list-style-type:none;">
-<li>○ Day One Executive Order to slash EPA’s capabilities and weaken its rules.</li>
-<li>○ Most broadly, the plan would downsize EPA by cutting the budget, staff and programs,
-and “pause and review” major rules and guidance that protect the environment and public
-health, in order to weaken those protections.</li>
-</ul>
+<li>Provides legal grounds to completely topple Justice40 and other environmental
+justice programs within the EPA and likely across other agencies.
+  <ul style="list-style-type:none;">
+    <li>Day One Executive Order to slash EPA’s capabilities and weaken its rules.</li>
+    <li>Most broadly, the plan would downsize EPA by cutting the budget, staff and programs, 
+	  and “pause and review” major rules and guidance that protect the environment and public 
+	  health, in order to weaken those protections.</li>
+  </ul>
+  </li>
 </ul>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h3>Department of Housing and Urban Development:</h3>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <ul style="list-style-type:none;">
-<li>● Plans for “devolving many HUD functions to states and localities with any remaining federal
+<li>Plans for “devolving many HUD functions to states and localities with any remaining federal
 functions consolidated to other federal agencies.” “Finally, and more fundamentally, Congress
 could consider a wholesale overhaul of HUD that contemplates devolving many HUD functions to
 states and localities with any remaining federal functions consolidated to other federal agencies
@@ -1180,7 +1177,7 @@ GNMA to a redesignated Housing and Home Finance Agency). Generally, this reform 
 consolidate some programs, eliminate others that have failed to produce meaningful long-run
 results, and narrow the scope of many programs so that they are closer to what they were when
 they were created.”</li>
-<li>● Calls on HUD to politicize the department by “immediately” appointing political appointees to
+<li>Calls on HUD to politicize the department by “immediately” appointing political appointees to
 various leadership positions. “HUD political leadership should immediately assign all delegated
 powers to politically appointed PDAS, DAS, and other office leadership positions; change any
 current career leadership positions into political and non-career appointment positions; and use
@@ -1191,13 +1188,13 @@ Senior Executive Service (SES) transfers to install motivated and aligned leader
 <h3>Federal Reserve:</h3>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <ul style="list-style-type:none;">
-<li>● Calls for drastically overhauling the Federal Reserve’s role in stabilizing the economy: “In
+<li>Calls for drastically overhauling the Federal Reserve’s role in stabilizing the economy: “In
 essence, because of its vastly expanded discretionary powers with respect to monetary and
 regulatory policy, the Fed lacks both operational effectiveness and political independence. To
 protect the Federal Reserve’s independence and to improve monetary policy outcomes,
 Congress should limit its mandate to the sole objective of stable money.” Project 2025 (page
 732).</li>
-<li>● Recommends the Economic Development Agency be abolished and that its funding be
+<li>Recommends the Economic Development Agency be abolished and that its funding be
 reallocated to overlapping federal grant programs. “Rather than implementing the new
 Department Organization Orders required to put conservative governance in place, it would be
 more efficient to abolish EDA and reallocate its funding to other overlapping federal grant
@@ -1394,7 +1391,7 @@ out its program.</p>
 to specific communities.</p>
 
 <ul style="list-style-type:none;">
-<li>● “Unaccountable federal spending is the secret lifeblood of the Great Awokening. Nearly every
+<li>“Unaccountable federal spending is the secret lifeblood of the Great Awokening. Nearly every
 power center held by the Left is funded or supported, one way or another, through the
 bureaucracy by Congress. [...] A conservative President must look to the legislative branch for
 decisive action. The Administrative State is not going anywhere until Congress acts to retrieve its
@@ -1404,7 +1401,7 @@ Congress to return to its constitutional responsibility, restore power over Wash
 American people, bring the Administrative State to heel, and in the process defang and defund
 the woke culture warriors who have infiltrated every last institution in America.” [Executive Office
 of the President of the United States, Project 2025, accessed 6/24/24]]</li>
-<li>● “Donald Trump is vowing to wrest key spending powers from Congress if elected this November,
+<li>“Donald Trump is vowing to wrest key spending powers from Congress if elected this November,
 promising to assert more control over the federal budget than any president in U.S. history. The
 Constitution gives control over spending to Congress, but Trump and his aides maintain that the
 president should have much more discretion — including the authority to cease programs
@@ -1413,7 +1410,7 @@ and Congress, Trump’s plans could upend the balance of power between the three
 the federal government.” [Washington Post, accessed 7/24/24]
 Weakening the press: Reducing the media’s presence on the White House campus, making it
 harder for them to meaningfully report on the President’s power grabs.</li>
-<li>● Project 2025: “No legal entitlement exists for the provision of permanent space for media on the
+<li>Project 2025: “No legal entitlement exists for the provision of permanent space for media on the
 White House campus, and the next Administration should reexamine the balance between media
 demands and space constraints on the White House premises.” “Operational functions of the
 Office of Communications include scheduling and running press briefings, interviews, meetings,
@@ -1423,34 +1420,34 @@ Correspondents’ Association, regional stakeholders, and key interest groups. N
 exists for the provision of permanent space for media on the White House campus, and the next
 Administration should reexamine the balance between media demands and space constraints on
 the White House premises.” [White House Office, Project 2025].</li>
-<li>● Mention the discussion above regarding FCC licensing/political enemies; these tactics go hand in
+<li>Mention the discussion above regarding FCC licensing/political enemies; these tactics go hand in
 hand. Also eliminates funding for CPB (NPR, PBS) and Voice of America.
 Deploying the U.S. military as a domestic police force to quash dissent and the right to protest
 and enforce a draconian immigration agenda.</li>
-<li>● “Much of the planning for a second term has been unofficially outsourced to a partnership of right-
+<li>“Much of the planning for a second term has been unofficially outsourced to a partnership of right-
 wing think tanks in Washington. Dubbed ‘Project 2025,’ the group is developing a plan, to include
 draft executive orders, that would deploy the military domestically under the Insurrection Act,
 according to a person involved in those conversations and internal communications reviewed by
 The Washington Post. The law, last updated in 1871, authorizes the president to deploy the
 military for domestic law enforcement.” [Washington Post, accessed 7/24/24]</li>
-<li>● “One document drafted by CRA staff and fellows includes a list of top priorities for CRA [Center
+<li>“One document drafted by CRA staff and fellows includes a list of top priorities for CRA [Center
 for Renewing America] in a second Trump term. Others [drafted by CRA] include invoking the
 Insurrection Act on Day One to quash protests and refusing to spend authorized congressional
 funds on unwanted projects, a practice banned by lawmakers in the Nixon era. DENIAL: “Rachel
 Cauley, CRA’s communication director, said “the so-called reporting from POLITICO in this story
 is false and we told them so on multiple occasions.” [Politico, accessed 7/24/24]</li>
-<li>● “As the president’s top adviser on immigration matters, Miller advocated for invoking the
+<li>“As the president’s top adviser on immigration matters, Miller advocated for invoking the
 Insurrection Act to mobilize the Department of Defense, according to the former officials.
 Pentagon officials balked at the idea of using military bases and planes, current and former
 officials recalled, citing concerns of getting mired in an open-ended commitment or compromising
 troop readiness.” [Washington Post, accessed 7/24/24]</li>
-<li>● “Though the emergency powers that the Insurrection Act confers are inherently susceptible to
+<li>“Though the emergency powers that the Insurrection Act confers are inherently susceptible to
 abuse, presidents’ respect for democratic values and constitutional norms has by and large
 prevented that. A partnership of right-wing think tanks, dubbed Project 2025, has drawn up
 executive orders to do so. Jeffrey Clark, a former Justice Department official who is one of the
 unnamed co-conspirators in Mr. Trump’s indictment in the federal election interference case, is
 leading this work.” Washington Post editorial, accessed 7/24/24]</li>
-<li>● “How Trump and his advisers intend to staff such a [deportation] program would make a
+<li>“How Trump and his advisers intend to staff such a [deportation] program would make a
 prospective Trump deportation campaign even more volatile. Stephen Miller, Trump’s top
 immigration adviser, has publicly declared that they would pursue such an enormous effort partly
 by creating a private red-state army under the president’s command. Miller says a reelected
@@ -1460,10 +1457,10 @@ deportation drive.” [The Atlantic, accessed 7/24/24]<br>
 Neutering the Senate’s role in confirming presidential nominees - and bypassing transparency on
 key senior government officials - by intentionally installing appointees in acting administrative
 roles.</li>
-<li>● “To push past senators who try to block presidential Cabinet nominees, Project 2025 proposes
+<li>“To push past senators who try to block presidential Cabinet nominees, Project 2025 proposes
 installing top allies in acting administrative roles, as was done during the Trump administration to
 bypass the Senate confirmation process.” [Associated Press, accessed 7/25/24]</li>
-<li>● Circumvents Senate confirmation positions by placing its nominees in key positions into similar
+<li>Circumvents Senate confirmation positions by placing its nominees in key positions into similar
 positions as “Actings.” “An Aggressive Approach to Senate-Confirmed Leadership Positions.
 While Senate confirmation is a constitutionally necessary requirement for appointing agency
 leadership, the next Administration may need to take a novel approach to the confirmations
@@ -1474,7 +1471,7 @@ Commissioner of CBP while that person is going through the confirmation process 
 become the Secretary). This approach would both guarantee implementation of the Day One
 agenda and equip the department for potential emergency situations while still honoring the
 confirmation requirement.” Project 2025 (page 136).</li>
-<li>● Abuses the Federal Vacancies Reform Act to bypass the Senate confirmation process. “To the
+<li>Abuses the Federal Vacancies Reform Act to bypass the Senate confirmation process. “To the
 extent provided by the Federal Vacancies Reform Act, appointees in consideration for Senate-
 confirmed positions (excluding the Administrator) should be prepared to serve as a Deputy or
 Principal Deputy to get into the agency on Day One while their nomination and affiliated
@@ -1486,56 +1483,56 @@ confirmation processes proceeds.” Project 2025 (page 423).</li>
 <h4>Top Lines</h4>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <ul style="list-style-type:none;">
-<li>✔ Limits DOJ’s independence, such as by requiring the dismissal of any investigations,
+<li>Limits DOJ’s independence, such as by requiring the dismissal of any investigations,
 prosecutions, or cases that are deemed contrary to “Administration policies.”</li>
-<li>✔ Urges reexamination of long-standing limits on contacts between White House officials and DOJ,
+<li>Urges reexamination of long-standing limits on contacts between White House officials and DOJ,
 which are currently contained to communications between the White House Counsel’s Office and
 the Attorney General’s Office, or the Deputy Attorney General, in order to prevent interference in
 criminal investigations and other matters, like the issuance of Office of Legal Counsel opinions.</li>
-<li>✔ Calls for the “vast expansion of the number of [politica] appointees in every office and component
+<li>Calls for the “vast expansion of the number of [politica] appointees in every office and component
 across the department—especially in the Civil Rights Division, the FBI, and the EOIR” (the
 Executive Office of Immigration Review) to “promote the President’s agenda.”</li>
-<li>✔ Curtails the independence of the FBI, including by eliminating the agency’s General Counsel’s
+<li>Curtails the independence of the FBI, including by eliminating the agency’s General Counsel’s
 Office and calling on Congress to end the 10-year term for FBI Director in order to make the FBI
 Director dependent on the President’s approval–thus abandoning a key Nixon-era reform.</li>
-</i>✔ Uses new “separation of powers” assertions to direct DOJ to interpret a long-standing legal
+<li>Uses new “separation of powers” assertions to direct DOJ to interpret a long-standing legal
 precedent, Humphrey’s Executor, as unconstitutional, allowing the President to fire the leaders of
 independent agencies and defy congressional efforts to insulate such entities from political
 interference–in addition to arguing for its reversal before the U.S. Supreme Court.</li>
-<li>✔ Wilfully misinterprets and misuses the antiquated Comstock Act of 1873 to block access to both
+<li>Wilfully misinterprets and misuses the antiquated Comstock Act of 1873 to block access to both
 abortion pills and medical equipment used in abortion care–effectively banning abortion in all 50
 states.</li>
-<li>✔ Weaponizes the Civil Rights Division, as a top priority, “to investigate and prosecute all state and
+<li>Weaponizes the Civil Rights Division, as a top priority, “to investigate and prosecute all state and
 local governments, institutions of higher education, corporations, and any other private
 employers” that have diversity, equity, and inclusion policies in hiring, promotion, or admission.</li>
-<li>✔ Directs the DOJ to bar the use of a “disparate impact standard” under Title VI of the Civil Rights
+<li>Directs the DOJ to bar the use of a “disparate impact standard” under Title VI of the Civil Rights
 Act, which prohibits discrimination based on race, color, or national origin in programs and
 activities that receive federal financial assistance, including grants, loans, and contracts.</li>
-<li>✔ Removes the power of the Civil Rights Division to investigate and prosecute election-related
+<li>Removes the power of the Civil Rights Division to investigate and prosecute election-related
 crimes, such as “voter registration fraud,” and transfers that authority to the Criminal Division.</li>
-<li>✔ Prohibits the FBI “from engaging, in general, in activities related to combating the spread of so-
+<li>Prohibits the FBI “from engaging, in general, in activities related to combating the spread of so-
 called misinformation and disinformation by Americans who are not tied to any plausible criminal
 activity,” including electoral disinformation campaigns.</li>
-<li>✔ Directs the Attorney General to defend the Federal Election Commission if the FEC fails to
+<li>Directs the Attorney General to defend the Federal Election Commission if the FEC fails to
 authorize its general counsel to defend the agency, and urges that the Federal Elections
 Campaign Act be amended to remove the agency’s independent litigating authority.</li>
-<li>✔ Expands the investigation of leaks, including using powerful tools to identify records of
+<li>Expands the investigation of leaks, including using powerful tools to identify records of
 unauthorized disclosures of classified information to the media.</li>
-<li>✔ Ends “all existing consent decrees” inconsistent with “Administration policy” which could reach an
+<li>Ends “all existing consent decrees” inconsistent with “Administration policy” which could reach an
 array of long-standing civil rights settlements and also specifically includes those involving the
 enforcement of the Freedom to Access Clinics Act–that protects the freedom to access a clinic for
 an abortion or other health care–along with the prioritization of the prosecution of vandalism
 against crisis pregnancy centers.</li>
-<li>✔ Assists the U.S. Immigration and Customs Enforcement in obtaining information about
+<li>Assists the U.S. Immigration and Customs Enforcement in obtaining information about
 immigrants, particularly those living in “sanctuary” cities and states.</li>
-<li>✔ Pursues “legal action” against local District Attorneys and officials that the Administration claims
+<li>Pursues “legal action” against local District Attorneys and officials that the Administration claims
 are “refusing to prosecute criminal offenses in their jurisdictions.”</li>
-<li>✔ Deploys DOJ to help secure the border by focusing on drug cartels and violent crime, including
+<li>Deploys DOJ to help secure the border by focusing on drug cartels and violent crime, including
 having DOJ work with “active-duty military personnel and National Guardsmen to assist in arrest
 operations along the border—something that has not yet been done.”</li>
-<li>✔ Prosecutes “as much interstate drug activity as possible, including simple possession of
+<li>Prosecutes “as much interstate drug activity as possible, including simple possession of
 distributable quantities” with no acknowledgement of state trend toward marijuana legalization.</li>
-<li>✔ Expands the implementation of the death penalty in current and future cases.
+<li>Expands the implementation of the death penalty in current and future cases.
 Project 2025 seeks to limit the independence of the Justice Department in numerous ways. On
 January 20, 2025, and “in a manner consistent with applicable law,” a new administration “should prepare
 a plan to end immediately any policies, investigations, or cases that run contrary to law or Administration
@@ -1548,14 +1545,15 @@ afternoon of inauguration priority. [DOJ Project 2025, p. 557, accessed 6/24/202
 
 <p>Project 2025 reexamines the long-standing policy to limit political interference in DOJ’s
 investigations and prosecutions that is policed by an MOU that only the White House Counsel and
-the Attorney General or Deputy Attorney Generalcommunicate with each other, and not other
+the Attorney General or Deputy Attorney General communicate with each other, and not other
 White House officials. “The Office of White House Counsel also serves as the primary gateway for
 communication between the White House and the Department of Justice (DOJ). Traditionally, both the
 White House Counsel and the Attorney General have issued a memo requiring all contact between the
 two institutions to occur only between the Office of White House Counsel and the Attorney General or
 Deputy Attorney General. The next Administration should reexamine this policy and determine whether it
-might be more efficient or more appropriate for communication to occur through additional channels. The
-White House Counsel also works closely with the DOJ Office of Legal Counsel to seek opinions on, for
+might be more efficient or more appropriate for communication to occur through additional channels.</p>
+
+<p>The White House Counsel also works closely with the DOJ Office of Legal Counsel to seek opinions on, for
 example, matters of policy development and the constitutionality of presidential power and privileges and
 with OLA and the DOJ Office of Legal Policy on presidential judicial nominees.” [DOJ Project 2025,
 accessed 6/24/24] [White House Office section].</p>
@@ -1595,12 +1593,13 @@ obligation of the executive branch to use its independent resources and authorit
 excesses of both the legislative and judicial branches. This will mean ensuring that the leadership of the
 Department of Justice and its components understand the separation of powers, that pushback among
 the branches is a positive feature and not a defect of our system, and that the federal system is
-strengthened, not weakened, by disagreement among the branches. One example includes potentially
-seeking the overruling of Humphrey's Executor v. United States. This case approved so-called
-independent agencies whose directors are not removable by the President at will. The Supreme Court
-has chipped away at Humphrey's Executor in cases like Seila Law v. Consumer Financial Protection
-Bureau, but the precedent remains. The next conservative Administration should formally take the
-position that Humphrey's Executor violates the Constitution's separation of powers.” [DOJ Project 2025, p.
+strengthened, not weakened, by disagreement among the branches.</p>
+
+<p>One example includes potentially seeking the overruling of Humphrey's Executor v. United States. This 
+case approved so-called independent agencies whose directors are not removable by the President at will. 
+The Supreme Court has chipped away at Humphrey's Executor in cases like Seila Law v. Consumer Financial 
+Protection Bureau, but the precedent remains. The next conservative Administration should formally take the 
+position that Humphrey's Executor violates the Constitution's separation of powers.” [DOJ Project 2025, p. 
 560, accessed 6/24/2024]</p>
 
 <p>Project 2025 plans to wilfully misinterpret and misuse the antiquated Comstock Act of 1873 to
@@ -1748,104 +1747,104 @@ efforts to seek the death penalty in other cases. [DOJ Project 2025, p. 555, acc
 <h4>Abortion</h4>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <ul style="list-style-type:none;">
-  <li>✔ Propagates the belief that life begins “from the moment of conception.” This so-called
-“personhood” language could ban not only abortion, but also some forms of birth control and
-assisted fertility treatments like IVF.</li>
-  <li>✔ Claimed repeatedly that abortion is not health care and proposed removing the word abortion
-from every existing rule, regulation, contract, grant, and legislation.</li>
-  <li>✔ Would reverse the FDA approval of abortion pills.</li>
-  <li>✔ Want to reverse the FDA’s decision to lift medically unnecessary restrictions on medication
-abortion that made it more accessible.</li>
-<li>✔ Would ban federal funding for those forced to travel to access abortion care.</li>
-<li>✔ Prohibit Planned Parenthood from receiving Medicaid funds.</li>
-<li>✔ Urged Congress to pass a bill to defund Planned Parenthood.</li>
-<li>✔ Would not enforce federal law for hospitals to provide emergency abortion care as required by the
-Emergency Medical Treatment and Active Labor Act.</li>
-<li>✔ Wrote the Office of Refugee Resettlement should not be allowed to facilitate abortions for
-unaccompanied minors in their custody.</li>
-<li>✔ Pushed for the restoration of exemptions to the contraceptive coverage benefit in the ACA.</li>
-<li>✔ Said there is no authority to add male condoms to the contraceptive coverage benefit.</li>
-<li>✔ Seeks to exclude particular types of contraception from the ACA contraceptive coverage benefit
-by using mis- and disinformation about how contraception works.</li>
-<li>✔ Proposed replacing Reproductive Healthcare Access Task Force with an anti-abortion task force.</li>
-<li>✔ Research using human embryonic stem cells shouldn’t be subsidized with taxpayer money.</li>
-<li>✔ Would end human embryonic stem cell registry.</li>
-<li>✔ Would ban “three-parent embryo creation and human cloning research.”</li>
+  <li>Propagates the belief that life begins “from the moment of conception.” This so-called “personhood” 
+    language could ban not only abortion, but also some forms of birth control and assisted fertility 
+	treatments like IVF.</li>
+  <li>Claimed repeatedly that abortion is not health care and proposed removing the word abortion from 
+    every existing rule, regulation, contract, grant, and legislation.</li>
+  <li>Would reverse the FDA approval of abortion pills.</li>
+  <li>Want to reverse the FDA’s decision to lift medically unnecessary restrictions on medication 
+    abortion that made it more accessible.</li>
+  <li>Would ban federal funding for those forced to travel to access abortion care.</li>
+  <li>Prohibit Planned Parenthood from receiving Medicaid funds.</li>
+  <li>Urged Congress to pass a bill to defund Planned Parenthood.</li>
+  <li>Would not enforce federal law for hospitals to provide emergency abortion care as required by the 
+    Emergency Medical Treatment and Active Labor Act.</li>
+  <li>Wrote the Office of Refugee Resettlement should not be allowed to facilitate abortions for 
+    unaccompanied minors in their custody.</li>
+  <li>Pushed for the restoration of exemptions to the contraceptive coverage benefit in the ACA.</li>
+  <li>Said there is no authority to add male condoms to the contraceptive coverage benefit.</li>
+  <li>Seeks to exclude particular types of contraception from the ACA contraceptive coverage benefit 
+    by using mis- and disinformation about how contraception works.</li>
+  <li>Proposed replacing Reproductive Healthcare Access Task Force with an anti-abortion task force.</li>
+  <li>Research using human embryonic stem cells shouldn’t be subsidized with taxpayer money.</li>
+  <li>Would end human embryonic stem cell registry.</li>
+  <li>Would ban “three-parent embryo creation and human cloning research.”</li>
 </ul>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h3>LGBTQIA+</h3>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <ul style="list-style-type:none;">
-  <li>✔ Urged CDC to not collect gender identity data, which they call “destructive dogma.”</li>
-  <li>✔ Gender-affirming surgery should not be covered under Medicare or Medicaid.</li>
-  <li>✔ Faith-based adoption agencies should be allowed to discriminate against same-sex couples.</li>
-  <li>✔ Urged passage of legislation so adoption and foster care providers couldn’t be charged with 
+  <li>Urged CDC to not collect gender identity data, which they call “destructive dogma.”</li>
+  <li>Gender-affirming surgery should not be covered under Medicare or Medicaid.</li>
+  <li>Faith-based adoption agencies should be allowed to discriminate against same-sex couples.</li>
+  <li>Urged passage of legislation so adoption and foster care providers couldn’t be charged with 
     discrimination if they refuse to work with same-sex couples.</li>
-  <li>✔ Claimed children raised in same-sex marriages were more likely to be unstable.</li>
+  <li>Claimed children raised in same-sex marriages were more likely to be unstable.</li>
 </ul>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h3>Medicare</h3>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <ul style="list-style-type:none;">
-  <li>✔ Would repeal the provision in the IRA that allows Medicare to negotiate prescription drug prices.</li>
-  <li>✔ Would repeal Inflation Reduction Act and the Medicare Shared Savings Program.</li>
-  <li>✔ Proposed making Medicare Advantage the default enrollment option.</li>
-  <li>✔ Recommended using AI to reduce waste, fraud, and abuse.</li>
+  <li>Would repeal the provision in the IRA that allows Medicare to negotiate prescription drug prices.</li>
+  <li>Would repeal Inflation Reduction Act and the Medicare Shared Savings Program.</li>
+  <li>Proposed making Medicare Advantage the default enrollment option.</li>
+  <li>Recommended using AI to reduce waste, fraud, and abuse.</li>
 </ul>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h3>Medicaid</h3>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <ul style="list-style-type:none;">
-  <li>✔ Proposed CMS implement time limits or lifetime caps on benefits to “disincentivize permanent 
+  <li>Proposed CMS implement time limits or lifetime caps on benefits to “disincentivize permanent 
     dependence.”</li>
-  <li>✔ Urged CMS to “incentivize personal responsibility” and consumer choice for recipients.</li>
-  <li>✔ Should allow families to use Medicaid funding to obtain coverage outside of Medicaid.</li>
+  <li>Urged CMS to “incentivize personal responsibility” and consumer choice for recipients.</li>
+  <li>Should allow families to use Medicaid funding to obtain coverage outside of Medicaid.</li>
 </ul>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h3>Head Start</h3>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <ul style="list-style-type:none;">
-  <li>✔ Eliminate the federal Head Start program along with the entire Office of Head Start.</li>
+  <li>Eliminate the federal Head Start program along with the entire Office of Head Start.</li>
 </ul>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h3>Hurt Non-Traditional Families</h3>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <ul style="list-style-type:none;">
-  <li>✔ Repeal Biden administration policies they claim subsidize single-motherhood, disincentivize work, 
+  <li>Repeal Biden administration policies they claim subsidize single-motherhood, disincentivize work, 
     and penalize marriage.</li>
-  <li>✔ Would prioritize funding home-based childcare by parents or family in lieu of universal childcare.</li>
+  <li>Would prioritize funding home-based childcare by parents or family in lieu of universal childcare.</li>
 </ul>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h3>CDC</h3>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <ul style="list-style-type:none;">
-  <li>✔ Called CDC “most incompetent and arrogant agency in the federal government.”</li>
-  <li>✔ CDC should never again be allowed to say school children must be vaccinated or masked.</li>
-  <li>✔ Would decommission the CDC Foundation.</li>
-  <li>✔ Rescind legal analysis that allowed a moratorium on evictions during the pandemic.</li>
+  <li>Called CDC “most incompetent and arrogant agency in the federal government.”</li>
+  <li>CDC should never again be allowed to say school children must be vaccinated or masked.</li>
+  <li>Would decommission the CDC Foundation.</li>
+  <li>Rescind legal analysis that allowed a moratorium on evictions during the pandemic.</li>
 </ul>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h3>NIH</h3>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <ul style="list-style-type:none;">
-  <li>✔ Congress should consider block granting NIH’s grant budget to states.</li>
-  <li>✔ Would decommission the NIH Foundation.</li>
+  <li>Congress should consider block granting NIH’s grant budget to states.</li>
+  <li>Would decommission the NIH Foundation.</li>
 </ul>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h3>ACA</h3>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <ul style="list-style-type:none;">
-  <li>✔ Proposed removing restrictions on physician-owned hospitals that were imposed in ACA.</li>
-  <li>✔ Proposed separating insurance plans from subsidized ACA exchange from nonsubsidized market.</li>
+  <li>Proposed removing restrictions on physician-owned hospitals that were imposed in ACA.</li>
+  <li>Proposed separating insurance plans from subsidized ACA exchange from nonsubsidized market.</li>
 </ul>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h3>Abstinence</h3>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <ul style="list-style-type:none;">
-  <li>✔ Recommended people should delay sex to prevent pregnancy so they wouldn’t end up relying on
+  <li>Recommended people should delay sex to prevent pregnancy so they wouldn’t end up relying on
     TANF.</li>
-<li>✔ Argued teaching sex education to students would “promote prostitution, provide a funnel effect 
-  for abortion facilities and school field trips to clinics.”</li>
+  <li>Argued teaching sex education to students would “promote prostitution, provide a funnel effect 
+    for abortion facilities and school field trips to clinics.”</li>
 </ul>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h3>Abortion</h3>
@@ -2003,13 +2002,13 @@ and violates the conscience and religious freedom rights of Americans who object
 taking of life. The Hyde Amendment44 has long prohibited the use of HHS funds for elective abortions,
 but an August 2022 Biden executive order45 pressed the HHS Secretary to use his authority under
 Section 1115 demonstrations to waive certain provisions of the law in order to use taxpayer funds to
-achieve the Administration’s goal of helping women to travel out of state to obtain abortions. Moreover,
-the Department of Justice Office of Legal Counsel (DOJ OLC) issued a politicized legal opinion declaring,
-for the first time in the history of Hyde, that this action did not violate the Hyde Amendment and that Hyde
-applies only to the performance of the abortion itself in violation of the plainly broad language that
-Congress used. Two of the first actions of a pro-life Administration should be for HHS to withdraw the
-Medicaid guidance (and any Section 1115 waivers issued thereunder) and for DOJ OLC to withdraw and
-disavow its interpretation of the Hyde Amendment.” [Department of Health and Human Services, Chapter
+achieve the Administration’s goal of helping women to travel out of state to obtain abortions.</p>
+
+<p>Moreover, the Department of Justice Office of Legal Counsel (DOJ OLC) issued a politicized legal opinion 
+declaring, for the first time in the history of Hyde, that this action did not violate the Hyde Amendment 
+and that Hyde applies only to the performance of the abortion itself in violation of the plainly broad 
+language that Congress used. Two of the first actions of a pro-life Administration should be for HHS to withdraw the Medicaid guidance (and any Section 1115 waivers issued thereunder) and for DOJ OLC to withdraw 
+and disavow its interpretation of the Hyde Amendment.” [Department of Health and Human Services, Chapter 
 14, Project 2025, accessed 6/24/24]</p>
 
 <p>Project 2025 proposed a prohibition on Planned Parenthood receiving Medicaid funds. “Prohibit
@@ -2026,12 +2025,13 @@ Human Services, Chapter 14, Project 2025, accessed 6/24/24]</p>
 Telling states they could defund Planned Parenthood in their state Medicaid plans, and propose a
 rule that Medicaid funding should be disqualified to providers of elected abortion via Medicaid.
 “Policymakers should end taxpayer funding of Planned Parenthood and all other abortion providers and
-redirect funding to health centers that provide real health care for women. The bulk of federal funding for
-Planned Parenthood comes through the Medicaid program. HHS should take two actions to limit this
-funding: 1. Issue guidance reemphasizing that states are free to defund Planned Parenthood in their state
-Medicaid plans. 2. Propose rulemaking to interpret the Medicaid statute to disqualify providers of elective
-abortion from the Medicaid program.” [Department of Health and Human Services, Chapter 14, Project
-2025, accessed 6/24/24]</p>
+redirect funding to health centers that provide real health care for women.</p>
+
+<p>The bulk of federal funding for Planned Parenthood comes through the Medicaid program. HHS should take 
+two actions to limit this funding: 1. Issue guidance reemphasizing that states are free to defund Planned 
+Parenthood in their state Medicaid plans. 2. Propose rulemaking to interpret the Medicaid statute to 
+disqualify providers of elective abortion from the Medicaid program.” [Department of Health and Human 
+Services, Chapter 14, Project 2025, accessed 6/24/24]</p>
 
 <p>Project 2025 urged Congress to pass a bill that would defund “abortion providers such as
 Planned Parenthood.” “Congress should pass the Protecting Life and Taxpayers Act,50 which would
@@ -2052,8 +2052,9 @@ insurance for abortion in private insurance plans. “Withdraw Medicaid funds fo
 abortion insurance or that discriminate in violation of the Weldon Amendment. The Weldon
 Amendment51 declares that no HHS funding may go to a state or local government that discriminates
 against pro-life health entities or insurers. In blatant violation of this law, seven states require abortion
-coverage in private health insurance plans, and HHS continues to fund those states. HHS under
-President Trump disallowed $200 million in Medicaid funding from California because of the state’s
+coverage in private health insurance plans, and HHS continues to fund those states.</p>
+
+<p>HHS under President Trump disallowed $200 million in Medicaid funding from California because of the state’s
 flouting of the law, but the Biden Administration restored it. HHS/CMS should withdraw appropriated
 funding, up to and including 10 percent of Medicaid funds, from states that require abortion insurance
 coverage. DOJ should commit to litigating the defense of those funding decisions promptly to the
@@ -2065,7 +2066,9 @@ and Active Labor Act that protects physicians and hospitals that perform abortio
 necessary to stabilize a women’s health as “baseless” and said the guidance should be
 rescinded. “In July 2022, HHS/CMS released guidance mandating that EMTALA-covered hospitals and
 the physicians who work there must perform abortions, to include completing chemical abortions even
-when the child might still be alive. The guidance also declared that EMTALA would protect physicians and
+when the child might still be alive.</p>
+
+<p>The guidance also declared that EMTALA would protect physicians and
 hospitals that perform abortions in violation of state law if they deem those abortions necessary to
 stabilize the women’s health. This novel interpretation of EMTALA is baseless. EMTALA requires no
 abortions, preempts no pro-life state laws, and explicitly requires stabilization of the unborn child. HHS
@@ -2088,21 +2091,23 @@ elective abortions.” “Regardless of where ORR’s functions reside, ORR staf
 never be allowed to facilitate abortions for unaccompanied children in its custody, including by
 transporting minors across state lines from pro-life states to abortion-friendly states. Pregnant,
 unaccompanied girls in ORR custody should be treated with dignity, not trafficked across state lines to be
-victimized by the abortion industry. ORR should withdraw its policy of allowing elective abortions for
-children in ORR care and issue a new policy of instructing care providers not to allow girls to be
-transported for elective abortions. HHS OGC and the White House should insist that DOJ fight to defend
-that policy up to the U.S. Supreme Court in light of Dobbs.” [Department of Health and Human Services,
-Chapter 14, Project 2025, accessed 6/24/24]</p>
+victimized by the abortion industry.</p>
+
+<p>ORR should withdraw its policy of allowing elective abortions for children in ORR care and issue a new 
+policy of instructing care providers not to allow girls to be transported for elective abortions. HHS OGC 
+and the White House should insist that DOJ fight to defend that policy up to the U.S. Supreme Court in light 
+of Dobbs.” [Department of Health and Human Services, Chapter 14, Project 2025, accessed 6/24/24]</p>
 
 <p>Project 2025 urged the next administration to allow employers to refuse to comply with the
 contraceptive coverage benefit in the ACA based on “religious and moral exemptions”. “Restore
 Trump religious and moral exemptions to the contraceptive mandate (also a CMS rule). HHS should
 rescind, if finalized, the regulation titled ‘Coverage of Certain Preventive Services Under the Affordable
-Care Act,’ proposed jointly by HHS, Treasury, and Labor.70 This rule proposes to amend Trump-era final
-rules regarding religious and moral exemptions and accommodations for coverage of certain preventive
-services under the ACA. Preventive services include contraception, and it appears the proposed rule
-would change the existing regulations for religious and moral exemptions to the ACA’s contraception
-mandate. There is no need for further rulemaking that curtails existing exemptions and accommodations.”
+Care Act,’ proposed jointly by HHS, Treasury, and Labor.70</p>
+
+<p>This rule proposes to amend Trump-era final rules regarding religious and moral exemptions and accommodations 
+for coverage of certain preventive services under the ACA. Preventive services include contraception, and it 
+appears the proposed rule would change the existing regulations for religious and moral exemptions to the ACA’s 
+contraception mandate. There is no need for further rulemaking that curtails existing exemptions and accommodations.”
 [Department of Health and Human Services, Chapter 14, Project 2025, accessed 6/24/24]</p>
 
 <p>Project 2025 urged HHS to rescind its contract with the American College of Obstetricians and
@@ -2236,14 +2241,15 @@ Project 2025, accessed 6/24/24]</p>
 pregnancy to cover abortion should be reversed in all HHS and CMS programs.” “Under the
 proposed rule, sex is redefined: ‘Discrimination on the basis of sex includes, but is not limited to,
 discrimination on the basis of sex stereotypes; sex characteristics, including intersex traits; pregnancy or
-related conditions; sexual orientation; and gender identity.’59 In other words, the department proposes to
-interpret Section 1557 as if it created special privileges for new classes of people, defined in ways that
-are highly ideological and unscientific. The redefinition of sex to cover gender identity and sexual
-orientation and pregnancy to cover abortion should be reversed in all HHS and CMS programs as was
-done under the Trump Administration. This includes the Children’s Health Insurance Program (CHIP).
-Low-income families who rely on CHIP should not be coerced, pressured, or otherwise encouraged to
-embrace this ideologically motivated sexualization of their children.” [Department of Health and Human
-Services, Project 2025, accessed 6/24/24]</p>
+related conditions; sexual orientation; and gender identity.’59</p>
+
+<p>In other words, the department proposes to interpret Section 1557 as if it created special privileges 
+for new classes of people, defined in ways that are highly ideological and unscientific. The redefinition 
+of sex to cover gender identity and sexual orientation and pregnancy to cover abortion should be reversed 
+in all HHS and CMS programs as was done under the Trump Administration. This includes the Children’s Health 
+Insurance Program (CHIP). Low-income families who rely on CHIP should not be coerced, pressured, or otherwise 
+encouraged to embrace this ideologically motivated sexualization of their children.” [Department of Health and 
+Human Services, Project 2025, accessed 6/24/24]</p>
 
 <p>Project 2025 argued that faith-based adoption agencies should be allowed to discriminate against
 same-sex couples “due to their religious belief that a child should have a married mother and
@@ -3859,59 +3865,59 @@ Project 2025, accessed 6/24/24]</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h4>Top Lines</h4>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<h3>DHS</h3>
+<h4>DHS</h4>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <ul style="list-style-type:none;">
-  <li>✔ Would “dismantle the Department of Homeland Security.”</li>
-  <li>✔ Would privatize the TSA.</li>
-  <li>✔ Privatize FEMA’s National Flood Insurance Program, leaving majority of responsibility to 
+  <li>Would “dismantle the Department of Homeland Security.”</li>
+  <li>Would privatize the TSA.</li>
+  <li>Privatize FEMA’s National Flood Insurance Program, leaving majority of responsibility to 
     states and localities.</li>
-  <li>✔ Eliminate most DHS grant programs.</li>
-  <li>✔ Remove all DHS unions</li>
-  <li>✔ Eliminate DHS Office of Intelligence and Analysis.</li>
-  <li>✔ Argued for the circumvention of Senate-confirmed appointments by placings nominees for key 
+  <li>Eliminate most DHS grant programs.</li>
+  <li>Remove all DHS unions</li>
+  <li>Eliminate DHS Office of Intelligence and Analysis.</li>
+  <li>Argued for the circumvention of Senate-confirmed appointments by placings nominees for key 
     positions in an “Acting” capacity.</li>
-  <li>✔ Replacing the entirety of the Homeland Security Advisory Committee Immigration.</li>
-  <li>✔ Restart and expand horseback-mounted border patrol.</li>
-  <li>✔ Recommended not increasing H-2B visas above a set cap.</li>
-  <li>✔ Eliminate T and U visas because “victimization should not be a basis for an immigration benefit.”</li>
-  <li>✔ ICE should have a “significant increase in detention space.”</li>
-  <li>✔ Repeal of diversity visa lottery and chain migration.</li>
-  <li>✔ Called for repeal of Temporary Protected Status designations.</li>
-  <li>✔ Being a victim or being in fear of gang violence and domestic violence should not be grounds for 
+  <li>Replacing the entirety of the Homeland Security Advisory Committee Immigration.</li>
+  <li>Restart and expand horseback-mounted border patrol.</li>
+  <li>Recommended not increasing H-2B visas above a set cap.</li>
+  <li>Eliminate T and U visas because “victimization should not be a basis for an immigration benefit.”</li>
+  <li>ICE should have a “significant increase in detention space.”</li>
+  <li>Repeal of diversity visa lottery and chain migration.</li>
+  <li>Called for repeal of Temporary Protected Status designations.</li>
+  <li>Being a victim or being in fear of gang violence and domestic violence should not be grounds for 
     asylum and the standard for a credible fear of prosecution should be raised.</li>
-  <li>✔ Congress should authorize state and local law enforcement to participate in immigration and 
+  <li>Congress should authorize state and local law enforcement to participate in immigration and 
     border enforcement.</li>
-  <li>✔ Congress should restrict authority for prosecutorial discretion for immigration enforcement.</li>
-  <li>✔ Eliminate the Office of the Immigration Detention Ombudsman.</li>
-  <li>✔ The Office of the Citizenship and Immigration Services Ombudsman should be eliminated.</li>
-  <li>✔ Would work with Education Department to deny loan access to students at schools that provide 
+  <li>Congress should restrict authority for prosecutorial discretion for immigration enforcement.</li>
+  <li>Eliminate the Office of the Immigration Detention Ombudsman.</li>
+  <li>The Office of the Citizenship and Immigration Services Ombudsman should be eliminated.</li>
+  <li>Would work with Education Department to deny loan access to students at schools that provide 
     in-state tuition to undocumented immigrants.</li>
 </ul>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<h3>FEMA</h3>
+<h4>FEMA</h4>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <ul style="list-style-type:none;">
-  <li>✔ Raise the threshold at which states and localities are eligible for FEMA assistance.</li>
-  <li>✔ Recommend federal government cover 25% of costs for small disasters, with a ceiling of 
+  <li>Raise the threshold at which states and localities are eligible for FEMA assistance.</li>
+  <li>Recommend federal government cover 25% of costs for small disasters, with a ceiling of 
     75% for those that are “truly catastrophic.”</li>
-  <li>✔ NFIP should be wound down and replaced with private insurance.</li>
+  <li>NFIP should be wound down and replaced with private insurance.</li>
 </ul>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<h3>Secret Service</h3>
+<h4>Secret Service</h4>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <ul style="list-style-type:none;">
-  <li>✔ Would have USSS keep visitor logs for anywhere president works or resides.</li>
-  <li>✔ Recommend all agents outside Washington, DC be transferred to ICE field offices.</li>
+  <li>Would have USSS keep visitor logs for anywhere president works or resides.</li>
+  <li>Recommend all agents outside Washington, DC be transferred to ICE field offices.</li>
 </ul>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<h3>TSA</h3>
+<h4>TSA</h4>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <ul style="list-style-type:none;">
   <li>✔ Force TSA’s workforce to deunionize until it is privatized.</li>
 </ul>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<h3>Eliminate DHS</h3>
+<h4>Eliminate DHS</h4>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p>Project 2025 recommended that the next president “pursue legislation to dismantle the
 Department of Homeland Security.” “Our primary recommendation is that the President pursue
@@ -4000,7 +4006,7 @@ state, local, tribal, and territorial governments as well as to private-sector e
 and unclassified levels where appropriate.” [Department of Homeland Security, Project 2025, accessed
 6/24/24]</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<h3>Personnel</h3>
+<h4>Personnel</h4>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p>Project 2025 said DHS’s functions would improve if the next Secretary had their own dedicated
 team of political appointees selected and vetted by OPP. “Expansion of Dedicated Political Personnel.
@@ -4050,7 +4056,7 @@ the Secretary should clear the records and personnel files of those who were fal
 Secretary Alejandro Mayorkas of whipping migrants and issue a formal apology on behalf of DHS and
 CBP.” [Department of Homeland Security, Project 2025, accessed 6/24/24]</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<h3>Immigration</h3>
+<h4>Immigration</h4>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p>Project 2025 recommended not increasing the number of H-2B visas above a statutorily set cap
 and they should not have regulations supporting the H-2 eligible country list. “The Secretary should
@@ -4252,7 +4258,6 @@ students at schools that provide in-state tuition to undocumented immigrants. �
 Education: Deny loan access to those who are not U.S. citizens or lawful permanent residents, and deny
 loan access to students at schools that provide in-state tuition to illegal aliens.” [Department of Homeland
 Security, Project 2025, accessed 6/24/24]</p>
-
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h3>FEMA</h3>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
@@ -4352,48 +4357,48 @@ accessed 6/24/24]</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h4>Top Lines</h4>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<h3>Military Recruitment and Personnel</h3>
+<h4>Military Recruitment and Personnel</h4>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <ul style="list-style-type:none;">
-  <li>✔ HIV-positive service members should be removed.</li>
-  <li>✔ Service members “with gender dysphoria should be expelled from military service.”</li>
-  <li>✔ Reverse policies allowing transgender individuals from serving in the military.</li>
-  <li>✔ Abolish teaching of Critical Race Theory and DEI offices and staff.</li>
-  <li>✔ Eliminate tenure for academic professionals at military academies.</li>
-  <li>✔ Eliminate every USMC law enforcement battalion.</li>
+  <li>HIV-positive service members should be removed.</li>
+  <li>Service members “with gender dysphoria should be expelled from military service.”</li>
+  <li>Reverse policies allowing transgender individuals from serving in the military.</li>
+  <li>Abolish teaching of Critical Race Theory and DEI offices and staff.</li>
+  <li>Eliminate tenure for academic professionals at military academies.</li>
+  <li>Eliminate every USMC law enforcement battalion.</li>
 </ul>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h3>Anti-Abortion</h3>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <ul style="list-style-type:none;">
-  <li>✔ Ban using public funds to facilitate abortion for servicemembers.</li>
+  <li>Ban using public funds to facilitate abortion for servicemembers.</li>
 </ul>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h3>China</h3>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <ul style="list-style-type:none;">
-  <li>✔ Want to make defeating the Chinese Communist Party the highest foreign policy/defense 
+  <li>Want to make defeating the Chinese Communist Party the highest foreign policy/defense 
     priority.</li>
-  <li>✔ Economic engagement with China should be ended.</li>
-  <li>✔ TikTok should be outlawed.</li>
-  <li>✔ Any university that takes money from China should lose their accreditation and eligibility 
+  <li>Economic engagement with China should be ended.</li>
+  <li>TikTok should be outlawed.</li>
+  <li>Any university that takes money from China should lose their accreditation and eligibility 
     to receive federal funding.</li>
 </ul>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h3>Nuclear Capacity</h3>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <ul style="list-style-type:none;">
-  <li>✔ Recommends expanding and modernizing the U.S. nuclear arsenal.</li>
-  <li>✔ Accelerate efforts to restore plutonium pit production and investments in the National 
+  <li>Recommends expanding and modernizing the U.S. nuclear arsenal.</li>
+  <li>Accelerate efforts to restore plutonium pit production and investments in the National 
     Laboratories facilities to support nuclear weapon development.</li>
 </ul>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h3>Alliances</h3>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <ul style="list-style-type:none;">
-  <li>✔ Transform NATO so American allies are capable of fielding the majority of conventional 
+  <li>Transform NATO so American allies are capable of fielding the majority of conventional 
     forces while the U.S. would serve as primarily a nuclear deterrent.</li>
-  <li>✔ Want to increase U.S. foreign military sales.</li>
+  <li>Want to increase U.S. foreign military sales.</li>
 </ul>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h3>Military Recruitment and Personnel</h3>
@@ -6118,8 +6123,8 @@ accessed 6/24/24]</p>
 <ul style="list-style-type:none;">
   <li>✔ Project 2025 calls for the elimination of the office for Diversity, Equity, Inclusion 
     and Accessibility as well as the Counselor for Racial Equity, and the Advisory Committee on 
-	Racial Equity within the Treasury Department, and the eradication of any DEI practices at 
-	Treasury.</li>
+    Racial Equity within the Treasury Department, and the eradication of any DEI practices at 
+    Treasury.</li>
 </ul>
 
 <p>Project 2025 proposes regressive tax rates that cost ordinary working Americans more and billionaires
@@ -6773,13 +6778,13 @@ of Housing and Urban Development, Project 2025, accessed 6/24/24]</p>
 <ul style="list-style-type:none;">
   <li>● First time homebuyer qualifications include:
     <ul style="list-style-type:none;">
-	  <li>○ Credit score of at least 620</li>
-	  <li>○ Down payment of at least 3%</li>
-	  <li>○ Debt-to-income ratio below 43%</li>
-	  <li>○ Steady income</li>
-	  <li>○ Two-year job history</li>
-	  <li>○ Clean credit history</li>
-	</ul>
+      <li>○ Credit score of at least 620</li>
+      <li>○ Down payment of at least 3%</li>
+      <li>○ Debt-to-income ratio below 43%</li>
+      <li>○ Steady income</li>
+      <li>○ Two-year job history</li>
+      <li>○ Clean credit history</li>
+    </ul>
   </li>
 </ul>
 
