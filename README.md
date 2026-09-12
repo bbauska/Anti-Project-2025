@@ -193,6 +193,7 @@ general officers.</li>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h3>Puts Americans in Greater Danger</h3>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<ul>
   <li>Destabilizes the Economy: Compromises the autonomy, professionalism and
 effectiveness of the civil service and independent agencies like the Federal Reserve and FCC
 which are responsible for protecting the stability of our economy through durable governing
@@ -219,7 +220,7 @@ Americans to pay for weather data and restrict access to life-saving weather ale
 protections, and sell off federally protected public lands to the highest bidder. It also
 disbands the Environmental Protection Agency, undermining clean air and water
 protections.</li>
-<ul>
+</ul>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h3>Backers and Authors</h3>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
