@@ -1,212 +1,201 @@
-/* bbauska/Anti-Project2025/css/styles.css for Anti-Project-2025.bauska.org */
-img.displayed {
-  display: block;
-  margin: 0 auto; 
+/* ./css/style.css of Anti-Project-2025 for Anti-Project-2025.bauska.org */
+* {
+  box-sizing: border-box;
 }
-.border {
-  border-width: 1px;
-  border-color: #778899;  /* dark grayish blue */
-  border-style: solid; 
-}
-
-ul li {
-  font-size: 14.5px;
-  font-family: Bahnschrift, Inter, Helvetic, sans-serif;
-  padding: 14.5px;  /* 14.5px */
-  line-height:110%;
-}
-ol li {
-  font-size: 14.5px;
-  font-family: Bahnschrift, Inter, Helvetic, sans-serif;
-  padding: 14.5px;  /* 14.5px */
-  line-height:110%;
-}
-
-p { 
-  font-size: 14.5px;
-  font-family: Bahnschrift, Inter, Helvetic, sans-serif;
-  text-align: left;
-  margin-left: 10px;  /* 10px */
-}
-
-a:link {
-  color: #013220;  /* Very dark (mostly black) cyan - lime green */
-  background-color: transparent;
-  text-decoration: none;
-}
-a:visited {
-  color: #037d50;  /* dark cyan - lime green */
-  background-color: transparent;
-  text-decoration: none;
-}
-a:hover {
-  color: #000000;  /* black */
-  background-color: #ffff00;  /* pure (or mostly pure) yellow */
-  text-decoration: underline;
-}
-a[href]:hover {
-  text-decoration: underline; 
-  text-decoration-color: #0000ff;  /* pure (or mostly pure) blue */
-}
-
-div {
-  float: left;
-}
-
-h1 {
-  font-size: 21px;
-  font-family: Bahnschrift, Inter, Helvetic, sans-serif, Consolas;
-  text-align: center;
-}
-h2 {
-  font-size: 18px;
-  font-family: Bahnschrift, Inter, Helvetic, sans-serif, Consolas;
-  margin-left: 15px;  /* 10px */
-}
-h3 {
-  font-size: 17px;
-  font-family: Bahnschrift, Inter, Helvetic, sans-serif, Consolas;
-  margin-left: 15px;
-}
-h4 { 
-  font-size: 16px;
-  font-family: Bahnschrift, Inter, Helvetic, sans-serif, Consolas; 
-  margin-left: 15px;
-}
-h5 { 
-  font-size: 15px;
-  font-family: Bahnschrift, Inter, Helvetic, sans-serif, Consolas; 
-  margin-left: 15px;
-}
-h6 { 
-  font-size: 10px;
-  font-family: Bahnschrift, Inter, Helvetic, sans-serif;
-  margin-left: 15px;
-}
-
-details {
-  font: 14.5px Bahnschrift, Inter, sans-serif, Calibri;  /* 14px */
-  width: 65%;  /* 65%, max-content */
-}
-details > summary {
-  padding: 2px 6px;
-  width: 12em;  /* 12em; */
-  background-color: #eee;  /* very light gray */
-  border: none;
-  box-shadow: 3px 3px 4px #00008b;  /* dark blue */
-  cursor: pointer;
-  margin-left: 10px;  /* 15px */
-}
-details > p {
-  border-radius: 0 0 10px 10px;
-  background-color: #fff;  /* white */
-  padding: 2px 6px;
-  margin: 0;
-  box-shadow: 3px 3px 4px #00008b;  /* dark blue */
-}
-details[open] > summary {
-  background-color: #ffff00;  /* pure (or mostly pure) yellow */
-}
-
-background: linear-gradient(60deg, #3d3393 0%, #2b76b9 37%, #2cacd1 65%, #35eb93 100%)
-
 body {
-  font-family: Bahnschrift, Inter, Helvetic, sans-serif;
-  font-size: 13.5px;  /* 14.5, 1.2rem; */
-  background-color: #eee;  /* very light gray */
-  color: #000;  /* black */
-  text-align: left;
-  padding: 10px;
-  margin: 10px;  /* was margin-left: 15px; */
+  margin: 0;
+  position: relative;
+  z-index: 1;
+  font-family: "IM Fell DW Pica", serif;
+}
+h1,h2,h3,h4,h5,h6,p {
+  margin: 0;
+}
+p {
+  margin: 1rem 0 0.5rem;
+  font-size: 18px;
+  line-height: 1.3;
 }
 
-#myBtn {
-  display: none;
+@media (min-width: 768px) {
+  p {
+    font-size: 20px;
+    line-height: 1.4;
+  }
+}
+
+article {
+  padding: 0 1rem 60px;
+  max-width: 768px;
+  margin: auto;
+}
+.uppercase {
+  text-transform: uppercase;
+}
+.italic {
+  font-style: italic;
+}
+.masthead {
+  padding: 0.5rem 1rem;
+  background-color: #222;
+  color: white;
   position: fixed;
-  bottom: 20px;
-  right: 30px;
-  z-index: 99;
-  font-size: 11px;
-  border: none;
-  outline: none;
-  background-color: #8b0000;  /* dark red */
-  color: #fdfeff;  /* very pale (mostly white) blue */
-  cursor: pointer;
-  padding: 10px;
-  border-radius: 1px;
+  top: 0;
+  left: 0;
+  width: 100%;
 }
-#myBtn:hover {
-  background-color: #555;  /* very dark gray */
-}
-
-pre > code {
-  display: block;
-  margin-left: 15px;  /* 10px */
-  padding: 1rem;
-  word-wrap: normal;
-}
-pre {
-  font:normal normal 10px/12px consolas,Courier,Monospace;
-  background-color:#eee;
-  overflow:auto;
-  margin:0 0 1em;
-  padding:.5em 1em;
-  white-space: pre-wrap;
-  overflow-x: auto;
-}
-pre code,
-pre .line-number {
-  /* Ukuran line-height antara teks di dalam tag <code> dan <span class="line-number"> harus sama! */
-  font:normal normal 10px/12px consolas,Courier,Monospace;
-  color:#000;
-  display:block;
-}
-pre .line-number {
-  font:normal normal 10px/12px consolas,Courier,Monospace;
-  float:left;
-  margin:0 1em 0 -1em;
-  border-right:1px solid;
-  text-align:right;
-  color: #ff0000;  /* pure (or mostly pure) red */
-}
-pre .line-number span {
-  display:block;
-  padding:0 .5em 0 1em;
-}
-pre .cl {
-  display:block;
-  clear:both;
-}
-pre {
-  width: 450px;
-  overflow: auto;
-}
-pre[href]:hover  {
+.masthead a {
+  color: white;
   text-decoration: none;
 }
-pre:hover, pre:focus { 
-  width: 450px; 
+#branding {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+#branding h1 {
+  font-size: 0.9rem;
+  font-weight: 400;
+  text-transform: uppercase;
+  margin-right: 1rem;
+}
+#branding h2 {
+  font-size: 0.9rem;
+  font-weight: 400;
 }
 
-th, td {
-  border: 1px solid #000;
-}
-table {
-  border-collapse: collapse;
-  margin-left: 10px;  /* 15px; */
-  border: 1px solid #000;
-}
-
-@media all and (max-width: 500px) {
-  img.frame { 
-    border-width: 0px;
-    width: 100%; }
-}
-@media screen and (max-width: 900px) and (min-width: 600px), (min-width: 1100px) {
-  div.example {
-    font-size: 50px;
-    padding: 50px;
-    border: 8px solid #000;  /* black */
-    background: #ffff00;  /* pure (or mostly pure) yellow */
+@media (min-width: 900px) {
+  #branding {
+    justify-content: flex-start;
   }
+}
+
+.nav-trigger {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: #ddd;
+  position: fixed;
+  bottom: 0;
+  left: 0;
+  width: 100%;
+  z-index: 50;
+}
+.nav-trigger ul {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+}
+.nav-trigger ul li {
+  padding: 0.5rem 0 0;
+}
+.nav-trigger a {
+  font-size: 1.3rem;
+  color: black;
+}
+
+@media (min-width: 900px) {
+  .nav-trigger {
+    position: fixed;
+    width: 5vw;
+    top: 0;
+    left: 94vw;
+    margin: 0;
+    padding: 0;
+    height: 2.1rem;
+  }
+}
+
+.chapter-masthead {
+  text-align: center;
+  padding-top: 2rem;
+}
+.chapter-heading {
+  font-size: 2rem;
+  padding: 2rem 0 1rem;
+}
+.chapter-sub {
+  padding-bottom: 1rem;
+  text-transform: uppercase;
+  font-size: 0.9rem;
+}
+.chapter-sub2 {
+  padding-bottom: 1rem;
+  font-size: 0.9rem;
+}
+#main-menu {
+  background: #eee;
+  text-align: center;
+  padding: 2rem 0 0;
+  margin-bottom: 2rem;
+  height: 40vh;
+  position: fixed;
+  bottom: 0;
+  left: 0;
+  width: 100%;
+  overflow-y: auto;
+  box-shadow: 0px 0px 10px 0px rgba(0, 0, 0, 0.15);
+  z-index: 10;
+}
+#main-menu ul {
+  list-style: none;
+  padding: 0;
+  display: block;
+}
+#main-menu ul li {
+  padding: 0.5rem 0;
+}
+#main-menu ul li a {
+  text-decoration: none;
+  color: #222;
+}
+
+@media (min-width: 900px) {
+  #main-menu {
+    top: 0;
+    left: 75vw;
+    height: 100vh;
+    width: 25vw;
+    padding: 4rem 0 0 0;
+    font-size: 1.3rem;
+  }
+}
+@media (min-width: 1368px) {
+  #main-menu {
+    left: 80vw;
+    width: 20vw;
+  }
+}
+
+.menu-heading {
+  font-size: 1rem;
+  text-transform: uppercase;
+}
+.intro {
+  background-image: url(../images/Flying_Saucer_Conspiracy-2.jpg);
+  background-size: cover;
+  background-position: center;
+  height: 100vh;
+}
+
+@media (min-width: 768px) {
+  .intro {
+    background-image: url(../images/Flying_Saucer_Conspiracy.jpg);
+    background-position: center 20%;
+  }
+}
+
+.poem p {
+  font-size: 1.1rem;
+}
+
+/* promote first letter of 1st paragraph */
+p:first-of-type {
+  text-indent: 0;
+}
+p:first-of-type:first-letter {
+  float: left;
+  font: 700 3em/0.65 'Playfair Display', sans-serif;
+  padding: 0.15em 0.05em 0 0;
+  text-transform: uppercase;
 }
