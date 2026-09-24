@@ -1,6 +1,6 @@
 <!-- index.html for stop-project-2025.bauska.org -->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<h1>Subject-by-Subject Breakdown of Trump’s Project 2025</h2>
+<h1>Subject-by-Subject Breakdown of STOPPING Trump’s Project 2025</h2>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p>Project 2025 is the blueprint for Trump and MAGA Republicans to gut checks and balances so that
 they can take over the government, impose their agenda, and control every American. They plan
