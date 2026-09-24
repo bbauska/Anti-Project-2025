@@ -67,9 +67,9 @@ administration academy questionnaire can be found here.</p>
 <p>In their own words, Project 2025 has four main goals to shape America’s future:</p>
 <ul>
   <li>Restore the family as the centerpiece of American life and protect our children</li>
-  <li>Dismantle the administrative state</li>
-  <li>Defend our nation’s sovereignty, border, and bounty against global threats</li>
-  <li>Secure God-given individual rights to live freely</li>
+  <li>Dismantle the administrative state (YOU)</li>
+  <li>Defend our nation’s sovereignty, border, and bounty against global threats (imagined or otherwise)</li>
+  <li>Secure God-given individual rights to live freely (whatever the fuck that means)</li>
 </ul>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h3>Summary of Policy Agenda</h3>
