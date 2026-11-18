@@ -172,7 +172,7 @@ article {
   text-transform: uppercase;
 }
 .intro {
-  background-image: url(../images/Anti-Proj2025.jpg);
+  background-image: url(../images/anti-proj2025.jpg);
   background-size: cover;
   background-position: center;
   height: 100vh;
@@ -180,7 +180,7 @@ article {
 
 @media (min-width: 768px) {
   .intro {
-    background-image: url(../images/Anti-Proj2025.jpg);
+    background-image: url(../images/anti-proj2025.jpg);
     background-position: center 20%;
   }
 }
